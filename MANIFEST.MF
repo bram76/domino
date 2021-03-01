@@ -1,0 +1,7835 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (MT)
+
+Name: assets/remi_res/remi_result.png
+SHA1-Digest: AS/zP5b1TFibFkBqQvqBhvgx5cc=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num2.png
+SHA1-Digest: K7ChUaZbXWatGZLpPTWJ0NKt6oY=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_cm_num.png
+SHA1-Digest: eczDLozSdOCyQ+wc7zYO4SBK/r0=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpzdts.json
+SHA1-Digest: makc/K5j8AtaJlEProaTa/4SQKE=
+
+
+Name: assets/hw_common_res/comm_msg_box_res.plist
+SHA1-Digest: KCco3BCPBiJNhUls20PDqJCZJeY=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_pl_num.png
+SHA1-Digest: 46KxpHeq6vqf6IJAc6CV/rrmBDk=
+
+
+Name: assets/sangong_res/SG_game_logo.png
+SHA1-Digest: 01eB8WWgmuKheEB28tHQ9aAR0xw=
+
+
+Name: assets/sound/dzpk_sound_deal.mp3
+SHA1-Digest: 0aqr1SPIwADuInqryx/1AtM3vRU=
+
+
+Name: assets/slot_common_res/slot_base_loading_ui.png
+SHA1-Digest: kiaczsPmqdA063bUHnAOnXfERPw=
+
+
+Name: assets/rule_jlbet_0.conf
+SHA1-Digest: GkNCBA8THq7CMEZgCoI2L+wcAhs=
+
+
+Name: assets/lobby/word2/lobby_game_name_res.png
+SHA1-Digest: 9u0tQf082rH6yPCk3grgJhRzyTg=
+
+
+Name: assets/domino_res/DG_game_icon_sp_num.png
+SHA1-Digest: yImQ9nsNhE0kw0A9pxkMgjQMcas=
+
+
+Name: assets/hw_common_res/dmn_tx_show_2.png
+SHA1-Digest: rgptVEc0h8mF3JDEAUXk1QcDCao=
+
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: 8TE+/7Fe+mpVFRUjkb/Z9vj+xJE=
+
+
+Name: assets/lobby/DG_loading_bg.jpg
+SHA1-Digest: i95CaUXjmE1Jbq+UKwMsVnk5OBg=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_UI.png
+SHA1-Digest: WEXQZr+KGl2ylaw/hrRoC2xHhj4=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: pUh1yzyRb6c3D0mL7cI4wKExeTI=
+
+
+Name: assets/sangong_res/SG_result_jf_less.png
+SHA1-Digest: UZ7VOOg0jN7TtELusBtqRmyzJBw=
+
+
+Name: assets/hw_common_res/dmn_player_mask.png
+SHA1-Digest: cj6YDy3PS5IbzvsLPo69i+WOzZw=
+
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: j2aaTI/cfoBvSEPzJ6RhuAR6V3U=
+
+
+Name: assets/sangong_res/game_text_20_2.conf
+SHA1-Digest: 4vddSeOaEwf32OMS/Hx3UTiGwTI=
+
+
+Name: assets/capasasusun_res/DG_ssz_jbp_bg_num.png
+SHA1-Digest: iVEfM1pevxmURSY12OvvGI9SLWQ=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jbpxrw.png
+SHA1-Digest: ngIneN+cpclLT67TjRPeRaRrbOM=
+
+
+Name: assets/lobby_advertising.conf
+SHA1-Digest: E8S9H+nyRTaFdA0jD3YnNUHFN4I=
+
+
+Name: assets/lobby_base_info.conf
+SHA1-Digest: MJHaYzXyCpUX5YwJGTp6aoFV2hA=
+
+
+Name: assets/texasholdem_res/dzpk_bg_hg.png
+SHA1-Digest: yEes2+mDjlyifQnzz4IxG5FNch0=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jbp.skel
+SHA1-Digest: WNPhof6vrK5zjPUHiVTw5+Td9Pg=
+
+
+Name: assets/rule_dam_2.conf
+SHA1-Digest: 7aeYOPAb0ZSChRSOdOAqHsPrTHo=
+
+
+Name: assets/slot_common_res/sound/game_loading.mp3
+SHA1-Digest: 4gJR1RJNs1gxmYlQdtIc7cqTEkE=
+
+
+Name: assets/lobby/font_num/DG_xf_fjxzs_num.fnt
+SHA1-Digest: i9D9DoSKOkKIWrU67Vr4wbFNWjI=
+
+
+Name: assets/cangkulan_res/ckl_game_rw_num.png
+SHA1-Digest: wFt9R1BXodaGx/MlF+mmJo+SYKk=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: x44uUsdD5wnS8x1uTf9WTb3Fux4=
+
+
+Name: assets/lobby/DG_hy_gift_bg.png
+SHA1-Digest: r0bn4DhXhe/czb8qOxwp960km0s=
+
+
+Name: assets/luaSrc/luaCocos/cocos/init.lua
+SHA1-Digest: LcsM26PV90kfc4AG2b+hyPtPgHs=
+
+
+Name: assets/slot_common_res/slot_base_bottom_ui.plist
+SHA1-Digest: pA6tqlWd5Psg/4Cr32f28A2bNpY=
+
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 08nYkofkFxe3+OlvK9ayitQoSX8=
+
+
+Name: assets/lobby/font_num/DG_rank_jl_NO123_pz_num.png
+SHA1-Digest: mzQP//nb9c8UwyIcGJyRMQVFesg=
+
+
+Name: res/drawable/com_facebook_button_icon.xml
+SHA1-Digest: /QPA5ovH4rqqNt8Z9/fTSjU+Nsw=
+
+
+Name: assets/slot_dfdc_res/dfdc_freespins_num.png
+SHA1-Digest: 7T8/CsthAJTAObejRmS7d3rfHds=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 99GkU44EvefOaxLCiFW5KAUEIJQ=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sq.png
+SHA1-Digest: gWXiWaNko0FxSW7N3rMzFOD42Oc=
+
+
+Name: assets/draughts_res/fnt/Dam_result_VS_num.fnt
+SHA1-Digest: XLyvjv++oXDMUQHaCjzsLp/5ZVY=
+
+
+Name: assets/lobby/font_num/DG_vip_jdt_num.fnt
+SHA1-Digest: O5xXzGnX7VpTl6b0xSJBciDL/ks=
+
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: sFa+pOk1aB+Inmn1VSPXVimn960=
+
+
+Name: assets/rule_cangkulan_1.conf
+SHA1-Digest: rUXgIyCEgyYcBPbqdXeF/JxLl3c=
+
+
+Name: assets/cangkulan_res/ckl_sf_winner_icon_num.png
+SHA1-Digest: mckkw1pBwXWz1hjzIJgbqdDfwZ4=
+
+
+Name: assets/lobby/font_num/DG_lb_info.png
+SHA1-Digest: 1OjAg3FLkmEB6Dfu3v3Opr3Sy3A=
+
+
+Name: assets/lobby/font_num/DG_yqyl_num.fnt
+SHA1-Digest: Oc9JngOfGoAjDMjWLyRqriqCHJc=
+
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: XWFpBujiQOzzBV7Lcb+nV03v0kQ=
+
+
+Name: assets/slot_dfdc_res/bg_free_1.jpg
+SHA1-Digest: rH8hOVxrGQZRGN2sbEMZQ/a9Of8=
+
+
+Name: assets/hw_common_res/DG_game_btn_mg_num.png
+SHA1-Digest: NzzEwo64+X17H+RiK2Nysch0lRM=
+
+
+Name: assets/kartu41_res/K41_result.png
+SHA1-Digest: 0eD7Tm8sLZ8od97vJYOexbCNRsE=
+
+
+Name: assets/draughts_res/Dam_baseui.plist
+SHA1-Digest: 03HFEphqW9CXOPytky1G/Ppr0f4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UIEditBox.lua
+SHA1-Digest: KfrZ2gbrhB3I34dP3Jrt1GZHiBQ=
+
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: hmCazAiufevbgLIsep25litY6uw=
+
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 34/BHr2WudsZR6oOAFDmPiDC6/w=
+
+
+Name: assets/rule_kamar5kartu_2.conf
+SHA1-Digest: Qf1iJ/jNB8z6HpL7P/DcBeFNpmw=
+
+
+Name: assets/sound/coinfly.mp3
+SHA1-Digest: 1X5x+ixTXHfBpIyxrfht0Plc/Lo=
+
+
+Name: assets/domino_res/DG_rw_dp_bouble_num.png
+SHA1-Digest: trb3MtmLl19PEFEGcZ/A07UawZI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_txtx.json
+SHA1-Digest: X5NjKb+j4Pkv6WZdHNMwnCUKY/I=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_6_b.png
+SHA1-Digest: KI3b/RgBrkclkqxO5oacxHQY9Rw=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: RMyXK+FyPHHFR02cRVMAofD2Db0=
+
+
+Name: assets/domino_res/DG_hlxt_num.fnt
+SHA1-Digest: KW600IJp+pVvn0yxF68HwFT/ZzE=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/components/event.lua
+SHA1-Digest: Vdi5mX6bU6wuEWYwI4RoT+Gqhmk=
+
+
+Name: res/drawable-hdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: j3QEldxpwA3HNPVqtT/P2g2o3VE=
+
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA1-Digest: dOjymfO7tQPa8kQCGNculrdtmzM=
+
+
+Name: assets/sound/ssz_dabangqiu.mp3
+SHA1-Digest: qfbNsMDhbdfDS9CXlAaJlePZedM=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA1-Digest: RFU8ebcpWdq1WfG1+5m0rjD3S0w=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_word_num.fnt
+SHA1-Digest: fwl7adF7pC1zyIovSLvQVlIHW4Q=
+
+
+Name: assets/cangkulan_res/ckl_sf_lose_num.fnt
+SHA1-Digest: Py7jRV7+spI9BqcB2v5ciDwvK6c=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: q9mdgmi8gCrfH3Z06y4bGK+cCLA=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: dd2zj6sr+xRmZWNPRjYGn37/Nm8=
+
+
+Name: assets/luaSrc/luaCocos/cocos/controller/ControllerConstants.lua
+SHA1-Digest: fPowQyKcoumuiBLvbJuPcH4XCAI=
+
+
+Name: assets/lobby/DG_phonebind_res.png
+SHA1-Digest: jQkWJSHmkoGpf8CELeABmru6Yb8=
+
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: xtqOLa9qoyCJnpcHSX9pDQTsAPc=
+
+
+Name: assets/lobby/font_num/DG_dj_num.png
+SHA1-Digest: JiHATVziDue7wbp+oHF7Y+4+ELQ=
+
+
+Name: assets/sound/qq_xiazhu_jinbi.mp3
+SHA1-Digest: mZ71UAd2/7irdkG9VoNYivgoCaI=
+
+
+Name: META-INF/com.android.support_support-vector-drawable.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/lobby/font_num/DG_jdt_num.fnt
+SHA1-Digest: O5HE3xVoqb2oLYXjkRWXHYmiQho=
+
+
+Name: assets/game_text_2.conf
+SHA1-Digest: qV7wC1vMLWlG23Pb79+BUUK5G9c=
+
+
+Name: assets/texasholdem_res/DG_them_takein_money.png
+SHA1-Digest: +5fqBdsP5vsYmmoqRjtbiGbuAOY=
+
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: uumng9fyw0HlQrz6ivU0JoKb3Oc=
+
+
+Name: assets/remi_res/remi_result_lose_bg.png
+SHA1-Digest: Scbc/CCKzqSdu+77qI0ZK/W3qHs=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocosbuilder/CCBReaderLoad.lua
+SHA1-Digest: uyJtszxOCavRUjKbea76XHRwRmA=
+
+
+Name: assets/texasholdem_res/dzpk_bg.jpg
+SHA1-Digest: cgdBf+EEaGXBJ1KS4W9dOhiVeuE=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: Bi7lkdmX5HAfr7GPjW/rtGELK7A=
+
+
+Name: assets/remi_res/remi_sf_winner_num.fnt
+SHA1-Digest: n9wOQRba0bKKquqa8lvI3RQnaYU=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: vgGy8pBTjoL/yJmNDQQ42DiT8vg=
+
+
+Name: assets/hw_common_res/comm_game_bull_res.png
+SHA1-Digest: exi1La7ME+ynGh/uuRl6SpTSrmA=
+
+
+Name: assets/slot_common_res/slot_base_more_game.plist
+SHA1-Digest: lH5Bq4IWg63w9PxWRdQ8RPdlglo=
+
+
+Name: assets/qiuqiu_res/word2/DG_QiuQiu_word.plist
+SHA1-Digest: 67K73Tr/beB/W92VWxZ1EU9AsXg=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: 10kBvBUte2AZyag/8SjtRBJJBog=
+
+
+Name: assets/hw_common_res/ckk_game_word.plist
+SHA1-Digest: 32gCMBXNOsZok2n5QMDT+H/8VFA=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: eobI6VkMzG98QREBV+/eaTz00LY=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: GsekZVTmqt7NzcA9FoawMuFDm0E=
+
+
+Name: assets/lobby/font_num/DG_lb_reward.png
+SHA1-Digest: nPrDy9SDpdD91bI1zJ3yN5dXUd0=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_aixin.png
+SHA1-Digest: auTdUn+vrV0Y+IPzUJ/3vAyUizs=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_1_b.png
+SHA1-Digest: 6VNAHKxtuAZYnzYXPia/sQQCAK0=
+
+
+Name: assets/lobby/DG_lobby_user_info_res.plist
+SHA1-Digest: 31pyLVxs62j8fwS1mQaNHbaGMsc=
+
+
+Name: assets/domino_res/DG_dj_bj_num.png
+SHA1-Digest: 0qtdqSAx2PUSle2oM2pzQq8SYvo=
+
+
+Name: assets/slot_common_res/word2/slot_base_ranking_word.plist
+SHA1-Digest: YLScvMGcbr8ZXfeGaqFbTjp8thY=
+
+
+Name: assets/sound/ssz_cardType_2.mp3
+SHA1-Digest: o8Nf0VRrwgE9RSdxCJMgx91IWck=
+
+
+Name: assets/capasasusun_res/ssz_js_win_num.png
+SHA1-Digest: 1/7XGF4Cm7T/AldC6eThoE+pFQg=
+
+
+Name: assets/remi_res/game_text_15_1.conf
+SHA1-Digest: CVATuJDcHS0AYYl1ZpsHDrcxN3Q=
+
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: rciAiTdJ+MRPTsG/UvNRmHGoqCA=
+
+
+Name: assets/lobby/DG_yqyl_bg.png
+SHA1-Digest: roZ0eiquI/awDNw9VMfxSHybM7k=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.pn
+ g
+SHA1-Digest: MoCkoRXaiGThFVhhLr4wDS0VuM4=
+
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: 6RTnlB9IVp2rs1amwEm8IHT31g8=
+
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: KKyTkbTwCGbdkPcBqtdOcC2+D20=
+
+
+Name: assets/lobby/font_num/DG_xf_num.fnt
+SHA1-Digest: VelcI7BHRsdMsWA70OCaL7bX0fw=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_free_num.fnt
+SHA1-Digest: tYaQFPyeKko4+Bg1HIWjMdWGooo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/3d/3dConstants.lua
+SHA1-Digest: 7GSguJYtNhBqR0bn/IDRVi6oTfA=
+
+
+Name: assets/slot_dfdc_res/dfdc_loading_bg.jpg
+SHA1-Digest: 1XqCrOj1ejWKichwDRybGUa1bhY=
+
+
+Name: assets/lobby/font_num/DG_rank_last_jl_num2.fnt
+SHA1-Digest: asYfMF/ud2u7B4oqoQ9zUsm00Qk=
+
+
+Name: assets/slot_common_res/Slot_rank_win_num.fnt
+SHA1-Digest: 1OtsxOqo/mvedpgueN/Vyyn5jm8=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_0.plist
+SHA1-Digest: TswlHZnapOVUmW9w3l98ntqmnSI=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: 2ZfUUM9dA7ZFqH+MCrFCJWF8v1I=
+
+
+Name: assets/slot_hkfg_res/word2/hkfg_loading_icon.png
+SHA1-Digest: mPx7gsBWW2lYt8VTeZXqhaOWHqI=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 0kKvPwdj7zBzN9UX4+jHAPKwyCA=
+
+
+Name: assets/slot_panda_res/panda_loading.png
+SHA1-Digest: ZzmYh9cgrGBIfKIOOp5/HRioR9A=
+
+
+Name: assets/sangong_res/eff_spine_Samgong_jackpot.atlas
+SHA1-Digest: wE/S/NlyIJ6tGl9GA728Jw3XvsA=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocostudio/StudioConstants.lua
+SHA1-Digest: 2U4rcrw6NznP3vlFMcm4ISL42oo=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jbp.png
+SHA1-Digest: oxso0asuI0mxGQrb+mHAccZxLV4=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz3.fnt
+SHA1-Digest: sd0UC29oZkfEoDth9YYNMcuIHA8=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: zLtLDGOiJ207WrTCsWah2jkG/84=
+
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA1-Digest: QAa9YgzDhUNr6qZsu4V3y19RCWc=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: sOzFy8p0z5aqGsrWEATtwLsgEH0=
+
+
+Name: assets/domino_res/DG_game_tx_time_num.png
+SHA1-Digest: q8L0McYL/qI048d8LPO+frHGpok=
+
+
+Name: assets/sound/girls_2/allin.mp3
+SHA1-Digest: GWTgQUQO3AZLo+fjgdEO1tUK9qo=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: uxEQ5CeVdDLdVI/wV2UpqEvNpQ4=
+
+
+Name: assets/lobby/DG_ludo_room_res.plist
+SHA1-Digest: AxD6yGAU7OmSGmD3QxZ0OJX/Pyw=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_7_a.png
+SHA1-Digest: /Z6HUrHY3HJHm99/bHVqlONU0M0=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/luaoc.lua
+SHA1-Digest: 0173ahnQ2kKqvRGdTv7rUrrqPiU=
+
+
+Name: assets/slot_common_res/word2/slot_base_message.conf
+SHA1-Digest: ypflDHR44KtgpMVSoQzyZM6UCDg=
+
+
+Name: assets/domino_res/dhk.png
+SHA1-Digest: HY8Rz7bkFDW5uvnX0GLKOTebz2o=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_long.atlas
+SHA1-Digest: sioC4UU7OES05nsEQA4ZATXhpiw=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_jb_num.fnt
+SHA1-Digest: CoiH8E4pDkvHvLOlQuqs7if73nc=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_sl_num.png
+SHA1-Digest: jPv3Jt40m0mI01nhltquS/8Z/nk=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu.json
+SHA1-Digest: afRa+4x9dNoY2iustvQLWyRABL4=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jbpxrw.json
+SHA1-Digest: X0ZrtLkOse+3fgiL7M1yRYNrBpA=
+
+
+Name: assets/slot_common_res/eff_spine_slot_dfdc_dt_btn.png
+SHA1-Digest: BC3++CLl18W75TYjCOXG0b0pMiU=
+
+
+Name: assets/domino5zp_res/K5K_game_baseui_res.plist
+SHA1-Digest: v42nVDdBSGhhaXw2jNHWnpgvGrw=
+
+
+Name: assets/capasasusun_res/ssz_game_icon_chip_num.png
+SHA1-Digest: pDWQarxNGYzquV54AQ25VElr9mQ=
+
+
+Name: assets/lobby/font_num/DG_qd_day.fnt
+SHA1-Digest: nBbb/wc6nn4jHJx/zd/D9wz2/uI=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA1-Digest: Fv+MHn2EjJlYrnRlsip5/7aL0Wg=
+
+
+Name: META-INF/com.android.support_customtabs.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jackpot.json
+SHA1-Digest: yo0xHatowTPBvlctSRc30GOBaRY=
+
+
+Name: assets/fruitslot_res/word2/fruit_word.png
+SHA1-Digest: bi7ZXCLrnkU+TFKaRtB03KqVtIQ=
+
+
+Name: assets/lobby/font_num/DG_zjfx_num.png
+SHA1-Digest: DhGMqUzF07gXY+GPruE8LFF7CKQ=
+
+
+Name: assets/hw_common_res/A_Game_Chess_res.png
+SHA1-Digest: 2q4pj+Lc2Td651s4pzVqRscUsEc=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_bp.png
+SHA1-Digest: p529t3d5VrAfpEr6iWyxVvqmSa4=
+
+
+Name: assets/slot_wlzb_res/word2/wlzb_base_word_ui.plist
+SHA1-Digest: FcwGyzG5CEpbL4e8Bb3PcaBbc3Y=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.pn
+ g
+SHA1-Digest: FavPjuk6olEZey6sIq7rywmBBwY=
+
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: Isoau2+nSwjWWXmKikdruk98JPA=
+
+
+Name: assets/lobby/font_num/DG_deck_jb_num.png
+SHA1-Digest: KtBX/7XUnWB8csZORP+C2QfE/X0=
+
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: h4G5TeOQ9xufiMtoFfAe3fINBds=
+
+
+Name: assets/lobby/DG_friend_res.plist
+SHA1-Digest: NtsPgzVAe+xMYzedywGhvjcnmNk=
+
+
+Name: assets/slot_common_res/slot_main_btn_RD_stop_num.png
+SHA1-Digest: jp0cdYlgudu5PK8mG6h33ffnG9I=
+
+
+Name: assets/draughts_res/fnt/Dam_dw_icon_yy_num.fnt
+SHA1-Digest: AWjUgVon2ySlKrhO+jpqZFkxF/Q=
+
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: KeYlnNX3N4Fxxxtr5iR+kpC5lRo=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_huachi.json
+SHA1-Digest: wq5ktCjOBcV8MWG3p8m/Eu4lTMk=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_superwin.mp3
+SHA1-Digest: kGIXWZVYaNeeQmsEivrQvNvZVqM=
+
+
+Name: assets/capasasusun_res/ssz_js_reduce_num.fnt
+SHA1-Digest: J+JOHFOXrW5Ab4TaEXlU5VeNJJA=
+
+
+Name: assets/rule_texasholdem_1.conf
+SHA1-Digest: JaViWyzYhIENal9tItQcF0NIKjI=
+
+
+Name: assets/rule_capsasusun_0.conf
+SHA1-Digest: j15sCCHj1Qt1FT5IcaPlnQUXtko=
+
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: b70bEShb7daXJNLqi8jSTgns3YM=
+
+
+Name: assets/sound/ssz_Daqiang.mp3
+SHA1-Digest: wtz5E/FfeBplAL1VFnrzwCbBLGo=
+
+
+Name: assets/slot_hkfg_res/hkfg_game_config.conf
+SHA1-Digest: VyL1+BaTrpwo3aruL0W///m3z4w=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_2_a.png
+SHA1-Digest: cK5Am67EAcMorm7iGn4sKYwnq/k=
+
+
+Name: assets/qiuqiu_res/dmn_game_heguan.json
+SHA1-Digest: lLUoD0SF1Q3V3+mcBapQ9kLAxUY=
+
+
+Name: assets/slot_common_res/sound/base_main_smallwin.mp3
+SHA1-Digest: 2N3dDbzoGetvx2HT8tPj7CLWHDk=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_static.plist
+SHA1-Digest: PB1QpndYptVQQhs0IhSVsqTCFYk=
+
+
+Name: assets/capasasusun_res/capasasusun_ui.png
+SHA1-Digest: bBau/k1//ypFdIspqxiVplM37sQ=
+
+
+Name: assets/draughts_res/Dam_rule.png
+SHA1-Digest: cjm8KprDXaFAjHuvFTMD7BPGbTg=
+
+
+Name: assets/domino_res/DG_result_res.png
+SHA1-Digest: jURXZRxM0GwuNzirNOkfXQBBa84=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.pn
+ g
+SHA1-Digest: 2yBDAHgYTM0FfiL8gWf0VdNXNwA=
+
+
+Name: assets/remi_res/remi_sf_winner_icon_num.fnt
+SHA1-Digest: 7enjd/H6KA4aMGwesaS0RX5Tdl4=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: ++0JraYcPG1W6gax2v1T4h5rv9E=
+
+
+Name: assets/rule_remi_2.conf
+SHA1-Digest: r0kNBcFwwY35hqA61P1SDqcT/fA=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_2.png
+SHA1-Digest: wgSa1wwQKvdJBF/EDyD2V1jYK24=
+
+
+Name: assets/slot_common_res/word2/slot_base_ranking_word.png
+SHA1-Digest: QmkhmMQWDnnOvpEO26JM13n7hUM=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_allin.atlas
+SHA1-Digest: 7YJMgY7z1DkvUuzBYyGwY0sa9QY=
+
+
+Name: res/layout/messenger_button_send_white_small.xml
+SHA1-Digest: G1dXWb4mljyAUJfIusY13kl2zXw=
+
+
+Name: res/drawable-mdpi-v4/ad_btn_other_1.png
+SHA1-Digest: rZ7sOKV+QRsbtdHuxAvzz9NoN3A=
+
+
+Name: assets/lobby/DG_cj_share_res.png
+SHA1-Digest: FuffHir3dJ3g4Aw9p3FeotYWbOk=
+
+
+Name: assets/sangong_res/eff_spine_SG_game_qrpx.json
+SHA1-Digest: hXxfl0SUVChSEPjnHTox3xNYLmo=
+
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: dk0LWqCARlbxH1k2prVePUnbuQM=
+
+
+Name: assets/draughts_res/Dam_result.png
+SHA1-Digest: jaK0SYR9rErCfeZQ6wcr/7pSnwM=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_stop.mp3
+SHA1-Digest: q1F5CALYpjRNLBc3tOGEcWCx5HY=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_qd.atlas
+SHA1-Digest: ef77d4RdBMC6mdbAAK56kwtghao=
+
+
+Name: assets/sangong_res/SanGong_resk_ui.png
+SHA1-Digest: 6xhE92suSp8A5qJ6/luyaMvE/C4=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: 7vVNvBugSOLJsxaPeRI52/CFhbs=
+
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: QjDYArbzSKQNNwdm9bauUK1RX7c=
+
+
+Name: assets/hw_common_res/word2/k41_game_word.plist
+SHA1-Digest: j2RP6l48fk/WhtgRexC+HZ+yQ6M=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_tl.png
+SHA1-Digest: u33plNFc9oZyUYVqvU4/6W3FhaM=
+
+
+Name: assets/slot_hkfg_res/word0/hkfg.txt
+SHA1-Digest: jj+VNhVHSembJBDp0sWQkkJ+y/s=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_1.fnt
+SHA1-Digest: mOIfz3+Pim1gU38WyQm2LNQ4uKA=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_fly_fu.mp3
+SHA1-Digest: 9NPLCDAUVlJhRpPGz4O/RiSDu5M=
+
+
+Name: assets/cangkulan_res/ckl_assign.plist
+SHA1-Digest: nrvXscNkKF/Et4Cer8d8uSS3JOo=
+
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: sallF42vXggBUtK+j+tkINwVqM0=
+
+
+Name: assets/lobby/font_num/DG_rank_mc_my_num.png
+SHA1-Digest: WEaKOhv0DXgR7ShgUBfgm9NzK9k=
+
+
+Name: assets/slot_wlzb_res/wlzb_loading_lvl.png
+SHA1-Digest: Jw6kNI7Koe/9NO7OrWCavdwWna4=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_qld.atlas
+SHA1-Digest: tqqS2vm9xqgtZsaLCj4XGQwzQoM=
+
+
+Name: assets/remi_res/eff_spine_remi_win.atlas
+SHA1-Digest: QqBXWowON2EsTRXIz0YjhEyqC9Q=
+
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: LT/K8YQrPGMA1+J5e/zY2xGFhQg=
+
+
+Name: assets/cangkulan_res/ckl_zyx_pd_num.png
+SHA1-Digest: QKI3ZlRxSRErncs25LrPIdDHJQg=
+
+
+Name: assets/texasholdem_res/DG_them_bet.plist
+SHA1-Digest: nTGBUZMhxDcGropQWkMKlwtVz+E=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jbp_num.fnt
+SHA1-Digest: gmSlj80ZChioPWwDBk9yHYuTqro=
+
+
+Name: assets/sangong_res/SanGong_player_ui.plist
+SHA1-Digest: 4rFsbc2Eq5nfjdep35an3rTMwhU=
+
+
+Name: assets/texasholdem_res/dzpk_px_bg.png
+SHA1-Digest: RVfr5sIE+PAEN7WO/uFNG4cR4xs=
+
+
+Name: assets/texasholdem_res/dzpk_rw_sz.fnt
+SHA1-Digest: Q6O1+bDMUD6xiR2+APGkUIL3wj8=
+
+
+Name: assets/slot_wlzb_res/wlzb_game_config.conf
+SHA1-Digest: JxeQ+vJ9097suNUsGwnTzwoWX0o=
+
+
+Name: assets/texasholdem_res/DG_them_btn.png
+SHA1-Digest: PFzpFGHKiv8kI1kupBnecKjHeRk=
+
+
+Name: assets/domino_res/eff_res/xingxing.plist
+SHA1-Digest: PRkwitlgm3FJgPr13sAsIjk/A+4=
+
+
+Name: assets/draughts_res/Dam_baseui.png
+SHA1-Digest: YMEuoWo/o2LsH8IscUADufeGkSk=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uwiP3ApwLduQ11Jf4UyIGf8WaSw=
+
+
+Name: assets/sound/ssz_cardType_4.mp3
+SHA1-Digest: XI2tGjG80iWBGJbbZ/SgA/dCW8w=
+
+
+Name: assets/capasasusun_res/ssz_bp_reduce_num.fnt
+SHA1-Digest: N2eF8q/0vkYboED88fMYaBbzkAo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/audio.lua
+SHA1-Digest: 5Qv0C0RntLyjSYf0oZaxU8lwXTg=
+
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: 1J1iNbje93kCnoQ+a5aGOrXNS3A=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt.png
+SHA1-Digest: aeIdmp+8Z7nBfBwHhd1i/dq4ZSY=
+
+
+Name: assets/sound/qq_guopai.mp3
+SHA1-Digest: /Z1APx9mMx53exckKw5QSOB3TY0=
+
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: wxV39Kt8xzNftHq/MjFwQLxSEc8=
+
+
+Name: res/drawable/icon.png
+SHA1-Digest: 3UQ4tdrz5tQ1MPUP0FH8lFnBBW4=
+
+
+Name: assets/slot_common_res/sound/5ofakind.mp3
+SHA1-Digest: OgxSU70z+FdldyPA5Jz3cvaWePo=
+
+
+Name: assets/slot_common_res/Slot_record_bg_panda.jpg
+SHA1-Digest: /DgHGjEkJrSsqlb9wdQka7VVsHw=
+
+
+Name: assets/sound/game_start.mp3
+SHA1-Digest: VfOppIKIQ7Chr+himWEIXxis1DY=
+
+
+Name: assets/domino_res/eff_spine_yddmn_txtx.json
+SHA1-Digest: SrdKt4a5esW057nZ26qgnrY1Vz4=
+
+
+Name: assets/remi_res/remi_card.plist
+SHA1-Digest: o8Jfpub9WSNOAiZ7sC+3lLTO+mw=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq.png
+SHA1-Digest: xf0BqGwexuw8NukbujYdnEAth5Y=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_jl_dq_num.fnt
+SHA1-Digest: coIw8ZmVAIGKq6kmuN4bJFKDDZQ=
+
+
+Name: assets/draughts_res/Dam_match_VS_bg.png
+SHA1-Digest: Yy2ybrbItS6or6bC+JpKMz1PlvE=
+
+
+Name: assets/domino_res/hw_a_set_res.png
+SHA1-Digest: LxI2rsBCGk01dfEZUjX2SgMh8V8=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_Chips.png
+SHA1-Digest: H+PqwQ+IfqP7Kk0QVCZMdsLxhRs=
+
+
+Name: assets/rule_remi_0.conf
+SHA1-Digest: NknaQdXYdfiKi8myGLc2QduDjX4=
+
+
+Name: assets/domino_res/aniPlayerFlyCoin.plist
+SHA1-Digest: kp7TYn8E7E+uf9NlWakO3sR7tgo=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_result.mp3
+SHA1-Digest: BlzZKVj3gEC6iMbvbcYyi4Dgc4c=
+
+
+Name: assets/texasholdem_res/game_text_13_2.conf
+SHA1-Digest: gV7g8gR0J/RPF8DwxXT0C5kDajI=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UICheckBox.lua
+SHA1-Digest: svWKMrEKqiFZ/B+CAC5lOAA1aMI=
+
+
+Name: assets/slot_panda_res/panda_msg_box.png
+SHA1-Digest: KJUW8CcLrfz2vU0KlIL5UD+MyGQ=
+
+
+Name: assets/fruitslot_res/game_fruit_0.conf
+SHA1-Digest: uI4jx1HQaRdczIUNXk+D50DmiHQ=
+
+
+Name: assets/sangong_res/SG_jbp_num2.png
+SHA1-Digest: wy4j5xJW4Kl1YMcD56pnPUWfxV4=
+
+
+Name: assets/sound/Dam_lose.mp3
+SHA1-Digest: J/GKc9kirthccImgEp2LvQ1ZGDA=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: IIvduiL7kSu1MCow2fI/UvDi5IA=
+
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: ROUgIoQClpazz7AHx3sr4FexTQU=
+
+
+Name: res/layout/messenger_button_send_blue_large.xml
+SHA1-Digest: 92avlSBmd37/1cdWdxuVYIcAigw=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: otncOZG21mw8ew/aFY/F4swt8TY=
+
+
+Name: assets/capasasusun_res/capasasusun_cheakcard.plist
+SHA1-Digest: 9eZHI08ypMQgorY1OqKus14YGhk=
+
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: IBNJ0nRvLEXtTTkK2YMBr9+mHyk=
+
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: Fm09+WRDtBCRv4/ah+XmMouGBLA=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/OpenglConstants.lua
+SHA1-Digest: wffU66KSbL0Ga9q0gKommjnnxGY=
+
+
+Name: assets/lobby/DG_send_res.png
+SHA1-Digest: NIyiqgsqqFVEsimdzkthAadX0wc=
+
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: nfAvA8qDwo2Pqo+ARzNnpWPWFMk=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdomino_sgj.atlas
+SHA1-Digest: CHtG9rCmVFG3+4Mb/NxRT+eX37k=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus_word.png
+SHA1-Digest: pvxUVFCC/LGEqgBseRyDVU+X3Qo=
+
+
+Name: assets/slot_common_res/Slot_record_bg_csfff.jpg
+SHA1-Digest: 6eNkRdBmSegDQjo/34mYa+PJaIg=
+
+
+Name: assets/slot_common_res/slot_base_loading_zi_num.png
+SHA1-Digest: hd19E2vTJ7xeLXsv14n3C//mhs0=
+
+
+Name: assets/lobby/DG_AwarMoney_res.plist
+SHA1-Digest: CtClsFf0qoeGtoC8w81RcKd8R24=
+
+
+Name: assets/draughts_res/Dam_rule.plist
+SHA1-Digest: OEkXbrZ6epqN3ilTXV0bD7/cKWY=
+
+
+Name: assets/slot_common_res/sound/hkfg_notwinX.mp3
+SHA1-Digest: s9DjBek5cFMiT4ctNvnJu/6cLqY=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_js.atlas
+SHA1-Digest: hMb7sQY8wmOZaUcU6rKUARWufDg=
+
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: GQanWfsOiMpcPiT5iPZEsTeB6+4=
+
+
+Name: assets/lobby/LUDO_xf_bg.jpg
+SHA1-Digest: yyc2nW4gPzkU3cJksHAe/lAHTIA=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_allin.json
+SHA1-Digest: Z0R/gvJFXvX+Vtgn1gAUdAd6Mj0=
+
+
+Name: assets/sound/remi_myturn.mp3
+SHA1-Digest: 2DiEkmhI5R9EwfDHNep5n4u1Hro=
+
+
+Name: assets/hw_common_res/DG_qiuqiu_bw_num.png
+SHA1-Digest: qfOFW9zL9pfhbMtxYL4gp9DndBs=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_6_b.plist
+SHA1-Digest: yKC41I5tElIf1EO+mUUJk2t6E4c=
+
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: C0WrWl/OU3xn+MGpmo5ZzRAjD3c=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_5OFAKIND.atlas
+SHA1-Digest: jqJs5BPjsiFHFhG/7+5m1qEX5CM=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq.atlas
+SHA1-Digest: 4j9H7O5M0PXS2Kao5TAmLpBGkJ8=
+
+
+Name: res/layout/com_facebook_activity_layout.xml
+SHA1-Digest: L0BpfTRV9gIka2JPEpDWYddQ/q0=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_jigu.json
+SHA1-Digest: RxMx1rzMh/d+2vDVJm3WvVWkl3s=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_bigwin.atlas
+SHA1-Digest: PQqwaP9e9a7FUOK21BQ2J1BrLtw=
+
+
+Name: assets/slot_panda_res/panda_loading.plist
+SHA1-Digest: J9W4EcdgRXIQN27TThA14wmCsTU=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: izNlbouSIXW9/WiRR/UlgyT9VEs=
+
+
+Name: assets/capasasusun_res/word2/capasasusun_word.plist
+SHA1-Digest: vpU2095gXVW1sWzS+jpiMxjmIrU=
+
+
+Name: assets/kartu41_res/K41_gamerule.png
+SHA1-Digest: 2Hz04p0wajMiiBDzSPfWm7AJz0o=
+
+
+Name: assets/kartu41_res/K41_game_yzdjs_num.fnt
+SHA1-Digest: 4IJYexVEVPwR5T5JTW3KbY4L3FY=
+
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: I7yrQ7nrQC41MaIvtC0ygFTJm0c=
+
+
+Name: assets/lobby/DG_xf_bg_game_13.jpg
+SHA1-Digest: exVHomqPYMw4o1rTd9SaENpaYOE=
+
+
+Name: assets/hw_common_res/A_Game_dzpk_res.plist
+SHA1-Digest: +B6qFasw3FwollhdBxUksZ5NbR8=
+
+
+Name: assets/sangong_res/SG_result_jf_add.png
+SHA1-Digest: 4YZ3TP8lrmNSFPoGmOEUKDz7WP0=
+
+
+Name: assets/hw_common_res/A_Game_remi_res.plist
+SHA1-Digest: rdSZTSbqjtWLCY7Cv5jtiJcH1kw=
+
+
+Name: assets/hw_common_res/ckk_game_toplayer.png
+SHA1-Digest: 1mwslcGCnUomGV0EpNA4q0s0M9o=
+
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: ZMTKws3Yf0EOK1CpWECY7+yKtn0=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_1_a.plist
+SHA1-Digest: d8qhvlTkQ0trbpmRNH0HAi0y7Jk=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: /irrV5qi5QeT+gQcCsR8hXIg+Xk=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_freespins.png
+SHA1-Digest: 3NHjnCOMdOUC9rlL17skpbhE3h4=
+
+
+Name: assets/slot_common_res/word1/slot_base_message.conf
+SHA1-Digest: B0phk9ECiCrRrNtZNgkl16ZHvPQ=
+
+
+Name: assets/lobby/DG_recall_czlb_res.png
+SHA1-Digest: dJQaTEm4nGnauH/11xJxZO6aV2I=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_dj.skel
+SHA1-Digest: 0V6CiPmTSxC4f4J34PT44bJ7CGc=
+
+
+Name: assets/slot_dfdc_res/dfdc_frame_ui.png
+SHA1-Digest: mz4EuKW/wFpC0n//xLYYxMoMO2E=
+
+
+Name: assets/lobby/word2/dmn_lobby_word_res.plist
+SHA1-Digest: AnjKKSWaAE1F00qmxiMSXmAszJ4=
+
+
+Name: assets/sound/Dam_select.mp3
+SHA1-Digest: +HP1K9RSMI0hxrx/Hj5fzN/66b4=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_4_a.plist
+SHA1-Digest: k+e1oKQF2C8oZECGvgxI1eX/Ggs=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: nrSR6Cj5AAFhLDBo5XOuCzzOUCE=
+
+
+Name: assets/domino_res/DG_game_bg.jpg
+SHA1-Digest: hgnT62w7YvxbwZ9f2aiUFrHeo4c=
+
+
+Name: assets/slot_common_res/slot_base_history.png
+SHA1-Digest: y4Z1HiJPRppJUPnZDEd+Lw89s/c=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_hari_num.png
+SHA1-Digest: z/1n9Hk/bPFaXUDdsgJrXdVC1NM=
+
+
+Name: assets/texasholdem_res/dzpk_time_sz.png
+SHA1-Digest: 42d3cvbK5sHjbS9tl5Rl7Y7dYAk=
+
+
+Name: AndroidManifest.xml
+SHA1-Digest: cGXkvzYdI4VrHWCibNljVbKP8QY=
+
+
+Name: assets/sangong_res/game_text_20_0.conf
+SHA1-Digest: fXZgcPhaKNP2PfmZJYw+Jn6O24Q=
+
+
+Name: assets/slot_csfff_res/csfff_msg_box_ui.plist
+SHA1-Digest: +cUfdF82mU4IoJumILEq8NfZX8s=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_3_b.plist
+SHA1-Digest: t3QERXVGzvFrq7o3Q2e43MEJkGY=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 4eyqloBe4i++Lnjut9rv30zXGjc=
+
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: xX67ts0raWp4ceUwkXhnqNq9Klo=
+
+
+Name: assets/kartu41_res/K41_playerinfo.png
+SHA1-Digest: tM8uDbbbNIa3uiNGxTFCwTvp7YA=
+
+
+Name: assets/remi_res/eff_spine_remi_lose.png
+SHA1-Digest: IDSFawkyxjQDdP/EdkdUz2nBNfg=
+
+
+Name: assets/hw_common_res/word2/cangkulan_game_word.png
+SHA1-Digest: puARIn0jf5w0PcZKvT5RTuXyq48=
+
+
+Name: assets/texasholdem_res/player/player_anim.conf
+SHA1-Digest: KnaX/1zQeFNVM3RzHJmyargOny4=
+
+
+Name: assets/hw_common_res/word2/draughts_game_word.plist
+SHA1-Digest: W9HC3VLkRUHc3sEM5xss8N417ZI=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+
+Name: res/layout/com_facebook_smart_device_dialog_fragment.xml
+SHA1-Digest: UqmqaYoMT2ykZvCziaj2jS2UerY=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sf.png
+SHA1-Digest: HB3KDWtSfNJhdmNGDA0z+A3+S+I=
+
+
+Name: assets/domino_res/eff_spine_yddmn_lose.json
+SHA1-Digest: aJCsKbbjK5XJJiOaXIhqNP6Pkso=
+
+
+Name: assets/slot_hkfg_res/pt_slot_game_1280720.conf
+SHA1-Digest: a/nmbJ6nZtIUm19/Fs7lB3QR16o=
+
+
+Name: res/drawable/com_facebook_send_button_icon.xml
+SHA1-Digest: jdO0KGqaiLzaqoFo5XsvpusTc6w=
+
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: 5uoEosy0KNylM+5JZVinbmi1Fmg=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.p
+ ng
+SHA1-Digest: NlZeJG8MEHDXkZ6eZeHaVGnlZgM=
+
+
+Name: assets/sound/dzpk_sound_fangqi.mp3
+SHA1-Digest: 1JT/98HWL/B+P36Jj2rjcuUoOUE=
+
+
+Name: assets/sound/ssz_cardType_6.mp3
+SHA1-Digest: YBfzQ7mpYWYfs0zgaqcJdABCKzY=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_ksbp.atlas
+SHA1-Digest: loFx8hephXqCJWzAhc6zYh0xbLA=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 4yQp5RGqcPJVhL3STB21W1r3uqI=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_0_a.png
+SHA1-Digest: oILUP7vVuVlk9T8NH50lOaScAGo=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: 8guTAEXvUmh+eaLeokeYvH7643o=
+
+
+Name: assets/capasasusun_res/game_text_14_1.conf
+SHA1-Digest: 6G9ZT+lJnNGTdyHiccmqC2a/+F4=
+
+
+Name: assets/domino_res/DG_lb_btn_h_jx_num.png
+SHA1-Digest: FVLEDbtfJFcsoe6b9SWA6wdxI/Q=
+
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: dJsdfd8SbnDt90DGHMxbKs3HUA8=
+
+
+Name: assets/slot_wlzb_res/word2/wlzb.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jc_num.png
+SHA1-Digest: f4fRCvSuICPJAU0HY1G0DSAsBVs=
+
+
+Name: assets/hw_common_res/k41_game_toplayer.png
+SHA1-Digest: GUm1WxNKDPf27RlZlpOVdXk2bDo=
+
+
+Name: assets/base_text_2.conf
+SHA1-Digest: NSOlAkH6AfAWX3CsdgRuYxVOH20=
+
+
+Name: assets/rule_congklak_2.conf
+SHA1-Digest: 31nUoylLJ1kRITGCodDcOu3LjnE=
+
+
+Name: assets/hw_common_res/DG_a_game_toplayer.plist
+SHA1-Digest: Clf4w6gmTKTR9OWambycfurcBMM=
+
+
+Name: assets/luaSrc/luaCocos/cocos/extension/DeprecatedExtensionEnum.l
+ ua
+SHA1-Digest: wt6AmyvOz6f7XQMgqZJrQBxNZwE=
+
+
+Name: assets/rule_jlnormal_1.conf
+SHA1-Digest: Sj2Z/K1bOMcbjsn342Hh75haTeg=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: lP85nXzNzaRJULgljjBQBBKL824=
+
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: WvV3gjbdMgYy0ObVx17xXjgJt0M=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: xc9EUi8JbA506uG62boWpLo9DB8=
+
+
+Name: assets/lobby/font_num/DG_rank_last_jl_num1.png
+SHA1-Digest: vC0nWKqHKNKHpwzYUiRBJFnDOwc=
+
+
+Name: assets/sound/remi_mo.mp3
+SHA1-Digest: u989PR0wDG0qbAJTU+8whBTpvKc=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fw.png
+SHA1-Digest: nLPwCtKk1q74/r0YGTfe4lmmAXo=
+
+
+Name: META-INF/com.android.support_support-core-utils.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/sound/dzpk_game_result.mp3
+SHA1-Digest: 5m2+Rzyo1049QFZBu82zM/qElZo=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+
+Name: assets/hw_common_res/word2/draughts_game_word.png
+SHA1-Digest: 9MALhxQ4bzc5ZCyLx2TxXxGi+D4=
+
+
+Name: assets/draughts_res/fnt/Dam_match_coin_num.fnt
+SHA1-Digest: /KHMS6K1QfXLPpYIghf8P02OEso=
+
+
+Name: assets/lobby/DG_friend_res.png
+SHA1-Digest: 3dPBMwoh1+7G2rkz/L/6/AL7yvk=
+
+
+Name: assets/game_shop_1.conf
+SHA1-Digest: SRGSgxTTv2G+yi8MHu8fENXhMbg=
+
+
+Name: assets/sound/ani_brush.mp3
+SHA1-Digest: 6adY5U5SC8S8RDzIzyACzY77Ceg=
+
+
+Name: assets/slot_common_res/slot_main_cishu_num.png
+SHA1-Digest: ucK0J/HRIJZs3ZjDK5KKkbizwY4=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jsjl.png
+SHA1-Digest: M76ffgt4ftUWJBg+8F5SkXp+Q8I=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_5OFAKIND.json
+SHA1-Digest: ISzUyHvhBZfodYTBtOkBjycxHdA=
+
+
+Name: assets/lobby/DG_PropImg_src.png
+SHA1-Digest: GHRJ14CuyuP5DFZ0a6ZWF3hJXlc=
+
+
+Name: assets/cangkulan_res/ckl_game_rw_num1.fnt
+SHA1-Digest: NtVuvU82chZscrKqNXIC7hu3NLM=
+
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: FClZ7iHnSWnSUmiHfKTGj+qsVUg=
+
+
+Name: assets/sound/time_0.mp3
+SHA1-Digest: rYLuKcA0Ig/a33bgn/7luEr+izs=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_youwon2.png
+SHA1-Digest: iKEXweJNObI8BrKYaw/QFsKgduo=
+
+
+Name: assets/slot_common_res/slot_base_ranking_ui.png
+SHA1-Digest: k6SbBAf/0UkLhdE5guEIyA0EO58=
+
+
+Name: assets/domino_res/eff_res/xingxing.png
+SHA1-Digest: yXUwpDxt53+FAZeyXAeNlp5tVE4=
+
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: sJ3zLctX++z1rw8S23cVI1QtD+E=
+
+
+Name: assets/lobby/DG_IDlogin_res.png
+SHA1-Digest: RfyaMo3T4HkKoEBKbcjjrHdtf04=
+
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: OJWRmPIr3Cp1Dg1iwa3Slaz+kIc=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_xz_btn_h_num.fnt
+SHA1-Digest: pa5IHEqxtDrKAPkWMsqKRDjjhDA=
+
+
+Name: assets/lobby/font_num/DG_rank_last_mc_num.fnt
+SHA1-Digest: EOlKN2lrvvVTXmV+etQvRc13ri4=
+
+
+Name: assets/slot_dfdc_res/word0/dfdc.txt
+SHA1-Digest: /FiCmG3IGctUrXScdqb1TMIiuY0=
+
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: VuyPGep+oiL90ZTnqshznnbShn0=
+
+
+Name: assets/hw_common_res/k41_game_toplayer.plist
+SHA1-Digest: Nwf3uBkmCuucOPMbGrXjgCw72R4=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz2.png
+SHA1-Digest: xUcqy+ifpPSOd/ILFZsWx94XTzE=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: OBELUky/hMRu50hd+fRgMPXT3ZE=
+
+
+Name: res/layout/messenger_button_send_white_round.xml
+SHA1-Digest: HiWy7BKeWz5+74Q/tip3YIrseI8=
+
+
+Name: assets/slot_common_res/sound/base_main_scatter_3.mp3
+SHA1-Digest: AI7r9+mkaAeHpVr3SS7ZnUl1QyE=
+
+
+Name: assets/slot_common_res/Slot_lobby_top_lv_num.fnt
+SHA1-Digest: FDT2QUar9OgkCrg1sAd24xfhZDc=
+
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: 9ldsaVlt37pQfqgK1874ahDQdZw=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_102.png
+SHA1-Digest: N8xEai2wTFSi/eZZPDQvf/yEcvk=
+
+
+Name: res/drawable-mdpi-v4/close_small_web.png
+SHA1-Digest: FJqntb/6CC+MFx7pMxgrI2yjdBI=
+
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: cDm+uGAZHDCFb6/uQRdUDyll+HQ=
+
+
+Name: assets/capasasusun_res/ssz_pp_button_wc_num.png
+SHA1-Digest: Huo21vk1JIgBZPuDaLpR/c1sRUY=
+
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: 0YB+jKJ2EopM0C8rpLR01248uU8=
+
+
+Name: assets/lobby/font_num/DG_send_num_gray.fnt
+SHA1-Digest: p8jtRYl16NqeTAWg26bOl7XhvMA=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jpjl.png
+SHA1-Digest: XoshojB2FXKM4jF4ixgY3e1LmF4=
+
+
+Name: assets/cangkulan_res/ckl_main_ui.png
+SHA1-Digest: sFKnYMJzyvb8niwCsCSANkZAo8c=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_xz_btn_num.png
+SHA1-Digest: IUuIM1gScqIjSTUKE2lSK04NlTI=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 0OG2GgwzcQVFzj+BwQ+1UYki6vU=
+
+
+Name: assets/lobby/font_num/DG_gz_bq_word2.png
+SHA1-Digest: hjIIRpP72zSDfBOtr8scGkvkWeY=
+
+
+Name: assets/domino_res/DG_result_jf_add.png
+SHA1-Digest: 4YZ3TP8lrmNSFPoGmOEUKDz7WP0=
+
+
+Name: assets/draughts_res/fnt/Dam_game_icon_jbd_num.fnt
+SHA1-Digest: +FXbMQ6epUpUW2UQWVbWjug4BQg=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: doXTq0PGlseahO7qxrAxAjB7JIA=
+
+
+Name: assets/draughts_res/Dam_game_userinfo_res.png
+SHA1-Digest: 1Ng/dOMl0Ufn+zw8OaMN/3C54HU=
+
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: oWuW+wf7RDugzGE5OcOKk/wfAWQ=
+
+
+Name: assets/sangong_res/SG_game_logo_bet.png
+SHA1-Digest: 0s+tAruBgypLsAR+xR0fDWDryoU=
+
+
+Name: assets/lobby/DG_mfjb_res.png
+SHA1-Digest: ADM2Ue8EoJHzOYl8xbn96UXh0z8=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_gjlwgg.json
+SHA1-Digest: ZzWyORHGhPJkVufdcX0cgljBEmA=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu.png
+SHA1-Digest: tNIP/5TBTssqpsKDQdr26oFomSc=
+
+
+Name: assets/sangong_res/SG_jbp_num1.fnt
+SHA1-Digest: LWtXrxhiXTZ1SNujsAmIC9DrfgY=
+
+
+Name: assets/lobby/DG_recall_other_res.plist
+SHA1-Digest: KkxDZhngBi2kQMVunYAo7FFtUVE=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: vs5sXFVGnqpXFZuXg+uY+nALal4=
+
+
+Name: assets/capasasusun_res/capasasusun_rule.png
+SHA1-Digest: +YPx1epBOvcnVNp4bJeNNDBXuT0=
+
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: hWrdXoC/eBvOmJQhh4BPUNvOFC4=
+
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+
+Name: res/layout/messenger_button_send_white_large.xml
+SHA1-Digest: gBdZU5sXD4P8To+o7+j3w9HMgjc=
+
+
+Name: assets/qiuqiu_res/dmn_game_heguan.atlas
+SHA1-Digest: mFEJQvjoy7jkKgZK679tlblWmeY=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_youwon.atlas
+SHA1-Digest: 1u2P274uI1bixdldDCXwQ2CLY+8=
+
+
+Name: assets/sound/deal_drop.mp3
+SHA1-Digest: blpba3bbyV1W2G7BhSj9/u3F8gw=
+
+
+Name: res/drawable/com_facebook_auth_dialog_background.xml
+SHA1-Digest: tJlrAGaJDpFJ5FLOKSMUVcWq2xY=
+
+
+Name: assets/cangkulan_res/ckl_game_ksdjs_num.fnt
+SHA1-Digest: H96Wcph1/VG6Scs8DN5RZo0v9hE=
+
+
+Name: assets/lobby/font_num/DG_deck_zs_num.png
+SHA1-Digest: ORkoqRKOpWhI8ee5EEqA8UqWIOI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_Santai.json
+SHA1-Digest: sxjEShwmZ3m6BveeO4YOymanwCE=
+
+
+Name: assets/0_urge_text_0.conf
+SHA1-Digest: RR3ItSXERyQ++8k8CdZPbN2DyJE=
+
+
+Name: assets/lobby/DG_vip_bg.png
+SHA1-Digest: 8yiF3LLfG/VkTkYP+soNjxgiEDc=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: w0uPX855OXn47KHVmgsUHSJVH1c=
+
+
+Name: assets/lobby/DG_yx_bj.png
+SHA1-Digest: QUlKIXztSMszZXNOLY2+OgwBsgk=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_megawin.mp3
+SHA1-Digest: RU+mQfOzHKrS/SLqh8h3yRCw6ps=
+
+
+Name: assets/remi_res/remi_game_ksdjs_num.png
+SHA1-Digest: 2PdM2bZkrF9LjWJe0A7VEH9RYW4=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: VbIjN2S4O3g5Qk8X4rQEi2wWrX8=
+
+
+Name: assets/lobby/font_num/DG_qd_bqnum.fnt
+SHA1-Digest: +stxSObIzsPLQFKbJ5UFpC9/yXY=
+
+
+Name: assets/slot_common_res/sound/hkfg_ReelStop.mp3
+SHA1-Digest: 4MYlkqcpmt5ku9IXGv6SoFkuH0s=
+
+
+Name: assets/domino_res/DG_free_room_res.plist
+SHA1-Digest: AU72N60WGrvBSAeiUTwBbqPbdeI=
+
+
+Name: res/drawable/messenger_button_white_bg_round.xml
+SHA1-Digest: BG1usVuNcnNCHd0yrRAr7XmIiNk=
+
+
+Name: assets/domino_res/DG_game_gold.png
+SHA1-Digest: 3siEcrc6GPXQ5g6LrATqGSvrqyI=
+
+
+Name: res/drawable/messenger_button_blue_bg_selector.xml
+SHA1-Digest: 2soD+7OWMX2fLPFoPb+IasNgaH0=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA1-Digest: NlLE4WLe09sFAjGcYGx9OeUuyzA=
+
+
+Name: assets/luaSrc/luaCocos/cocos/network/DeprecatedNetworkClass.lua
+SHA1-Digest: NxczBFY7snp1WyGXJnu1BEmE8P4=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_5ofakind.mp3
+SHA1-Digest: vSZ/zE8mmnaK12z5S2Qb7OJmdkE=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz.fnt
+SHA1-Digest: aGOAQYOl1WmqwpzgkEo2zzgNWh8=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_cptw.json
+SHA1-Digest: 2MZUVHdGHqZfblBhvhfMKZE/iNU=
+
+
+Name: assets/domino_res/eff_spine_yddmn_txtx.png
+SHA1-Digest: 0kv2C0IbAN02QgtJaoFwgPqGhww=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_bp.atlas
+SHA1-Digest: qBPWH5rCFprAK8m94HOJ6xbn1nI=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: sk0rERRHxBHTLx83NS6FqhClw8o=
+
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA1-Digest: p3h614RoofbP65hEQ4Jpjeee1Q0=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_free_bgm.mp3
+SHA1-Digest: Onx/4BlykiAtSRxTgBnFkflb1U4=
+
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: aneHhfx9Hlhfb14nlmQ730+YoIM=
+
+
+Name: assets/lobby/DG_send_res.plist
+SHA1-Digest: II37XGbf5V4ARNEs2bersWTgCOY=
+
+
+Name: assets/capasasusun_res/ssz_js_add_num.png
+SHA1-Digest: BuMO8B0NaILp5hwqCroXH10afIQ=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jbp.atlas
+SHA1-Digest: quIJZQFJUUTtq+Ycbyd1RM7KYwU=
+
+
+Name: assets/rule_k41_0.conf
+SHA1-Digest: kU87a7VrURQumSQF+JlfMLhr9r4=
+
+
+Name: assets/texasholdem_res/them_gameview.png
+SHA1-Digest: UB25rXhcci4N/r/vgXQIKWijQT4=
+
+
+Name: assets/hw_common_res/dmn_tx_show_0.png
+SHA1-Digest: oqhbzvKiKd9teOVys1Fct9TXjbM=
+
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: /ZA9GNDhMYFrg47ctB33mmoEveM=
+
+
+Name: assets/lobby/word2/lobby_recall_word_res.plist
+SHA1-Digest: kvZ5ZJDdzmgtwNJzBrKviBZdfQk=
+
+
+Name: assets/remi_res/remi_game_jbp_num.png
+SHA1-Digest: ia/jAzztID/m+gJAiLfeCY64kKs=
+
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: dgJ3cMlsM66p5KUwicNq8OWzjhI=
+
+
+Name: assets/texasholdem_res/DG_them_chips.png
+SHA1-Digest: O7GwvD/jc2PypwBro4xi79yklYA=
+
+
+Name: assets/sound/qq_game_start.mp3
+SHA1-Digest: ekHdNi6RJWDDkXo5hnWGUxQhn98=
+
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_bj_3.skel
+SHA1-Digest: XpQib1jzV/uWzNVMzGzACOlhEZk=
+
+
+Name: assets/pt_base_ip5.conf
+SHA1-Digest: V/WaNO+g/rVrqzCTS1eqCSpECBw=
+
+
+Name: assets/hw_common_res/chess_game_toplayer.plist
+SHA1-Digest: KYaigIsRNEYb/i3znWqQ6lLwRbs=
+
+
+Name: assets/slot_dfdc_res/bg_kuang.png
+SHA1-Digest: YlBgGm7+H93YigtaXUHMYEv+PVQ=
+
+
+Name: assets/remi_res/remi_zyy_sz.png
+SHA1-Digest: frlX/962rwn9Cm4Knog6VPDhazI=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/luaj.lua
+SHA1-Digest: OSNecyuggo03Vc/j8W2bazR/L8o=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: jFueic9UlyPi6PZGbdLCUmEoJGo=
+
+
+Name: assets/draughts_res/game_text_22_2.conf
+SHA1-Digest: jAeqVxfiYacZwA919OOhpeX8AhA=
+
+
+Name: assets/slot_dfdc_res/dfdc_fw_bg.jpg
+SHA1-Digest: pk52CceHU1YE1zXZ+VaCYTLnZ28=
+
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: qGWqKRJ+WHo06PgjoTmcvLnBfy4=
+
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: v++gLpYHQkuk41UsIzC6j4Mn4ck=
+
+
+Name: assets/sound/ssz_cardType_8.mp3
+SHA1-Digest: qOSkMkRV3zDjNbaCCeAc26F7dFQ=
+
+
+Name: assets/lobby/DG_set_res.plist
+SHA1-Digest: 117VRMzJN8H1dwogBMvNiA1PY/8=
+
+
+Name: assets/lobby/font_num/DG_rank_mc_num.png
+SHA1-Digest: SkEsJAMOjA43BvFkV27grWShOzY=
+
+
+Name: assets/cangkulan_res/ckl_sf_winner_num.fnt
+SHA1-Digest: EZcxQUaxL2fVn5TbHQrxRlGURXg=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz3.png
+SHA1-Digest: nJdtdXabFxtZ7n7lBxzJ6LnhMPQ=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_gz_01_day_num.fnt
+SHA1-Digest: 2D9bAzFZN3f3gmjIsWVIRK2ffLU=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMW5ShwB1m9oRvGdlbR//t0h77U=
+
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: QkrkIsgl0goUJMF9TOYWcYiVBlQ=
+
+
+Name: assets/slot_common_res/word1/slot_base.txt
+SHA1-Digest: OAIfzzQ3Xzy0eAWsLdFUqeW79LM=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jl_num.fnt
+SHA1-Digest: SHhjO8+M2Qypd3WVd18gPD+nlLA=
+
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: UQCdAVV9gYw18sTeYmkMxkD83cU=
+
+
+Name: assets/hw_common_res/A_Game_Chess_res.plist
+SHA1-Digest: W73zBpiD9VZpEmL2EuxjaoJul8A=
+
+
+Name: assets/lobby/font_num/DG_dj_czk_num.fnt
+SHA1-Digest: 97OSOWHeerd/ZkKH4oqn3l+kCxQ=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yndmn_vip.atlas
+SHA1-Digest: daJaf9ygKixrP8ZBLN+r3in7IM8=
+
+
+Name: assets/sound/ssz_ZhaDan.mp3
+SHA1-Digest: HmLFGaKVAlmJD3KWoIR9v9al7KY=
+
+
+Name: res/layout/messenger_button_send_blue_small.xml
+SHA1-Digest: EVkN9ffBWSWpxT4FZbOQ0a0GrAw=
+
+
+Name: assets/sound/dead_end.mp3
+SHA1-Digest: +KxFc5QQzp4NfS32k/EPhqRcpfg=
+
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: CUTo0hgVLf4sZdNMZeKkTge3hSE=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/Cocos2d.lua
+SHA1-Digest: hbnUNffUf+wGgEO9YMcFOFwyk9w=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/DeprecatedOpenglEnum.lua
+SHA1-Digest: CBixoh7M3bLqY1mT+O3A/WPJbsQ=
+
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: f55PTMXlHUEqAPzoNNBsYAZxGoA=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait
+ .png
+SHA1-Digest: BsODtcW15arAP3mxEfT2jFjH0Ts=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.p
+ ng
+SHA1-Digest: 1cl/IsP/z8hq0fSoUb3Z29rLRVM=
+
+
+Name: assets/lobby/font_num/DG_hgjl_yxlb_jl_num.png
+SHA1-Digest: KLnB2OIZKpmDit8rfBgQiS8syD8=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_shengqi.json
+SHA1-Digest: DvgteAsDK0NuOLAmXOg2GFeqPdQ=
+
+
+Name: assets/slot_dfdc_res/bg_1.jpg
+SHA1-Digest: jk9oOwpvcHSUsOSJ18owHlpg5ZM=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_spin.mp3
+SHA1-Digest: Wz/85hzik3JTr1w44+zyP2PfdDQ=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/Cocos2dConstants.lua
+SHA1-Digest: q5UlqUhPCFAx37asgAyYw2Iyaj4=
+
+
+Name: assets/rule_catur_2.conf
+SHA1-Digest: VTecguZ3vKQ2+RrW2fTySB+BECE=
+
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA1-Digest: +2R9bM7Z4P10yfawRig6bPYNFE4=
+
+
+Name: assets/lobby/DG_rule_res.png
+SHA1-Digest: QmnCEEc0Nj1CaY6C6xLi66wJipw=
+
+
+Name: assets/lobby/DG_room_res.plist
+SHA1-Digest: wmW+AYsjL2vl4mf/tesdU7MFj1U=
+
+
+Name: assets/slot_dfdc_res/dfdc_youwin_num2.png
+SHA1-Digest: Hf2OtfF3Uuk0Js4RtPD5dvWjS9E=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_youwon.png
+SHA1-Digest: DTTJii+Af9F3ARBcQmlxf5D+MDk=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_drjb_num.fnt
+SHA1-Digest: 8Iwoc+zD3gl4bxg/0s39R4O08gU=
+
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: lcZuVpNU4KQ2P6oIL8fDL1SMpao=
+
+
+Name: assets/sangong_res/eff_spine_SG_game_qrpx.png
+SHA1-Digest: VbvNQ4isWmYTVbddd+afSMo7ogQ=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_qhgc.json
+SHA1-Digest: yfn+EUPHwMMY6reNOIA2neiD3Zs=
+
+
+Name: assets/hw_common_res/eff_spine_vipst_hdtb.atlas
+SHA1-Digest: MKmtr8TJC7azmn9v9+kWkXzCRZ8=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_close.png
+SHA1-Digest: +JZiNMNDzx2CZpFSg/U/ef0Dr5c=
+
+
+Name: assets/kartu41_res/K41_rw_x2_num.fnt
+SHA1-Digest: 1uYg6eN83LgfsSuII4GtJGw/w28=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_bonusfeature.mp3
+SHA1-Digest: wI6KWdY2hz4zczQwD1dbCX6hshE=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_bet.png
+SHA1-Digest: r8wwHs2SyejA/s5qIhgPdQOXivQ=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/DeprecatedCocos2dEnum.lua
+SHA1-Digest: wV2SyphuHNB01cB4mIBOcgymoyo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/DeprecatedCocos2dClass.lua
+SHA1-Digest: zLeyawgYiLBmxHcauNdSvoWnppM=
+
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: pS2IISWVF11RXQXLyxHF6AODLJQ=
+
+
+Name: assets/rule_qiuqiu_2.conf
+SHA1-Digest: QWZpQFhE8S6C2X6bF6dwJOGpLLY=
+
+
+Name: assets/sound/send_card.mp3
+SHA1-Digest: taD0iPMRv4rf3Qic5e4k1kYAoNI=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_dq.json
+SHA1-Digest: jWfpPG8ajRd8OMX4j1UyAPul7fs=
+
+
+Name: assets/lobby/font_num/DG_deck_icon_time_num.fnt
+SHA1-Digest: 4zuxJxE9XmrLy8Yhe9ajqyTW0aQ=
+
+
+Name: META-INF/com.android.support_support-media-compat.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz5.fnt
+SHA1-Digest: NudutapT9oyR2G46Sw51ehFDNzk=
+
+
+Name: assets/qiuqiu_res/dmn_game_heguan.png
+SHA1-Digest: EX+uMeiUSsznkOrnmTPd7bXVJ34=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jackpot.json
+SHA1-Digest: lBDm1hkZfnmWNvapDx6eu50gr7E=
+
+
+Name: assets/cangkulan_res/ckl_zyx_sz_jb.fnt
+SHA1-Digest: Hm+4R9Pv93yft9dA3yRDKz68pSY=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: YWbbt9prsOJPwsIvkwmEAQ9AjM4=
+
+
+Name: assets/remi_res/remi_result_win_bg.png
+SHA1-Digest: CwRWmQbfc3M7U7jSx311/7mrmOw=
+
+
+Name: assets/slot_dfdc_res/dfdc_frame_ui.plist
+SHA1-Digest: LrMaQxrK/vr2BR/EzGB7nNiuHXE=
+
+
+Name: assets/lobby/font_num/DG_qd_day2.png
+SHA1-Digest: JmaBSHHm5ClzVsjgLJ56HxlF4Zs=
+
+
+Name: assets/hw_common_res/cangkulan_game_toplayer.plist
+SHA1-Digest: qQoLzAl5UwJ8JHEzGOPuCAqTPAI=
+
+
+Name: assets/slot_common_res/sound/base_main_scatter_1.mp3
+SHA1-Digest: CdL2J3HccYzctYiUSMi1j7/Dv9o=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus2.png
+SHA1-Digest: CC2gF9GGUGPWQM2rq8OWfkRjzk8=
+
+
+Name: assets/lobby/DG_xf_bg_game_15.jpg
+SHA1-Digest: t2/iiI4DF2Wmjye3Igj7lkSMXMc=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_104.png
+SHA1-Digest: LOAGajvay1nMn1F0KEX1lEI317o=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_rd_num.fnt
+SHA1-Digest: nLrklx8fPjy+YPatDW8yH5SPmo0=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_kjdjs.png
+SHA1-Digest: UR4yJmOibargz5GYknSOGOmUlJI=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_yl_num.fnt
+SHA1-Digest: Sa0LMqFRU2OjPaJUrGqN+bazqfw=
+
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+
+Name: classes.dex
+SHA1-Digest: yQytsC4prO/Za9/iML35mowf4T8=
+
+
+Name: assets/capasasusun_res/ssz_game_jbp_num.png
+SHA1-Digest: yryTjZRNA2jCiu8WoB6d1lmYclY=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jpjl.json
+SHA1-Digest: n8yA/yAwGpG6B0PKRKeqEzdKjHg=
+
+
+Name: assets/lobby/font_num/DG_rank_mc_my_num.fnt
+SHA1-Digest: kYqwhz+m3d9xZkV7Npks4RPqAPc=
+
+
+Name: assets/remi_res/remi_rule.png
+SHA1-Digest: es7xR7iZQrAy1ORqun6Rlz/OJ7w=
+
+
+Name: assets/hw_common_res/word2/comm_msg_box_word.png
+SHA1-Digest: aphSQKO0Wz0ZyVgAJ/OyxmVXW+I=
+
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+
+Name: assets/domino_res/DG_result_lose_bg.png
+SHA1-Digest: L0Yz3yAdeXhy2FRBQi/Yo5OlHPM=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yndmn_vip.json
+SHA1-Digest: feJ62UtktMBxGqXVki/CsHZ2uik=
+
+
+Name: assets/draughts_res/Dam_grade.plist
+SHA1-Digest: m4lwzGxYWuUKNSZ/H/dw/Nzs/5g=
+
+
+Name: assets/qiuqiu_res/game_text_12_0.conf
+SHA1-Digest: JpDwrUq9EDxu0ulZXZ03nKWQtSA=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_4_a.png
+SHA1-Digest: wlV8wTcSKTjjKiHgZ7dHzihqBH4=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 02nBcK0ou91ukynkxGLtaBHy3KA=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_3.png
+SHA1-Digest: MHxFg+2ZoA3iB4Uf1G+FJpQqC7k=
+
+
+Name: assets/sound/Dam_match_player.mp3
+SHA1-Digest: AI7r9+mkaAeHpVr3SS7ZnUl1QyE=
+
+
+Name: assets/lobby/DG_djfx_bg.jpg
+SHA1-Digest: O8bXy/qi3gcDLaVUI3RdN1KdoIo=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_CardTypeDetail.png
+SHA1-Digest: b7clC2KPK4p7+Y+NHDGZe0vUjbU=
+
+
+Name: assets/slot_hkfg_res/word1/hkfg.txt
+SHA1-Digest: hA3Ll1lz4z8GG3HQul+L7B9bxNU=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc.txt
+SHA1-Digest: 78V+r23yrDk+Ny39yVgnWbDu9UA=
+
+
+Name: assets/draughts_res/fnt/Dam_dw_icon_zy_num.fnt
+SHA1-Digest: Y5VN7BMgDRMVMjeFrH4VOOrKlwk=
+
+
+Name: assets/slot_common_res/slot_main_btn_bet2_mf_num.png
+SHA1-Digest: QL8CMPiI8JdKO9pmFc/rtbY6VfQ=
+
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: fJSE0nVY/aXx8gVbBmqEA4Ocoss=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: xgnROefed1vgMaxaqCgtRMAIU/Q=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sq.atlas
+SHA1-Digest: owS/lgBFiYMgAOAngVf19Czxp+M=
+
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: WGdsXawEbvVCchqCj7EpqYkmZ5Q=
+
+
+Name: assets/slot_hkfg_res/slot_loading.png
+SHA1-Digest: GJQgf+o/DovD9tJFFNOH8Yrhi+g=
+
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 5ETrJ0P6KM4asgYFS4qjNuLPsdI=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: gEASdCSZRJ4YOoVpRWWNHiS124A=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_bjq.json
+SHA1-Digest: xpDVOajkgCyvtLgeD2/Xqb0q0vM=
+
+
+Name: assets/remi_res/remi_deal.plist
+SHA1-Digest: 5OMRl/ONvNtY4mqxUPQT/eL/gPc=
+
+
+Name: assets/remi_res/remi_task.png
+SHA1-Digest: xXRaWFLA3mxxAikWTmub8ZEOWx4=
+
+
+Name: assets/remi_res/remi_card.png
+SHA1-Digest: mAzf8utKJ1RCrdF6BdJ8QwvgdZ0=
+
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: vKu7RFb+NhQUoNUzgJ9N4axYEr8=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_opening.mp3
+SHA1-Digest: FXbCbUA0WHsK+az6sjx0h8T+wK4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: Q9A39Gubbfmvh6wgqcLHzLWlGtU=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_jl_num.png
+SHA1-Digest: vk0lzPUTqg2/iL5ODS3lt5C8cLM=
+
+
+Name: assets/lobby/font_num/DG_rank_last_mc_num.png
+SHA1-Digest: nxjYDjoEIb8OlPl8jy8CRkK1FjM=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_rd_num.png
+SHA1-Digest: OGqAMMJE8o28zP+D3CRbuhE33Fo=
+
+
+Name: assets/fruitslot_res/fruit_ui.png
+SHA1-Digest: 5PKFnRYfvDrNTQ4omB7awCVRu38=
+
+
+Name: assets/lobby/DG_other_cz_res.plist
+SHA1-Digest: JvUn0C6lu/YLYKul8VrLa9yAn+s=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpzdts.atlas
+SHA1-Digest: IpdL2qW5SIY9bhviv/hmNd7JmCk=
+
+
+Name: assets/slot_wlzb_res/wlzb_loading_bg.jpg
+SHA1-Digest: Ojqn7MIujFJPint2S/CKdvzNe2E=
+
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: 28vWtKN7jultSWu1w06G55TWnKI=
+
+
+Name: res/drawable-mdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: xfoG/V5v6IE9VgCYbR8NPC+hInU=
+
+
+Name: assets/draughts_res/fnt/Dam_game_tx_time_num.png
+SHA1-Digest: eUwBsO6Kto5R2m462D9R7DRmCYQ=
+
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: s67XyJ58V/nJ3gadGH+Bc7MppnU=
+
+
+Name: assets/kartu41_res/K41_task.png
+SHA1-Digest: hJYfvfoIzCxFNW+D3o54/TaJjE4=
+
+
+Name: assets/lobby/font_num/DG_send_num.fnt
+SHA1-Digest: QI+thXJmtHQ4Yz2o5kSIe6pL5qk=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: lZvYglov/F7rh1bqR+gIZerpDBA=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_bjq.atlas
+SHA1-Digest: 8C4U81KkjAaonYM8Yf6RGDrY+yc=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_zs.skel
+SHA1-Digest: u/uA2caou6pxvZ3wntC1O3dMsYg=
+
+
+Name: assets/sangong_res/SG_game_icon_chip_num.png
+SHA1-Digest: HgIgxYWKLokXlLskLAoc2AGgskM=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jsjl_num.fnt
+SHA1-Digest: pLQ3bEVIKpjTHyG4ECOD8tnhkfg=
+
+
+Name: assets/lobby/font_num/DG_send_num_gray.png
+SHA1-Digest: 7vg6RQa/4orR5yLNdA+VVk3fXL0=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jbpxrw.atlas
+SHA1-Digest: BuywQcaxUgT6hTMpJ4l42t7UOlM=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_sc.png
+SHA1-Digest: 1aiJiPHulkKFnliTZr7v7oyli0U=
+
+
+Name: assets/fruitslot_res/CS_num_01.png
+SHA1-Digest: kHU1d69vYViRg5uPD9NNHy4D9CE=
+
+
+Name: assets/hw_common_res/A_Game_Ckk_res.png
+SHA1-Digest: 4FRLQUL+GBambEpDSwiizGs5tGM=
+
+
+Name: assets/sangong_res/SG_ds_num_lose.png
+SHA1-Digest: NIKSPeChnh4megS48p2SG60GfGI=
+
+
+Name: assets/draughts_res/eff_spine_domino_fjb.json
+SHA1-Digest: kwg04g7xaQ360qvW9u0BAmAapfE=
+
+
+Name: assets/cangkulan_res/ckl_game_ui.png
+SHA1-Digest: MdTOLalkt/dxyTPnhrriCt731JA=
+
+
+Name: assets/lobby/DG_rank_last_jl_res.png
+SHA1-Digest: uLDQ5b5Tx6xD8RzTlxJPUQW6mwQ=
+
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: SnKN2n5JIeGfnXk3e5jzVPWib4k=
+
+
+Name: assets/slot_wlzb_res/word0/wlzb.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: assets/1_urge_text_0.conf
+SHA1-Digest: RZrGw8AlvTJTmxOvj2SOJsQptq8=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_yl_num.png
+SHA1-Digest: jBM3gDYytHJYd2LIW3xjkn+qAWY=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_bonus_result.mp3
+SHA1-Digest: BZ6hKVuIGu5UiFW7uFhKOV36GBo=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_gn_num.fnt
+SHA1-Digest: GduJKXLOXI4OwlCtgNHTsDr+lGQ=
+
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: FTJPZVPYxjU0naL+NIYH9ZVidKc=
+
+
+Name: assets/lobby/font_num/DG_loading_jdt.fnt
+SHA1-Digest: M++gG8EjYp8wcIC5aRXChMMaGeY=
+
+
+Name: assets/rule_capsasusun_2.conf
+SHA1-Digest: j15sCCHj1Qt1FT5IcaPlnQUXtko=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: IKtTqnzlIY7DpFmknZLDUcK+O3s=
+
+
+Name: assets/sangong_res/eff_spine_SG_px.atlas
+SHA1-Digest: dLlxJINu6zKG+j25RhpfhzDKeK4=
+
+
+Name: assets/sound/dzpk_bk_2.mp3
+SHA1-Digest: W8dY9vMnjZQL2dYCnsyjtALpPCQ=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_bjq.png
+SHA1-Digest: 2+iM70JnrfIupUb+J3oj79hvwhg=
+
+
+Name: assets/domino_res/eff_spine_yddmn_jqrtg.atlas
+SHA1-Digest: A/jbkUGALUbukIEXScjhlzaN9T4=
+
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: rKn9bykS/S15HwhB01QfnElUA4A=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: DK3RCyXyzFE9lbllhozBj0tU598=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdominoo_7.png
+SHA1-Digest: Ipm69a92zJRru8ZkRVihYCeIlAk=
+
+
+Name: assets/lobby/word2/lobby_hy_word_res.png
+SHA1-Digest: kNxMJWOC40twMz9SPdk1epKfA3A=
+
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: MGBCslGz1Pry5YVlgfGSxwIRraU=
+
+
+Name: assets/cangkulan_res/ckl_game_logo.png
+SHA1-Digest: V+FjxUQylJ0YBxfS9sk0q8DIKpI=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: ELHP/ybr6BY6lvp/69V+RfkZTGQ=
+
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: hhHr9GWuE7CPEyO0eAZQsjbgqEw=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_loading_logo.png
+SHA1-Digest: 6DLJao9+lu1N0jXcW69owvkYVs0=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000
+ .png
+SHA1-Digest: WvHioMVsEnLk1hJoq6dqHvhFfjA=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_5_b.plist
+SHA1-Digest: ALYikejEUILewB8dFdoDJc4yJJo=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_hj.skel
+SHA1-Digest: Xx6ICuCsMPZd1MvkIR6iCox0mSI=
+
+
+Name: assets/lobby/word2/DG_login_word.png
+SHA1-Digest: 2eCrelyFyWH5uI4+l3naW7NdZu0=
+
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+
+Name: assets/0_urge_text_2.conf
+SHA1-Digest: +gwZg/K3xo9QcdkV9RK3gBqzDjk=
+
+
+Name: assets/lobby/DG_xf_bg_game_17.jpg
+SHA1-Digest: dpkOMIKP7auxQ60kIM0xoVoChWs=
+
+
+Name: assets/remi_res/eff_spine_remi_win.png
+SHA1-Digest: G91dt1ZZOYlbbXwiJyLaxJnZ9dI=
+
+
+Name: assets/lobby/DG_AwarMoney_res.png
+SHA1-Digest: 0ArOu4sxgl+vXc3yZuOOoXY7xWs=
+
+
+Name: META-INF/com.android.support_support-v4.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/lobby/font_num/DG_mfjb_num.png
+SHA1-Digest: olPCGjM2oVATUSYjv2FCZJNmPKw=
+
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: 00sBD+9yQOF4c7imPSNH3gyYxfA=
+
+
+Name: assets/sound/ani_rose.mp3
+SHA1-Digest: YyS3Q/I4wmogF4XGY79VgHyhvOA=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_baojiangheji.png
+SHA1-Digest: IsS6LaHnxwrrPO6J458wV4/zPJ8=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_rule_nr1.png
+SHA1-Digest: YNmdqyJ2IbxDBmPdH/4XiW/zZZA=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_5_a.plist
+SHA1-Digest: m/mSdgS3jS8PpDQCuHo65pyuVek=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 0pZEH/xvvGcZULZXlcabKxti6Jk=
+
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: +sOGkOeL6T4+/ufU0WrShMND1BQ=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Ouio2uWvH7XLWYfqzUwzwmjm/jM=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_1.png
+SHA1-Digest: Bvmcgv4B/r/0QR6yrK5OpnOhODk=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_word_num.png
+SHA1-Digest: bjp4JZGyUEzZ8BasqFLTuP27mIs=
+
+
+Name: res/layout/tooltip.xml
+SHA1-Digest: hWgEIKNJ1RZJ3tOqxpuui4WhPKE=
+
+
+Name: assets/sound/boys_1/pass.mp3
+SHA1-Digest: YbLHuMzu5voGAtP0xfsbuRQkO84=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/json.lua
+SHA1-Digest: FWE/SnExKPVjXvE3v22aULmEysM=
+
+
+Name: assets/lobby/DG_recall_qrhg_res.png
+SHA1-Digest: +Z53sLktZsR7EsMisH7AMOEP4Ng=
+
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: BsS8Hgum+u4dPVvrgYO8lOvmyU0=
+
+
+Name: assets/lobby/dmn_lobby_base_res.png
+SHA1-Digest: y5AzW0dm9ps7Ra+Nfw0p7CVWBdY=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/NodeEx.lua
+SHA1-Digest: o5VFIpYC3WfWM4GwyaMuIvLTaKw=
+
+
+Name: assets/lobby/DG_bull_send_res.png
+SHA1-Digest: EbGRnsKBP9XlX/dOX/igKmqbPdk=
+
+
+Name: assets/sangong_res/eff_spine_SG_px.json
+SHA1-Digest: LCNRh74bCUVTAceW64gJZvBIlL8=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: ZO31F92yq079DJUZm4pm+lJspWc=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_bp.json
+SHA1-Digest: 0tOSWoi7ke1vlze/f4nwiqyEPLw=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_num.png
+SHA1-Digest: i/v6Od8s6QkuBQ4ncW2og2FFEqM=
+
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: ySwFu2vK+BAM4pzdTnTCL3reauI=
+
+
+Name: assets/lobby/DG_shop_bg.jpg
+SHA1-Digest: bUWQ1ykqAb6RPcwxRI8Q//1/rWQ=
+
+
+Name: assets/fruitslot_res/fruit_icon.plist
+SHA1-Digest: u8TtdPp2WjG3vcXDWDStmzQPtRc=
+
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: kDbv271AiXBSKX/nLwEH2L+Eg9Y=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_name.png
+SHA1-Digest: URf4MwO7hwCAVSfhSkCxv6pY47A=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_bigwin.json
+SHA1-Digest: NeWKVvjiDRD7BS3PeVJOoo5Q0rE=
+
+
+Name: assets/sangong_res/word2/SanGong_word2.plist
+SHA1-Digest: IZr7E01RNYMdBVrebrlWLzG+S1A=
+
+
+Name: assets/hw_common_res/cangkulan_game_toplayer.png
+SHA1-Digest: KLLFQVvXFMylf6kKt7U1ZxvFrQM=
+
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA1-Digest: mEMOENu6EbIk3bOPlINzieiI52k=
+
+
+Name: assets/capasasusun_res/ssz_game_jbp_num.fnt
+SHA1-Digest: 2WP+wDvKRmGUzDZJosDVS8f+t74=
+
+
+Name: assets/sangong_res/eff_spine_Samgong_jackpot.json
+SHA1-Digest: ZfKic/sXEEqOtkdIq3yrqFBSkV4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: D1jsYZU4cTnehZn5HOpfi6V3kmU=
+
+
+Name: assets/domino_res/hw_a_set_res.plist
+SHA1-Digest: rgg+bYbxHBs9+DiHQTwqUb3OujI=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocostudio/DeprecatedCocoStudioClas
+ s.lua
+SHA1-Digest: 4Skt41oIiePcbyNaEPhBHtBpbQo=
+
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: jcVys2o//lE/gi8CNleCfwmdpOQ=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: AK2jdOx4bZlgZ907By2q2D6NSqo=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_free_num.png
+SHA1-Digest: VExNqWuqqxsJ3iiBzC5ff8fzxOM=
+
+
+Name: assets/hw_common_res/eff_spine_vipst_hdtb.png
+SHA1-Digest: xLocIW02heEVywf7N4evgGYkUtw=
+
+
+Name: assets/slot_common_res/word2/slot_base_more_game_word.plist
+SHA1-Digest: ZcSTCC6Wm+uAzCmBcMFQ+37p+HE=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_polengshui.json
+SHA1-Digest: Ml+/1TH/1NjeUaEW1mYKUhDHt1Q=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 5ThZFP/+iYVybD8ENFXZKyOzbaU=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: A1pVRBaT2gk9lZQdi5aYDVOgrzY=
+
+
+Name: assets/remi_res/remi_card.tps
+SHA1-Digest: LhoUSbKdI789w9s2dvzy9rpsE+Q=
+
+
+Name: assets/lobby/DG_xf_bg_game_27.jpg
+SHA1-Digest: yVtTnp5AHaM0GXvd9Y1FL6pK/qQ=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_num1.fnt
+SHA1-Digest: 153D9xyTga7XmC1e8AsLMfFEtug=
+
+
+Name: assets/sound/ssz_shao_zi.mp3
+SHA1-Digest: iPHSt7u24c2s3Pc5o2ed5MCsIeg=
+
+
+Name: assets/domino_res/dhk.atlas
+SHA1-Digest: 8/sp/pelWvrOOtpCI/YT2vdZax0=
+
+
+Name: assets/1_urge_text_1.conf
+SHA1-Digest: SxU284sqmQ0RlWj667Oty+7D7D4=
+
+
+Name: assets/draughts_res/draughts_game_userinfo_res.png
+SHA1-Digest: Wcg9bkAeQXLWmVFGULSo88wE0B8=
+
+
+Name: assets/lobby/font_num/DG_gz_bq_word2.fnt
+SHA1-Digest: ryzM7Y5Gek0ZDxEpu+YRZMvi6Lo=
+
+
+Name: assets/lobby/font_num/DG_rank_last_jl_num2.png
+SHA1-Digest: kbHhnSFdvbHEpqSxy3Dn9zujV2A=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_xz_btn_num.fnt
+SHA1-Digest: 2MYYx4kj25LzrICWoUmqRyIz4M4=
+
+
+Name: assets/sangong_res/SG_game_yzdjs_num.fnt
+SHA1-Digest: 8zYc4XHMBS5/8NMGvaQz7YG788w=
+
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: iWPfYJZYbUFz/a/8Erp90bz/06A=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fw2.png
+SHA1-Digest: VRE6FAUTs+Y+2wq/vQbYC5ysB28=
+
+
+Name: assets/sound/ani_bomb.mp3
+SHA1-Digest: XS0dyy0HRdUOw9OKaJ3JfGqFWkA=
+
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: Gb1nayD8YrYIY+NYLjR2kbmiHeE=
+
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: PcBHIe27eVL1J+NPeAVOQAdEKLY=
+
+
+Name: assets/remi_res/remi_rule.tps
+SHA1-Digest: bonSddxJelHdVY9ODrushbrpWzU=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_bu_num.png
+SHA1-Digest: 0ojnV3Jg50rCuOpFLRdvhtc+lUg=
+
+
+Name: assets/slot_common_res/word2/slot_base_word_ui.png
+SHA1-Digest: 7RsEYc4OLc34ilDRrudcc3mOz1Y=
+
+
+Name: assets/sound/ssz_fapai.mp3
+SHA1-Digest: F3FZR/+zfPzVQV5mw0IKybCsENs=
+
+
+Name: assets/hw_common_res/A_Game_cangkulan_res.png
+SHA1-Digest: F+W/cWTGzMGZsjxsSKKCSk65B5Q=
+
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: RuY7cH8l+MhodnifkymgLnl7L98=
+
+
+Name: assets/lobby/word2/lobby_select_game_res.png
+SHA1-Digest: jFAHKn15rGUy8qRxnQHZ19OZWsw=
+
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: 2jbV7GF04KxKBmsRKo4yzHWqlfE=
+
+
+Name: assets/game_shop_2.conf
+SHA1-Digest: NckC/3NzCwGTtHi/lghG6x/8z/A=
+
+
+Name: assets/lobby/font_num/DG_qd_bqnum.png
+SHA1-Digest: XfPSV4zSf9srqROtUJXWZXgzzVA=
+
+
+Name: assets/lobby/DG_more_game_res.png
+SHA1-Digest: /HTqfFnipuVrZ8NVeX1TmPKph8U=
+
+
+Name: assets/slot_common_res/eff_spine_slot_dfdc_dt_btn.atlas
+SHA1-Digest: AH4XM7h1N2QD43tsPAhvQcoCvQs=
+
+
+Name: assets/hw_common_res/word2/comm_msg_box_word.plist
+SHA1-Digest: IWw66ioS9Q9v+Osf5mnPYnvFJOg=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: goxOqApFWDjSlcueZaQmSCez9dk=
+
+
+Name: assets/hw_common_res/word2/DG_a_game_word.plist
+SHA1-Digest: dBdbwxXhgIFaDfH6rEnAomP86ck=
+
+
+Name: assets/texasholdem_res/game_text_13_0.conf
+SHA1-Digest: drr/VXeyokDeDqpNW/jrXHO6cFo=
+
+
+Name: assets/sound/qq_hg_shoujinbi.mp3
+SHA1-Digest: MPNi9TUdahTCJwrRVdC3odQPV6Q=
+
+
+Name: assets/hw_common_res/A_Game_Draughts_res.png
+SHA1-Digest: YQPb3DPkLo61vbeIaBGklw0KRPs=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/display.lua
+SHA1-Digest: UYYsHCCgkFuCfcfo47wGHC3dzak=
+
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 3f2Gmy7pGZPASiGf+ZPR/zDMdpY=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+
+Name: assets/cangkulan_res/ckl_sf_lose_icon_num.fnt
+SHA1-Digest: YUGu/3vaMXJO6xAztWHgQOmA+m4=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: o9Bqb0hgo8pXjwB5/vNrCMHoBt8=
+
+
+Name: assets/texasholdem_res/word2/DG_them_word.plist
+SHA1-Digest: 1llH17mSCOuhX3GbXQ+bwkwJloQ=
+
+
+Name: assets/slot_dfdc_res/dfdc_fw_bg.png
+SHA1-Digest: Xveo4QL0Q4Z8Z1ELyQmEjMaKcOk=
+
+
+Name: assets/domino_res/DG_free_room_res.png
+SHA1-Digest: T0mChBMWgujm+/uLIMS3p7APoF0=
+
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: LZPkDQRfFYW4zEALlFRnUvGjPBw=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_big.mp3
+SHA1-Digest: MlZjaqJL8KDNWBhpjfL4UOLZlTs=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_yumen.json
+SHA1-Digest: QrtS/tsFmTFLzKu3G3n/B5xlzuk=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_reward_b.json
+SHA1-Digest: Dnoer6P2eR/dy0C4G7O4mH1aYdw=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/init.lua
+SHA1-Digest: Egvh9CJEFIaY93SrfVicj7B9ZDc=
+
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: 3cZf9KzrmZte69Ku90PuR5co0UQ=
+
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: opIJ7+w4nYDDlKpRCuZIZEQuA28=
+
+
+Name: assets/rule_qiuqiu_1.conf
+SHA1-Digest: nPh/07C5jgxGVTn49heEsBAjvhk=
+
+
+Name: assets/draughts_res/eff_spine_domino_fjb.png
+SHA1-Digest: y9TSMitRMBTYWfyGb5vbi9YMuFk=
+
+
+Name: assets/hw_common_res/comm_active_tipsbg.png
+SHA1-Digest: sl+/OfeoNbGIqsd5ofHT4QjWVBI=
+
+
+Name: assets/sound/lose_result.mp3
+SHA1-Digest: Zox5OnhihvpNwpxcPzSICIHa+/Y=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num2.fnt
+SHA1-Digest: QzX8RZGO9xYuqYMAZm10v/gpYn0=
+
+
+Name: assets/hw_common_res/eff_spine_Higgsdomino_smg.atlas
+SHA1-Digest: vgEmy2ICg0kc8j2tEqzg1m+t0iM=
+
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: jHbaRf8LLd5WskXFtQ/l7iPzBWA=
+
+
+Name: assets/slot_csfff_res/csfff_game_config.conf
+SHA1-Digest: K6gw5nP+fyxrjlKGKclmEIu1YGg=
+
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: yGvfTqLfYuf74VNdZR2sWg8gG3w=
+
+
+Name: assets/slot_common_res/word2/slot_base_more_game_word.png
+SHA1-Digest: Dg6Nq62EJ4uaMIUyudT7WKy+mxc=
+
+
+Name: assets/lobby/DG_shop_cz_bg.png
+SHA1-Digest: JPy31qPX0jGp3aRpR2wyd2FE4vk=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_Chips.plist
+SHA1-Digest: 51lP7cIN9PBOI+8rLyvGSz1RFyk=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: q5BP6iz9no2ZdX9wgjUfIjqk8OY=
+
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: lS3NS5mWkQWMEro4cA155XMxaqk=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: jUXes5sBIdjAuvOfVrnJvHW7r+w=
+
+
+Name: assets/lobby/DG_game_tips_res.png
+SHA1-Digest: g0+my96TJd6iW0F6uexuOmUWHfA=
+
+
+Name: assets/cangkulan_res/ckl_zyx_send.plist
+SHA1-Digest: SiDuZ4aRDqvkmAII3kL0hHDAwfU=
+
+
+Name: assets/slot_common_res/Slot_rank_win_num_me.png
+SHA1-Digest: UDmnQZj1k25tDf+q5heGx+E0ZiY=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_5_a.png
+SHA1-Digest: dtr0Idf3RZCBiM2tqnGWTJ0fqmA=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_pp.atlas
+SHA1-Digest: XSyqFL/rThkobbnLwy89ahvm60g=
+
+
+Name: assets/cangkulan_res/ckl_game_rw_num.fnt
+SHA1-Digest: OtmMD2FYyQVP8SYGb0AWdX1kLzg=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_3.png
+SHA1-Digest: 5qYarmm+S5tgQ2wXJ3BDPHVqSaI=
+
+
+Name: assets/lobby/DG_dj_res.png
+SHA1-Digest: Ne05YY2SADtTQb5A8HQQMfwRofs=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_rule_nr3.png
+SHA1-Digest: 0auia/EHXbf5x2Wu/kqwxCWwShM=
+
+
+Name: assets/lobby/DG_bull_send_res.plist
+SHA1-Digest: ktqnm06+pigRiaxlw35IViPwi3Q=
+
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: 5yruNDEEvCzTOgdWTOihOJNlRGY=
+
+
+Name: assets/hw_common_res/dmn_tx_show_102.png
+SHA1-Digest: J3vMGc8dZE0mYH7Chd48i2/UIn0=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus3.fnt
+SHA1-Digest: xig8hJesdDBaKloFxBo23LERZWA=
+
+
+Name: assets/draughts_res/fnt/Dam_match_coin_num.png
+SHA1-Digest: zm7fqhnqNUsHiA5gvNES3XPNajI=
+
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: lrHiZGpZBQe059I08YZwT8jKzTU=
+
+
+Name: res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: jKlzCaCm0iBuPuujcLW6vJx7GcM=
+
+
+Name: assets/slot_common_res/Slot_rank_mc_num.png
+SHA1-Digest: W1VtnF3hhccAfaBz1jkPF4FrDyI=
+
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: A2bR/X/HgVrcJD/+dxtCuPIHCCc=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_freespins.json
+SHA1-Digest: OgbJFAkW7qFKek61YHvrvewHRlM=
+
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: S9B9R2/mI2xg2ic/WQABK/Xa6N4=
+
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: PO306ovpFTeIRs3uAT1c6iKC6jE=
+
+
+Name: assets/kartu41_res/K41_result_fs_win_num.fnt
+SHA1-Digest: X/YlZIC9wmNr2FdWOdECeNDMKCQ=
+
+
+Name: assets/slot_dfdc_res/dfdc_loading_scatter.png
+SHA1-Digest: 6dfsyypEQj9kMhO5mhM4Qw1SFBk=
+
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: 00sBD+9yQOF4c7imPSNH3gyYxfA=
+
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: 3UDcHzowU1aZ/NU299YffK2JhI4=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz4.png
+SHA1-Digest: fJWC6FAG09b1TYD8vhmp3bhNStg=
+
+
+Name: assets/sangong_res/SG_game_bg.jpg
+SHA1-Digest: akp9eC3DSVwurTqOQ/0eT0fq0Cs=
+
+
+Name: assets/sangong_res/chip_num.png
+SHA1-Digest: eczDLozSdOCyQ+wc7zYO4SBK/r0=
+
+
+Name: assets/domino5zp_res/K5K_game_baseui_res.png
+SHA1-Digest: eZce/FA4shNiSzJ6L3xi1cA8DbE=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz3.fnt
+SHA1-Digest: hkZ5k5J3xhFN2JXRpSX4+jpFWAw=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_5OFAKIND.png
+SHA1-Digest: zFkRb8kS8CA38o58Ip4kgXcQgd8=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fu.png
+SHA1-Digest: sPrzFO2UA7Y+GcIfCYmgEt8zoOc=
+
+
+Name: assets/lobby/DG_recall_qrhg_res.plist
+SHA1-Digest: AtFr9LDhhPMtjodpka/nYxVX7Xk=
+
+
+Name: assets/slot_common_res/Slot_lobby_bg.jpg
+SHA1-Digest: 4uVbMNT4IfisjQWs/cutaDXSeaQ=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_1.png
+SHA1-Digest: 2hAVei7Fx80h7jP31tQkXXXTtvo=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: bjw5Qfj9OrAUagjyW3bicEthmg4=
+
+
+Name: assets/slot_panda_res/word0/panda.txt
+SHA1-Digest: 1ZwDBZvOyyBKn33o8VJrWU5TegQ=
+
+
+Name: assets/slot_csfff_res/word2/csfff_base_word_ui.plist
+SHA1-Digest: 1u63asZ/mLTfWdGdGtRDuo0epbw=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_bonus_bgm.mp3
+SHA1-Digest: IZ5QVONbbddLVYFnVo2TJgT/9Ag=
+
+
+Name: assets/texasholdem_res/them_gameview_2.plist
+SHA1-Digest: h9qS3nePJNs3d5ZS8yE+MDnkxms=
+
+
+Name: assets/slot_common_res/sound/hkfg_f_vo.mp3
+SHA1-Digest: eYUEum0asfpALgXXu3+1o5oz8YA=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_vip_num.fnt
+SHA1-Digest: sjZtbpQKDyIICmAfwgXHSHzpunk=
+
+
+Name: assets/lobby/font_num/DG_hgjl_yxlb_jl_num.fnt
+SHA1-Digest: GBXV68YfDuH05YJAzMh7svQXoNY=
+
+
+Name: assets/fruitslot_res/game_fruit_2.conf
+SHA1-Digest: HN/NQGnLawDtJr05+FVz5TTUDGM=
+
+
+Name: assets/slot_common_res/sound/hkfg_FG_trigger.mp3
+SHA1-Digest: KwPd4+P36TyfCg4mIA+5sP8cQD8=
+
+
+Name: assets/cangkulan_res/ckl_game_btn_jpq_num.png
+SHA1-Digest: g+f9T+pFUdQrewT4TEbOpNVhCP4=
+
+
+Name: assets/slot_common_res/eff_dfdc_bj.atlas
+SHA1-Digest: Lj99CcEq60VXOi0zJxFz6gD6sdY=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: tC6uw2w2e+vYOuhd45mTIYRtoKE=
+
+
+Name: assets/kartu41_res/K41_result_jb_add.png
+SHA1-Digest: ucV5m7UbxRKtAGZJtVjiGX/kIn4=
+
+
+Name: assets/lobby/DG_gz_di.png
+SHA1-Digest: k3OOU/Wz+jVRD06uRBg5mlFnQqo=
+
+
+Name: assets/slot_wlzb_res/wlzb_loading_zcjb.png
+SHA1-Digest: eSkrux9LZX+4nt13NWv2nHdLqZ0=
+
+
+Name: assets/slot_hkfg_res/pt_slot_game_1440720.conf
+SHA1-Digest: CkT7YF0FtMVj5x3/OyrwER4sNx8=
+
+
+Name: assets/sound/ani_money.mp3
+SHA1-Digest: fpQ+V7VMxLwbKoPnhny16Qam8wM=
+
+
+Name: assets/sangong_res/SanGong_setup.plist
+SHA1-Digest: TLEQ/r6kiThML84384G6FVfkZX4=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpdjs.png
+SHA1-Digest: MGWyqmnH+qm7FNKXxMDD9G64BeE=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_reward_b.png
+SHA1-Digest: fRxDo0cAf73K14yEMQtectzqpds=
+
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QyrilM6n+5uQi4WyzI0NsxXANtA=
+
+
+Name: assets/slot_dfdc_res/dfdc_ty_bg_L.png
+SHA1-Digest: o5aTE4eaAT0sPRB7EGZJviKvlbI=
+
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 69Uq0XVEEDCz62q7/piNqhuoD7Q=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: w83QFsgDIHscJu1mqT2UW8obr/Y=
+
+
+Name: assets/domino_res/DG_game_userinfo_res.plist
+SHA1-Digest: xwG14xcGMtXeRLoTenvHhyaHwsk=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_drjb_num.png
+SHA1-Digest: kVpXIkBaeq4wQKcYV9cP8cnL7uY=
+
+
+Name: assets/remi_res/remi_bg.jpg
+SHA1-Digest: fPPBPHb3Ku8ueG6SZqy83WYpKAk=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdominoo_7.json
+SHA1-Digest: b3qZrON6x5P8eEU+GjS435d7g8w=
+
+
+Name: assets/sound/ssz_cardup.mp3
+SHA1-Digest: CUBzV+HQccXNxmbK4xJkvWMu200=
+
+
+Name: assets/sound/boys_2/allin.mp3
+SHA1-Digest: WjhEFvumVgcQIp3gfeCvXypFEAw=
+
+
+Name: assets/rule_texasholdem_0.conf
+SHA1-Digest: JaViWyzYhIENal9tItQcF0NIKjI=
+
+
+Name: assets/capasasusun_res/capasasusun_ui.plist
+SHA1-Digest: wsTgw9zbd7Rpfy38JP0f/EuK4c8=
+
+
+Name: assets/lobby/DG_xf_bg.jpg
+SHA1-Digest: 4ffQwF5uUouL5XnrMSOFVGp82cQ=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: NFfbz1bv3RO9ZYoDjJPGDh78fOU=
+
+
+Name: assets/prop_info_2.conf
+SHA1-Digest: kIDePHkKYCx82oBXHTRvUZZNC+I=
+
+
+Name: assets/lobby/font_num/DG_xf_num.png
+SHA1-Digest: lJeBpcYKNPShtlNJXsl33Pj5JCg=
+
+
+Name: assets/sound/ckl_hu.mp3
+SHA1-Digest: h0PaQaMc6GgkeeCru3dgt0T/Mh4=
+
+
+Name: assets/lobby/DG_ShowOff_res.png
+SHA1-Digest: Wr3zQvYu0eo3G+Il33niQkCzVwg=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_ppds_num.fnt
+SHA1-Digest: 50l5htGlz02Z1pyBnbKK2wQA8SA=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_num2.png
+SHA1-Digest: nqJsMpklP8BphRj9VUcf8IcDmLY=
+
+
+Name: assets/sound/Dam_match_vs_to_coin.mp3
+SHA1-Digest: 1tq3IwSBRhbJYFR2PkbrbrQY9d8=
+
+
+Name: assets/cangkulan_res/ckl_bgui.png
+SHA1-Digest: MLLISkxZlECFiQkXLAUW9WnuXko=
+
+
+Name: assets/slot_panda_res/word2/panda.txt
+SHA1-Digest: 6DXfnrcFrZ4KS4eAhj5JJLCTFQc=
+
+
+Name: META-INF/com.android.support_animated-vector-drawable.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocosdenshion/DeprecatedCocosDenshi
+ onFunc.lua
+SHA1-Digest: kEEQFtzYRn5uXjAslNWc0o1Hb6A=
+
+
+Name: assets/fruitslot_res/CS_num_02.fnt
+SHA1-Digest: mWMYuvF8S1zXayr3HqsOTTyM4eE=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_UI.plist
+SHA1-Digest: 6uNgIzt4p81Wgyfe+6gj+yF2PEc=
+
+
+Name: assets/lobby/DG_lb_bottom_bg.png
+SHA1-Digest: lxe9P7ITm3OQnPMtfTL0UWvAH74=
+
+
+Name: assets/slot_dfdc_res/dfdc_youwin_num1.fnt
+SHA1-Digest: Ti7TKhDZqMe/xdBFTSIEAtpJodM=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_tl.json
+SHA1-Digest: 23v6v9yM9H7dV5J5hkW0uLcfvrM=
+
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: RsOvN/pL+j8WdnF7lGHO1mzkFTs=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_qhgc.atlas
+SHA1-Digest: a5kMlmfm5Oa1s6OjLJ91Isu3lGM=
+
+
+Name: assets/slot_common_res/Slot_rank_bg.png
+SHA1-Digest: 6F2C5IsteJ5pPXw4JO6pIeK3uk0=
+
+
+Name: assets/lobby/DG_hgjl_qr_bg.jpg
+SHA1-Digest: PK19/ndhHcaNoiM+tCM/w7mBUoM=
+
+
+Name: assets/slot_common_res/sound/hkfg_winGrand.mp3
+SHA1-Digest: hFOcjbao3kjrKis7V3KWY32aA1Y=
+
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: pIsfAHg7oYtgpJstkghYr8ie4pk=
+
+
+Name: assets/domino_res/eff_res/shandian.plist
+SHA1-Digest: Qj9euXCIsCKgQ4gQdoSzk33HAKQ=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 1/FXt00E0Mr8GUWNIDQCnUx9Qzc=
+
+
+Name: assets/capasasusun_res/capasasusun_task.plist
+SHA1-Digest: 03A0osYvDdr21THW36nSsNOduHk=
+
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: V2yxxCAfGSv3RsOJAZJN+35BGuw=
+
+
+Name: assets/slot_common_res/sound/hkfg_o_btn_other.mp3
+SHA1-Digest: pIoGd64f57Edlf+gYqpWXwh14O0=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: n8TfpaUDWC1ZG/DnCL+kvaeXf08=
+
+
+Name: assets/hw_common_res/A_Game_DG_res.png
+SHA1-Digest: 2GFl5okaS9M2b1UsKKI5baXZu1E=
+
+
+Name: assets/sangong_res/SanGong_chip.png
+SHA1-Digest: yn8Lj7v01jhWgm21gt7h2mSOtlQ=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_btn_day_num.png
+SHA1-Digest: 34D7blx2Vb6JsvRzDVruMjKf/Fk=
+
+
+Name: assets/remi_res/remi_rule.plist
+SHA1-Digest: WXV3tzk9/urrHcm5+40eSFOcDEI=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_UI_2.png
+SHA1-Digest: 0fJXpOx3oU4HTnMg5LoLij2L4Dg=
+
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: hYMrgbTr/PmCKthwQQt0K9OlI8w=
+
+
+Name: assets/lobby/DG_loading_res.plist
+SHA1-Digest: erndzNMbgAoEhrBlWBa/NS4PLkY=
+
+
+Name: assets/capasasusun_res/ssz_js_add_num.fnt
+SHA1-Digest: e44YrOo6ZWtDgofl0TIgNmPOkV0=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UIWidget.lua
+SHA1-Digest: ykKCIfDdw6qT4ooBBJhpx3rYM+c=
+
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: o8tPqUNBs2UN5fRdOZwEj9DMouY=
+
+
+Name: assets/lobby/font_num/DG_qd_num.fnt
+SHA1-Digest: T1TjK17sC3uWtPbr4TlbjTaUpkk=
+
+
+Name: assets/slot_hkfg_res/pt_slot_game_1560720.conf
+SHA1-Digest: YbyilLkRXvjsGUkkb3oLtYvkmNg=
+
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: M+qYRJW+v16OkJEL3cDUY0es+xI=
+
+
+Name: res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: rTYE4O39txuVAHn7iT1+qEUf0DQ=
+
+
+Name: res/drawable-mdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: XJhW397sieHNkGcBjcY+qZV/7wo=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_qld.png
+SHA1-Digest: pjCVF2SsxDwz0hvkdHAJWpvsQMw=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: AfbQuyZF1JMvjiaXDfLvtNLgncI=
+
+
+Name: assets/lobby/font_num/DG_qd_day.png
+SHA1-Digest: O9LHI+g0e4OA3rPTymrsYlpXZOU=
+
+
+Name: assets/cangkulan_res/game_text_17_1.conf
+SHA1-Digest: TAgyHiUZeQraeAX4xXem2wqsQZY=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.pn
+ g
+SHA1-Digest: 2xgU0++/KN5qhzcL/Lhz8p8cTNU=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: lC47V58n3eYOJicP+Ng5Di5wekE=
+
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 0nGXIGkX9PVLNDsLZlnX6dsgd0Y=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_kjdjs.json
+SHA1-Digest: vgFwfmIcCaZ8zE0XGKn+wKh2frA=
+
+
+Name: assets/game_info_2.conf
+SHA1-Digest: fDM8vQWJLDozBygvlzSISqmEMVU=
+
+
+Name: assets/slot_common_res/Slot_record_bg_wl.jpg
+SHA1-Digest: TvwLtzm/DH1fytgxlgyf8r/2rC4=
+
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: +3NkVdmCmxwUpsSrvPVabmOED/8=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: E/mBhY9wNG5VaFmW6qL4iXjAHvY=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: c+ieuII6udSDVml51EH3TH6KocA=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_linewin02.mp3
+SHA1-Digest: COvWme4rnQi4iPilvkuE+eQ1UbE=
+
+
+Name: assets/game_text_0.conf
+SHA1-Digest: qEWIM1e5iS8/azVhq5nv4AjlywA=
+
+
+Name: META-INF/com.android.support_cardview-v7.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/texasholdem_res/DG_them_bet.png
+SHA1-Digest: OdbhJynxdhhkTQoEuVXJPvSQsTM=
+
+
+Name: assets/slot_common_res/sound/superwin.mp3
+SHA1-Digest: Kl2jiXA55WVeTrh2HqpgY3LTWrc=
+
+
+Name: assets/kartu41_res/K41_guide.png
+SHA1-Digest: 6tmTFQzS5wkboWubqYc80F0xVlo=
+
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: iuZgHfgnv7s0XCOT/uNTwQmIZqI=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpzdts.png
+SHA1-Digest: ii6UFWMISgo+67a3F/6CCjELP74=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_0_b.plist
+SHA1-Digest: 1TyIxdy1bWuMnkyP6J0swgfufL4=
+
+
+Name: assets/domino_res/eff_res/xingdian.plist
+SHA1-Digest: bwGUw9jHk0vIF4kEVAc29n0M4VM=
+
+
+Name: assets/lobby/font_num/DG_hgjl_xz_day_num.png
+SHA1-Digest: PaNPx5W5eUfZbaI6g1U+JG2SMS8=
+
+
+Name: assets/sound/qq_changcard.mp3
+SHA1-Digest: Lj0USs2nzxJ3IuqFL2xLXyD9ZRo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UITextField.lua
+SHA1-Digest: Jwr2OPROl723OhxO6EFsx0rOahk=
+
+
+Name: assets/remi_res/remi_game_jbp_num.fnt
+SHA1-Digest: 6I44SoNdJ0EmgQyGmjDMUMEV870=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: oxWR5Bbo8BTqeY75wNPbW4jRsqE=
+
+
+Name: assets/lobby/font_num/DG_sjlb_num_hb.fnt
+SHA1-Digest: fM8S4vWeV63KvXgvSpK/Cl0oSPs=
+
+
+Name: assets/sangong_res/SG_ds_num.fnt
+SHA1-Digest: VukdXKEWNIcAeprvAkblEcNl5es=
+
+
+Name: assets/texasholdem_res/DG_them_cm_num.fnt
+SHA1-Digest: I7PRHC/ke3F34GMATgLRVfyCpGs=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_jbd.png
+SHA1-Digest: 10ROyO+2cb/rc3IJ59kbvVC5UiA=
+
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UIScrollView.lua
+SHA1-Digest: T0E2ArR1tccWClE1zdupuHNccps=
+
+
+Name: assets/luaSrc/luaCocos/cocos/ui/GuiConstants.lua
+SHA1-Digest: Pf3im+u6AUD5wuYEj+Zo2o5Vyo0=
+
+
+Name: assets/lobby/DG_rank_res.png
+SHA1-Digest: 3wYEShV5B8n6VFe0DWCXGnlO7ZM=
+
+
+Name: assets/sound/ani_gold.mp3
+SHA1-Digest: cIi8JAIpo3cN0Lxsfv0INAfasAY=
+
+
+Name: res/layout/webview.xml
+SHA1-Digest: qyuwgDGwRALLswWg/vQ4lnEyb0M=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_bg.jpg
+SHA1-Digest: BBaZ4VVnL9hv/zvR7rxu1/HArBA=
+
+
+Name: assets/kartu41_res/K41_result.plist
+SHA1-Digest: /T1cIY+kDj5WKHBtpi+1+xjmOUs=
+
+
+Name: assets/lobby/DG_set_res.png
+SHA1-Digest: rk+sobPRL98TtXFgoxDrOmz41aw=
+
+
+Name: assets/sangong_res/SG_ds_num_win.fnt
+SHA1-Digest: pzwSh0JtnXKzMwKEUMHrru0AJic=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UIPageView.lua
+SHA1-Digest: kh5Ydt8t3V51XtbUg7+t8N0c/JE=
+
+
+Name: assets/sound/remi_bg.mp3
+SHA1-Digest: SZDipfH0JtoeVifbQh8aDgTpk54=
+
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: RKRhI60o4u0xZruqLmKZuEdMUNM=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: nEfj0nfPBbqur1eTMAml8UkS7G0=
+
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: AOfMpNzBiO7X4QwYntEFRULIG9I=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_2.fnt
+SHA1-Digest: 23ex+TGMaN4ysJgPU+CpUcYd028=
+
+
+Name: assets/domino_res/DG_rw_dp_bouble_num.fnt
+SHA1-Digest: sAh0qg7y7xGjk4XekuS9vWYlu+0=
+
+
+Name: assets/capasasusun_res/game_text_14_0.conf
+SHA1-Digest: 6G9ZT+lJnNGTdyHiccmqC2a/+F4=
+
+
+Name: assets/slot_wlzb_res/word2/wlzb_logo.png
+SHA1-Digest: Vi0LiQJD25ZOqArTVYX1G0xl3qU=
+
+
+Name: assets/slot_common_res/Slot_lobby_top_lv_jdt_num.fnt
+SHA1-Digest: y6GsVj1oQhsnl+F5trtcDKtbjFk=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZYJ1BoJIcaecjErjG6bFDuhhj2Q=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus1.fnt
+SHA1-Digest: V6bKea0tb4WFVzpRpF09n2eR2B4=
+
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: hy6o/1qUow8pnn+ItHzmwo9fUMo=
+
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: 4BeYsl9ii+U2CDI+xgju0pIYs+E=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: /opAyV2LR6cTmQ4he3wQX6vQFu8=
+
+
+Name: assets/cangkulan_res/ckl_zyx_pd_num.fnt
+SHA1-Digest: dDKlskY9zm8dXYU8uV7dwCAA7rc=
+
+
+Name: assets/lobby/dmn_lobby_base_res.plist
+SHA1-Digest: 9Ed1T9CR1nM10/FAIH2omFdTxuM=
+
+
+Name: assets/luaSrc/luaCocos/cocos/network/DeprecatedNetworkEnum.lua
+SHA1-Digest: SQ07zxJZiW15zBDARzBlaSTvIcM=
+
+
+Name: assets/lobby/DG_hy_bz_ny.png
+SHA1-Digest: 2PzKa/dSzj/214KA6achKDet9r8=
+
+
+Name: assets/rule_k41_2.conf
+SHA1-Digest: ua/rKGnakN+ZADTHVpCiz+pqgfw=
+
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: EUO9LPe1T8IY8QtiJvmg9r/l0cg=
+
+
+Name: assets/draughts_res/eff_spine_domino_qzcx.png
+SHA1-Digest: kpa2iCd0ND9Br3AJoCp34E6AV3E=
+
+
+Name: assets/lobby/DG_VIP_res.plist
+SHA1-Digest: qJusTWvoJYLMnXvOrFDgng+loGE=
+
+
+Name: assets/sound/slot_lobby_bk.mp3
+SHA1-Digest: myD8yFUdCTdV1wrnM69F4SloYUw=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_ksbp.png
+SHA1-Digest: 6AXiSfBKPzL02lGv+XudmoHkJNE=
+
+
+Name: assets/slot_dfdc_res/dfdc_rule_ui.png
+SHA1-Digest: +kGXLba1j5ANVE44vy6qWVhg9gM=
+
+
+Name: assets/sound/get_award.mp3
+SHA1-Digest: aaMOjs+dksDX/kOB7ym7KkZzDGU=
+
+
+Name: assets/slot_common_res/slot_main_cishu_num.fnt
+SHA1-Digest: ln1y0mhSSORPJA5gl5RKFFvkulg=
+
+
+Name: assets/lobby/DG_lb_chat_res.png
+SHA1-Digest: K6v2KlYPHRx1KSrhGLN4QDXAqTs=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_youwon.json
+SHA1-Digest: DT0Dz+v8wgd8efqKVUir5m2B8HQ=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_jian_num.fnt
+SHA1-Digest: w1TPpOLKyfPWVaNrEkAn3KKku/E=
+
+
+Name: assets/cangkulan_res/ckl_grxx_level_num.png
+SHA1-Digest: 5YpQazpX+WGTccA0PmjEUglDIw4=
+
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: jfWaTn6k987MQ1WCf52i2ZAXB94=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_main_bgm.mp3
+SHA1-Digest: 2l/rKCkP+sayaBYWRXPN5zkXGXA=
+
+
+Name: assets/cangkulan_res/ckl_game_rw_num1.png
+SHA1-Digest: 0eJd34UNDbGk97Ymg6aSRdfRpjA=
+
+
+Name: assets/slot_common_res/slot_base_bottom_ui.png
+SHA1-Digest: tLuC+dm6nBNHkVkv2ZCaC0xcigo=
+
+
+Name: assets/hw_common_res/word2/remi_game_word.png
+SHA1-Digest: PFsFGRo79dPxXOD5bGnmnoWicGk=
+
+
+Name: assets/lobby/DG_comm_kuang_res.plist
+SHA1-Digest: /wgqthFFY1d/nYpmaTiAZugg+gE=
+
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: VAK/mKFKLH5Nx47Nz5hw4VpXc4I=
+
+
+Name: assets/slot_common_res/sound/base_main_scatterlong.mp3
+SHA1-Digest: RS0cnLbs3vn2hCqs12ofL9l3xEQ=
+
+
+Name: assets/slot_panda_res/panda_game_config.conf
+SHA1-Digest: Bhlo68Pw2/bHPaqGyOXFyQKaNd0=
+
+
+Name: assets/slot_common_res/word0/slot_base.txt
+SHA1-Digest: PeNQ/+DJulxhMh4PaDYS1CGx7bU=
+
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: +/cT3+0N8I+XSw0FPP5O3x2f5g4=
+
+
+Name: assets/rule_samgong_2.conf
+SHA1-Digest: WlJCnRYWwjd7TgA3KQDh2r3+33c=
+
+
+Name: assets/domino_res/domino_card_res.png
+SHA1-Digest: 8MiHhTZJCylYjGZRVM71P/2bHGo=
+
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: uxucpiMtOSWQyaKU6Zo772rjsP0=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_0_a.plist
+SHA1-Digest: pLqL9E72d/Fl2/885VzSwE2d6No=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: Osfw11YL10WQkjXxgGt64AbLp0M=
+
+
+Name: assets/slot_dfdc_res/dfdc_win_num.png
+SHA1-Digest: AXFTM+l/xgxD8jk740jJnvJschw=
+
+
+Name: assets/slot_common_res/Slot_lobby_renshu_num.fnt
+SHA1-Digest: h5BT899wFk14MiXJ3LuLss9dE1s=
+
+
+Name: assets/slot_common_res/word2/slot_base_msg_box_word.plist
+SHA1-Digest: vQ3PDXF8Ts7eLgsA6JQoducn/IY=
+
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: hdTq9tdl+p/ZgNk/sSbaLOT7qsw=
+
+
+Name: assets/sound/deal_card.mp3
+SHA1-Digest: 9vaug8BURLQecicDUR6DoAqLjG8=
+
+
+Name: assets/draughts_res/eff_spine_domino_dw.json
+SHA1-Digest: r+bkWX697r+PuB1khvtYtQG5ad8=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus_word.fnt
+SHA1-Digest: EI/6heta4KJHADUPnMjilWf92Nc=
+
+
+Name: res/anim/tooltip_enter.xml
+SHA1-Digest: bDAx1kJkw2m2RyNjw/cb8QdEZMc=
+
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: MP5YtxcR4NakqIZdWWke6dMovSo=
+
+
+Name: assets/game_gem_shop_2.conf
+SHA1-Digest: 8KNbEsVFfHF636Azllp0VP0QEEw=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocosdenshion/AudioEngine.lua
+SHA1-Digest: r/K0D6DV8vqW/JseiYxzHLFFJM4=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: vZ61iKaSDnaZi3rt3g0sK4LBM6g=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_qd.png
+SHA1-Digest: lB8H+DCTGoV96L4HKIP8X/GSOcg=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_maxbet.mp3
+SHA1-Digest: 8SxaxYriCUuG2C+g96i18kNjCvI=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_rw_res.png
+SHA1-Digest: +g3h68m/GYTwb1ErJ/vnFPLdoyk=
+
+
+Name: assets/slot_common_res/slot_base_loading_zi_num.fnt
+SHA1-Digest: /HjRqSq2w92jHUANXggQecLhFz4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/SpriteEx.lua
+SHA1-Digest: kNldKkhihwvm3ZLkA6W5t+vL4EE=
+
+
+Name: assets/slot_dfdc_res/dfdc_msg_box_ui.plist
+SHA1-Digest: c/N6Ej1jOQn0lPF1ylW2JRFg5vw=
+
+
+Name: assets/sangong_res/SanGong_task_ui.png
+SHA1-Digest: GSlRX20HbhVWUvMUXH9X9y5FA4c=
+
+
+Name: assets/sound/dzpk_bk_0.mp3
+SHA1-Digest: hgj7nCyoYRJG3RR9LDV3JL8bxlw=
+
+
+Name: assets/slot_wlzb_res/wlzb_msg_box_ui.plist
+SHA1-Digest: +Qd2nL8jN8fK6mVBEqkcoCJzYL0=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_cm_num.fnt
+SHA1-Digest: z9lsuEAbelUY7YWoWjQHM9sWEAo=
+
+
+Name: assets/lobby/DG_loading_res.png
+SHA1-Digest: pM6fiQlLKcupt53EdsZcTKTLfuI=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_bigwin.skel
+SHA1-Digest: bPMEFMFfKLRi4HkG2IJ1YQsgZAM=
+
+
+Name: assets/capasasusun_res/ssz_game_icon_chip_num.fnt
+SHA1-Digest: vQgyGZ/l4kII9QmNyfBc9NESEg4=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_jbd.json
+SHA1-Digest: FHk2nA7cD6D8YmV7e+rOs7gG9Ek=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_jb_num.png
+SHA1-Digest: C8QYELqagI7BRRe0JRx3bQ2ijwY=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: i6pCyKNDkCGzNzTp71ixAq/8VCM=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz.png
+SHA1-Digest: 3hqeSaRfYLLHu5SQOgxcsqFM9yM=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_spin.mp3
+SHA1-Digest: v8y0QMjksbRoKQ810WT5Ils4eWo=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num1.png
+SHA1-Digest: gMSih4zEgxAq4Ysud4Cg/MPbD3o=
+
+
+Name: assets/sangong_res/SanGong_chip.plist
+SHA1-Digest: PhUeZfJFlpSu0ej1sfwWsDHMBLE=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jackpot3.png
+SHA1-Digest: CWSr/erH4XAKPvnYNqYfhpXtRcY=
+
+
+Name: assets/draughts_res/Dam_rule_dw_bg.png
+SHA1-Digest: pqcGhnOFnOVu2jUWsdRDbOqdLH0=
+
+
+Name: assets/luaSrc/luaCocos/cocos/spine/SpineConstants.lua
+SHA1-Digest: 05vY4mLvOXMlnxLj3MDeMKlRz7s=
+
+
+Name: assets/sangong_res/SG_rule_bl_num.fnt
+SHA1-Digest: q5WEOJGkxXcre1a5yqv9JkduweU=
+
+
+Name: assets/remi_res/remi_game_jbp_num1.fnt
+SHA1-Digest: W3H7p1+8xFASgMM6ep/XHQs77vI=
+
+
+Name: META-INF/com.android.support_support-core-ui.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/slot_common_res/slot_main_btn_RD_stop_num.fnt
+SHA1-Digest: +amFng7kKviof0np0yAq7jvnT5c=
+
+
+Name: assets/sound/dzpk_self_sitdown.mp3
+SHA1-Digest: s+GbTMUr6m7wiIJ6qjgqX/qsMnE=
+
+
+Name: assets/draughts_res/eff_spine_domino_dw.png
+SHA1-Digest: BygK/3e1VGKVJWsBf692aR6k5gI=
+
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: j2QIELq/ezjYLoRvaswgZtOOs4I=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: KNeuxjJeOss8IP0JXYKjFjOPVPU=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_CTakeIn.png
+SHA1-Digest: FM00jVdIvDizIx5yqzu1uugrRbc=
+
+
+Name: assets/slot_dfdc_res/bg_kuang_bg.png
+SHA1-Digest: l5f/5V8gi4HfY8eUnk4m4X7ax10=
+
+
+Name: assets/lobby/font_num/DG_vip_name_jb_num.fnt
+SHA1-Digest: qJo1e9VjrB4SrIRXfT3bumdSpoU=
+
+
+Name: res/layout/com_facebook_login_fragment.xml
+SHA1-Digest: oBq5S51UNofE9sMzV4zb4GsjrPM=
+
+
+Name: assets/sound/ssz_cardType_0.mp3
+SHA1-Digest: PaqylutK8+/PMKttGOQYxAB4oaU=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.p
+ ng
+SHA1-Digest: 0C7TMQm1cjy1WH+efcIcg9GwTSM=
+
+
+Name: assets/lobby/font_num/DG_yqyl_xq_num.fnt
+SHA1-Digest: oZNfA1VHe1zdxApWWUjbPsBVa8s=
+
+
+Name: assets/hw_common_res/eff_spine_Higgsdomino_smg.json
+SHA1-Digest: pLwpgPB6rhMyqZ3ETFy4XMR+7pM=
+
+
+Name: assets/slot_hkfg_res/slot_msg_box.png
+SHA1-Digest: z4EZ4Ps4UYXSWi5YQiO6efsAT2Q=
+
+
+Name: assets/fruitslot_res/word2/fruit_word.plist
+SHA1-Digest: oPdWaKtefMDownRSrTOfED04ctU=
+
+
+Name: assets/remi_res/remi_deal.tps
+SHA1-Digest: UEFZqUxvneZ+FTajjnTo4/DZ7VY=
+
+
+Name: assets/draughts_res/game_text_22_0.conf
+SHA1-Digest: 9LyvG1zNIHQe8rSbQ59jymHOt78=
+
+
+Name: res/drawable/com_facebook_favicon_blue.xml
+SHA1-Digest: 4+8vdURv/eIHwHB+tKafjA9qxZY=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: bvkSnzG+4r12dRWJRd9DLrqCzfU=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: YfqyHBz9osRR6S+Oj5qpQ+T1Iao=
+
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: j75scoSTfHMNlHGrvDLzc6pLD5s=
+
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: kVe55qb0DwtwhFlrDu8dGOKyBrI=
+
+
+Name: assets/domino_res/eff_paixing.png
+SHA1-Digest: L6ApDX0gqw/9B8Pn2LRCUJ6YVSI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_Santai.png
+SHA1-Digest: V1mPaLsc4ntfX5U/WXkkaJpWsoE=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: DuyQaJtshThL4AgyYcGva6U0fi0=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jpjl.atlas
+SHA1-Digest: CbpgHxLYCkdYiSrwl+lDZDCYQmE=
+
+
+Name: assets/lobby/font_num/DG_lb_lv.fnt
+SHA1-Digest: sTznKow/iLaGSKDi/2UjL7LhKUM=
+
+
+Name: assets/lobby/DG_xf_bg_game_21.jpg
+SHA1-Digest: kpQM2XjH7KtVc1AxKFdMdJ633FY=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: ivpLQ63tfOD0ISnUmDRNp3o0jBk=
+
+
+Name: res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: PMOLVn0DAVJnrjL9z+dgu4aBxHY=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: catelxgP4Vurpy+V7+L3PNxSwKk=
+
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: pyBVLYHIAwjprW/6AKUFw2U7gZA=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_pp.png
+SHA1-Digest: v7IqEtOG2gJfDNDZ1YcvTArxoEY=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: 6XjUXgHzWKnMOcsJ15ruhMnI9dY=
+
+
+Name: assets/slot_common_res/sound/hkfg_Wheel_up02.mp3
+SHA1-Digest: THvOS5wSPjlpWPHHgvWXKGVtMwc=
+
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: 738XPLPVtc0MyUksgVUhYHyaN+A=
+
+
+Name: assets/domino_res/eff_res/tuoweilan.png
+SHA1-Digest: cOjTu/kgGFAM8RP8Nafjc02c95Y=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jbpxrw.json
+SHA1-Digest: HMkcR3DxN6stNxfOzrZXTr9nSB8=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: EikVyBT5I7pmbJO2k8qF0V5hUc0=
+
+
+Name: assets/lobby/DG_recall_xf_res.plist
+SHA1-Digest: LS1Dfk3tFFrDRqKvVNu8MBKwCY4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/functions.lua
+SHA1-Digest: n2vjHj16Kg3xwXAnCGKTPXaXe0s=
+
+
+Name: assets/lobby/DG_xf_bg.png
+SHA1-Digest: 4fCVlSMr9KqZzT64uM6lOchGLLE=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_jsjl.skel
+SHA1-Digest: mThfIEMZ0p/1YcW1pJP69nQ0Y+0=
+
+
+Name: assets/lobby/font_num/DG_rank_last_jl_num1.fnt
+SHA1-Digest: tbTFRQt7EqxE7zWZ5VDn4NgGtJc=
+
+
+Name: assets/lobby/DG_signin_res.png
+SHA1-Digest: oV9Ix4gfWos4TGRPnUWUBKTHZOk=
+
+
+Name: assets/rule_texasholdem_2.conf
+SHA1-Digest: JaViWyzYhIENal9tItQcF0NIKjI=
+
+
+Name: assets/domino_res/DG_game_baseui_res.png
+SHA1-Digest: zxx7acCClAfg6nrD1H5bWVIiI2U=
+
+
+Name: assets/sangong_res/SanGong_player_ui.png
+SHA1-Digest: vC8oA5qBSGEXgpdhXjhbph0pV7U=
+
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: c/JySMP3K3upfEb8gadPtwhqkes=
+
+
+Name: assets/sangong_res/SanGong_main_ui.plist
+SHA1-Digest: Um81zb0TX7kVvbBDpjJdKbTVUEg=
+
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: gt/TOiIpNSGWwG5XxCKwFAGV1kw=
+
+
+Name: assets/sound/boys_2/pass.mp3
+SHA1-Digest: xtDEtLrIma1gUpPVLuInpOZeaWk=
+
+
+Name: res/drawable-mdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: lBP5ppjk8+Y0OQHu9tO7RAVStM4=
+
+
+Name: assets/sound/ssz_cardType_3.mp3
+SHA1-Digest: nOqca9/MYe/PNMDcMH8OVVIk4L8=
+
+
+Name: assets/luaSrc/luaCocos/cocos/ui/DeprecatedUIFunc.lua
+SHA1-Digest: I+w8XzDUvgrZdbFAPFy/pbxnV/g=
+
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: TcJb1ir2B+CYRDijbdm1cp22Xqc=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_qld.json
+SHA1-Digest: ThEf+QfTz3SB3WyTKQwYgylCyKs=
+
+
+Name: assets/texasholdem_res/them_card.plist
+SHA1-Digest: CeBO6t6Gjl4zH2hySubstHalm6A=
+
+
+Name: assets/slot_hkfg_res/hkfg_loading_bg_guang.png
+SHA1-Digest: gpF3n+lH6nKQprsnwkzKBaGr71U=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: 1y+vuoD2qUEyG9rLg5RKbDNziXo=
+
+
+Name: assets/lobby/DG_rank_res.plist
+SHA1-Digest: qiMeKonbJfZSETA11RC/L62oxYY=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_game.skel
+SHA1-Digest: eyp1A55SFkpl0fpi7yMDBTZ9wxg=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_CTakeIn.plist
+SHA1-Digest: GCObI9hYG63jF1d8kMEYJf8BRjw=
+
+
+Name: assets/slot_common_res/word2/slot_base_history_word.png
+SHA1-Digest: S0sBbL1AhIQhClRYMinBpzZG8aI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yndmn_vip.png
+SHA1-Digest: IOtp2HUd527ypBNGzPhm/Idaa3Q=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/DeprecatedCocos2dFunc.lua
+SHA1-Digest: gSkzpNS5M5bI1TW6wJqsZeDpHKw=
+
+
+Name: assets/slot_common_res/sound/megawin.mp3
+SHA1-Digest: +TsNgmbdlQ25X4mvedndbvVREYQ=
+
+
+Name: assets/texasholdem_res/dzpk_bg_logo.png
+SHA1-Digest: QT1q5TiSMLRtSgeHe3ezr/JEdHU=
+
+
+Name: assets/lobby/font_num/DG_vip_name_jb_num.png
+SHA1-Digest: 3GXzuq9Mq92eK1Gvdr5H9pqKOa0=
+
+
+Name: assets/slot_common_res/slot_base_coin_ui.plist
+SHA1-Digest: v5ZME7cTt0yeglQKmEGmCKsf2/c=
+
+
+Name: assets/slot_common_res/slot_base_history.plist
+SHA1-Digest: DVL85uXsWcYhncNneGJN3Eskd0k=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz4.fnt
+SHA1-Digest: 2aQVJ99Kwkd7hwEKDCGXE7afB6I=
+
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: zxUoWT+pdOdHlu6S3N24afaFkfo=
+
+
+Name: assets/slot_common_res/Slot_lobby_top_lv_num.png
+SHA1-Digest: k6qZnSLCdt3PEDx1z/VkkBg4BIw=
+
+
+Name: assets/slot_common_res/sound/hkfg_wincredit.mp3
+SHA1-Digest: cnHydSqIIwpENARYv9cjZ0HBzBg=
+
+
+Name: res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.pn
+ g
+SHA1-Digest: dpfrnuU4b3FWD3RKsleV2Jl+HaY=
+
+
+Name: assets/lobby/word2/lobby_showoff_word_res.png
+SHA1-Digest: i2XVcK9CCa4jXh4ghUYd4sSo06g=
+
+
+Name: assets/sound/Dam_start_1.mp3
+SHA1-Digest: UnxLpnC7QaFl67tYhIPIu0liqmo=
+
+
+Name: assets/slot_hkfg_res/word2/slot_msg_box_w.plist
+SHA1-Digest: 0Sc0969H33bSsZn4Mjrbvo7MoQ4=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_tl.atlas
+SHA1-Digest: TGz/GUfTQukxRX8cHTr9+QCiYmU=
+
+
+Name: assets/slot_common_res/Slot_lobby_top_lv_jdt_num.png
+SHA1-Digest: GIdmDFQJuzzRciv1afNa05HCeWw=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_rw_res.plist
+SHA1-Digest: OtVK2IZZ7rLtLcOUzxAWsg0Bvv8=
+
+
+Name: assets/sound/qq_tuo_allin.mp3
+SHA1-Digest: 9X9Wl3ZfsOA2r8G5e1Vo6b7Oo1g=
+
+
+Name: assets/luaSrc/luaCocos/cocos/network/NetworkConstants.lua
+SHA1-Digest: d1T32Qwx79bZdIYVQw53aSLDfbs=
+
+
+Name: assets/domino_res/DG_result_jf_add.fnt
+SHA1-Digest: 0L3JYGZfPcSrvRwfeXpGmnIEs8Q=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jbp.json
+SHA1-Digest: iBYDdNh3dDyCv+vo8l+TIe2HEZo=
+
+
+Name: assets/sound/qq_goodcard.mp3
+SHA1-Digest: /jHbrLlumN6kWIpHkKuSQc4oj2M=
+
+
+Name: assets/slot_dfdc_res/dfdc_sprite_ui.png
+SHA1-Digest: 2cN7CaujH8W65PR/SRXw2k4VtRQ=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: LJhGIJ9ykH+SLTXwcnjoa1J97NE=
+
+
+Name: assets/google-services.json
+SHA1-Digest: RVXeuxC7OS16jBwlHXE8yAbrrDQ=
+
+
+Name: assets/slot_common_res/slot_base_loading_ui.plist
+SHA1-Digest: QS2K5jdR/87mcFzDpKrsNur5OQk=
+
+
+Name: assets/remi_res/remi_sf_lose_num.png
+SHA1-Digest: dfp7H70ZJUuZCLHevmSAN+jq3ng=
+
+
+Name: assets/lobby/word2/DG_login_word.plist
+SHA1-Digest: 43L9HPNJZEjSrQRUUlpBz8tHSkM=
+
+
+Name: assets/draughts_res/Dam_grade.png
+SHA1-Digest: sTbGIJsCQrx/1AAlvNNKsMYfEx0=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_jia_num.png
+SHA1-Digest: owmTXUT3HcgGRn2PpcFaPg/apjQ=
+
+
+Name: assets/hw_common_res/A_Game_DG_res.plist
+SHA1-Digest: b7KBOfOlvXP73wD+h/1NbuMUcXg=
+
+
+Name: assets/remi_res/remi_deal.png
+SHA1-Digest: eCfjg5A6Su+hLIp9b1ZZJlEx9Rs=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.p
+ ng
+SHA1-Digest: sbqUAnAP9Ic0aSxtt345LLubAZ0=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_bu_num.fnt
+SHA1-Digest: u4WQPEIZHo8DdxATadvzzat+dfY=
+
+
+Name: assets/hw_common_res/dmn_tx_show_1.png
+SHA1-Digest: b+atAPpR3GkPjqPDbczU52gVYVI=
+
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: SBazQIyTEXORINVc0Qu1mBBqGK8=
+
+
+Name: assets/remi_res/remi_game_ksdjs_num.fnt
+SHA1-Digest: OXXTLicKduYqvelacZOZEACMnZQ=
+
+
+Name: assets/hw_common_res/A_Game_Ckk_res.plist
+SHA1-Digest: rK8tBfladAQPEATJF2paqngILYc=
+
+
+Name: assets/cangkulan_res/ckl_handcard1.plist
+SHA1-Digest: U4UbnxDUjUxYyROK0zTXBUF8Q9g=
+
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: TnUOATUXrkhLAaP/WyUacVN8YaA=
+
+
+Name: assets/hw_common_res/eff_spine_dz_aixin.skel
+SHA1-Digest: b153ceFKb2aR/w3bRzu6d0rjm70=
+
+
+Name: assets/hw_common_res/eff_spine_vipst_hdtb.json
+SHA1-Digest: ZsugcblgALtfj7PCLWhuquj/esk=
+
+
+Name: assets/texasholdem_res/DG_them_takein_money.plist
+SHA1-Digest: iM5tISpAZYtBodCyEvXFhZBv78g=
+
+
+Name: assets/hw_common_res/A_Game_remi_res.png
+SHA1-Digest: 3F86xNBxmS1Id71kFxiwNh+yVwU=
+
+
+Name: assets/luaSrc/luaCocos/cocos/network/DeprecatedNetworkFunc.lua
+SHA1-Digest: ZWbd+djBU7iFE/cF8jf2SB5B0cI=
+
+
+Name: assets/draughts_res/eff_spine_domino_dw.atlas
+SHA1-Digest: fK5GnX73w5PGTg5KAEZCaBUsHTk=
+
+
+Name: assets/hw_common_res/word2/cangkulan_game_word.plist
+SHA1-Digest: uDMzENMLswkuyKgScCKxUmuiSEA=
+
+
+Name: assets/lobby/DG_cj_share_res.plist
+SHA1-Digest: ljt3AFxCBBmzBzcmwIoLdudydVM=
+
+
+Name: res/drawable-hdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: Oq0ayi7elApzAzBVtiQOjQS4Wt0=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/bitExtend.lua
+SHA1-Digest: ziDRl47jRPRz7VMNNGA3Fh/nEaM=
+
+
+Name: assets/lobby/DG_yx_res.png
+SHA1-Digest: ChzvPnNE7t+hWWgEeJ5/g45LBec=
+
+
+Name: assets/slot_csfff_res/word1/csfff.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: res/drawable/com_facebook_button_background.xml
+SHA1-Digest: vP3sAnHp4QD3d9SVUxPcO9PYduU=
+
+
+Name: assets/domino_res/eff_res/xingdian.png
+SHA1-Digest: dv85NVS5+JkktD3qMGFwNrysxhY=
+
+
+Name: assets/slot_common_res/sound/share_money.mp3
+SHA1-Digest: Vx2xM4Uq2dtvjK04S3Em0GIZRWM=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num3.png
+SHA1-Digest: 1hgiyumkKyxNCmQ94oOGqad6nuU=
+
+
+Name: assets/rule_cangkulan_2.conf
+SHA1-Digest: rUXgIyCEgyYcBPbqdXeF/JxLl3c=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_bj_2.skel
+SHA1-Digest: A0t9LBRAN+xt9kKU7aOIiZlCwo8=
+
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: P4Rg5EG5CBTN4Ls0TnIfDIlRcPk=
+
+
+Name: assets/remi_res/eff_spine_remi_lose.atlas
+SHA1-Digest: AEvTY7sdF5kjkPJxrdeI8ns9CeY=
+
+
+Name: assets/lobby/DG_recall_xf_res.png
+SHA1-Digest: vbEt/Q3LCLpENE9+gXU94ClEaYU=
+
+
+Name: assets/sound/dzpk_all_in.mp3
+SHA1-Digest: 1DzMnh9nY8iFNqASGmC6MQ8/3Hk=
+
+
+Name: assets/server.conf
+SHA1-Digest: /52JYgx6voMCDydGIioKM+oAHvo=
+
+
+Name: assets/remi_res/game_text_15_2.conf
+SHA1-Digest: kKTOfBMyxV9tEXZyEKs0pOIA3PM=
+
+
+Name: assets/remi_res/remi_zyy_sz.fnt
+SHA1-Digest: w52ysk+6Ux3xrsT2iw9JanXa3zk=
+
+
+Name: assets/slot_common_res/sound/hkfg_winX.mp3
+SHA1-Digest: 9Y/2+GAk1LLJ6bub7egnb4wyp74=
+
+
+Name: assets/draughts_res/draughts_game_userinfo_res.plist
+SHA1-Digest: vYm2JUHZTyaHPH0vNAMfis7QL3Q=
+
+
+Name: assets/hw_common_res/comm_game_bull_res.plist
+SHA1-Digest: CIRBgzeg/6BpkjewyUKQwDErr6o=
+
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA1-Digest: TE+sj5Dv/w6Ey0oGODWHbRSApRQ=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpdjs.json
+SHA1-Digest: gFBS/0Zt40JodKlz3hyX2799F+M=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fw.json
+SHA1-Digest: rZ+y7QxtpLjhyA0vOv9WYF0lfDQ=
+
+
+Name: assets/slot_dfdc_res/dfdc_sprite_ui.plist
+SHA1-Digest: yD8MkVqyYEGKfFXXRGnzZOvDnW4=
+
+
+Name: assets/hw_common_res/A_Game_dzpk_res.png
+SHA1-Digest: Ft/r5w1T671WeroArUgxN5Wkk3U=
+
+
+Name: assets/hw_common_res/DG_chat_input_al.png
+SHA1-Digest: z8YfyuJTBFoZ09KzfvQiriCQGTc=
+
+
+Name: assets/kartu41_res/K41_result_fs_lose_num.fnt
+SHA1-Digest: G2IdzuHOtlifrcuUJ1yYH+Q6rX0=
+
+
+Name: assets/draughts_res/eff_spine_domino_qzcx.json
+SHA1-Digest: /2jjDNBmUaskaPE9ctllLg5Mbds=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_Santai.atlas
+SHA1-Digest: 9LVvW6ULQenHJEJ7/h7yeLtlHiU=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/deprecated.lua
+SHA1-Digest: 9BPKCaMPAiEKRBghkSkLlKhjEdk=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+
+Name: assets/sound/ssz_cardType_5.mp3
+SHA1-Digest: vMHBl9/eY9jrHIn6ZZd14p/qdv4=
+
+
+Name: assets/sound/ssz_daqiangone.mp3
+SHA1-Digest: 7FdUIKla7FwjyzbZk9LpakKCrg4=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_bigwin.png
+SHA1-Digest: D6cAfuQu/y2j891WAv2zRCrW9pw=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: jnLnSBDt0id1WrhEiz1zra3RW6M=
+
+
+Name: assets/cangkulan_res/ckl_bgui.plist
+SHA1-Digest: mKl7MgHIvjOayBequg3pR0v3LZM=
+
+
+Name: assets/texasholdem_res/word2/DG_them_word.png
+SHA1-Digest: aZiHb7utMNmqXGzLCBp5bSMgLYU=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jc_num.fnt
+SHA1-Digest: N/lFA1Kt+uRtrb7Gj/Wyz6Kuqyk=
+
+
+Name: assets/draughts_res/Dam_match.plist
+SHA1-Digest: wJ31tAbRQIcbBMQaHKxg+ncALM8=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_midwin.mp3
+SHA1-Digest: /ibeN5JEZJT8/AYzkU9GxWN+71I=
+
+
+Name: assets/lobby/font_num/DG_loading_jdt.png
+SHA1-Digest: h+CE2dICcyCqTpMRxZewaxzqGFQ=
+
+
+Name: assets/hw_common_res/remi_game_toplayer.png
+SHA1-Digest: PhmrMLMtd9rthFGq4A+1iVyxod8=
+
+
+Name: assets/slot_common_res/sound/hkfg_credit.mp3
+SHA1-Digest: xhpYyqt9MjfSKDkYL3rbhuR52x4=
+
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: fi4OdS/Tb40gOJmL0+YFTyqMxb4=
+
+
+Name: assets/slot_dfdc_res/dfdc_youwin_num2.fnt
+SHA1-Digest: 9YpElMbz3HPG4A7+v3M5T13LKKA=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: Mv+KiFiSaa+WMki+npzbbru9CxE=
+
+
+Name: assets/slot_common_res/slot_base_top_ui.plist
+SHA1-Digest: mYckmRStT5tQm1N3yDchctqwgig=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_minusbet.mp3
+SHA1-Digest: iBQEb2DVi84lO+S8hHyjhgyz+IQ=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_bigwin2.png
+SHA1-Digest: Bx0IXyAc98Tz+F3kirIrkDZ01AQ=
+
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: tlQuiSh80VvOCa8hyhc2XJ2Z210=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_1_a.png
+SHA1-Digest: mK6U59eILhE83L5hGfjk5F7Dnx4=
+
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: Sg2bqFB16WBW3FnQ22Qg6wGkIBI=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_1.png
+SHA1-Digest: zAN1JBTz7KCibJw3UKLT5zUUK70=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_long.json
+SHA1-Digest: ioQAtPEIc2pi9vmT0HWGdeZuI0A=
+
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: tGg+oO+KAbBY4x79vANaC6rdJz0=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_ppds_num2.png
+SHA1-Digest: 6yWuWByvpz6PnVIbCBrqi+zEAm4=
+
+
+Name: assets/sangong_res/SG_jbp_num1.png
+SHA1-Digest: hGBR7wiD8+pFbWe/JN6tZwkx+X8=
+
+
+Name: assets/slot_common_res/word2/slot_base_word_ui.plist
+SHA1-Digest: 9WKm4WVl3NOvkNOiQljii1lgXqI=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_opening.mp3
+SHA1-Digest: sdP20iU7jVL4r/xaDJm4VGXl3n0=
+
+
+Name: assets/lobby/font_num/DG_yqyl_xq_num.png
+SHA1-Digest: 6R9WeyVgv8KB/kz1/xvWzgI3h2E=
+
+
+Name: assets/sound/ssz_QiuDown.mp3
+SHA1-Digest: N7VHgzReIG56e6DADJkwNq1iGXA=
+
+
+Name: assets/lobby/DG_frist_charge_res.plist
+SHA1-Digest: U33Agr3VMi00DXML63uXE2aESXQ=
+
+
+Name: assets/remi_res/eff_spine_remi_lose.json
+SHA1-Digest: /6X6Rc1pRBebIDap4a6CD6yS2Us=
+
+
+Name: assets/kartu41_res/K41_gamerule.plist
+SHA1-Digest: v1QCgnsJiJf6lETvGDQU+5s/P7A=
+
+
+Name: assets/lobby/font_num/DG_hgjl_xz_day_num.fnt
+SHA1-Digest: c2Bj03jb3jKC67beoNyOqHFVtWM=
+
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: 4qrl3WpeVpTpFpXjhP8tMXr3+9w=
+
+
+Name: assets/remi_res/remi_game_jbp_num1.png
+SHA1-Digest: jmHdeOi5ppHcat+vJgAToQXpAqc=
+
+
+Name: assets/rule_jlnormal_2.conf
+SHA1-Digest: yGG0DvAmae3nmqj7AjnBfs5g4SA=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: oPiW8hLrKsgi3yORQs74iZuCkjE=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_jbd.atlas
+SHA1-Digest: A7KrZUNIerw4OSwENlMsOOG0y0o=
+
+
+Name: assets/draughts_res/word2/draughts_word.png
+SHA1-Digest: edC40NVckLpmLj3fmQxDab8346A=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_qhgc.png
+SHA1-Digest: Sp8TgyguABMJJ3QPynq0XuHNMuE=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_xz_btn_h_num.png
+SHA1-Digest: SinXWd41YjQa8NxJCsd8P5X9C8w=
+
+
+Name: assets/lobby/font_num/DG_deck_icon_time_num.png
+SHA1-Digest: bygnHqMKX9gGx55xr8DlIcUo+LQ=
+
+
+Name: assets/lobby/font_num/DG_mfjb_num.fnt
+SHA1-Digest: DeFHS1argZ7k3qaznu7xqT3kakA=
+
+
+Name: assets/sound/ckl_alarm1.mp3
+SHA1-Digest: 8Iw0YlsOisi0no0lBbCXcC7ALMw=
+
+
+Name: assets/slot_common_res/word2/slot_base_history_word.plist
+SHA1-Digest: VwsUKuxb2CoOI343uZ9F8fMIW38=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: h+GglN330bwjpagOTZFJ9KD8WhY=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_static.png
+SHA1-Digest: wDGE6ebLuS3hkIcp1KGdGO3a5aU=
+
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: Oww70i6CDjqOpiLdYxpURXuj7DY=
+
+
+Name: assets/lobby/DG_mg_bg.png
+SHA1-Digest: 3+gWY3XMhNZYS0GZy4xsj/pYwC0=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz2.fnt
+SHA1-Digest: EwVm2wJ3zuSjttnTVKxHNgRseNI=
+
+
+Name: assets/remi_res/game_text_15_0.conf
+SHA1-Digest: CGI7ubgWT1n2vmAqDuzOz84N79U=
+
+
+Name: assets/kartu41_res/K41_game_icon_chip_num.png
+SHA1-Digest: HgIgxYWKLokXlLskLAoc2AGgskM=
+
+
+Name: assets/lobby/DG_shop_res.png
+SHA1-Digest: JrlACzlNV2KbRWWb/hoJKDGOpq0=
+
+
+Name: assets/lobby/DG_rule_res.plist
+SHA1-Digest: YsqViOesoW/Tvmfm4xTPLycQ9Bg=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_allin.png
+SHA1-Digest: HVqOSp3u0UesEjn9XTObk4Itd+g=
+
+
+Name: assets/hw_common_res/DG_qiuqiu_bw_num.fnt
+SHA1-Digest: sYwv/ZzZFDysPJIURf/b8GjwITM=
+
+
+Name: assets/domino_res/dhk.json
+SHA1-Digest: T0IkQQjz0/prBlYfc4Uj0DFXcwI=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_4_b.plist
+SHA1-Digest: d5P40pnyZ6t2cR9tj314Cdo+8KU=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_bonus_select.mp3
+SHA1-Digest: nEi8sJWS3aC2x3SFNU4BKidpUkM=
+
+
+Name: assets/lobby/DG_djfx_res.png
+SHA1-Digest: elAdK1ZRK5+XnyHTQmz2OTfnd78=
+
+
+Name: assets/sound/show_card.mp3
+SHA1-Digest: GPfMontzl6Mz7S7O/OgA1Ccs6j8=
+
+
+Name: assets/hw_common_res/dmn_tx_show_3.png
+SHA1-Digest: b55tcPu2NWm+/UVUCzCTCzUnykY=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_3_a.plist
+SHA1-Digest: fIMv9w7uRte2KMDkqk6zE080efw=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_close.png
+SHA1-Digest: Hfr8Mn0/PtfadeY7+FuXSz4X8mg=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jackpot.png
+SHA1-Digest: Hbi4zzIJFGGneEA0Iqz8ka4VhSo=
+
+
+Name: assets/rule_cangkulan_0.conf
+SHA1-Digest: rUXgIyCEgyYcBPbqdXeF/JxLl3c=
+
+
+Name: assets/lobby/DG_xf_bg_game_10.jpg
+SHA1-Digest: gX7nveXqKyb4qInFO1vlifiLjO4=
+
+
+Name: assets/slot_csfff_res/word2/csfff_loading_logo.png
+SHA1-Digest: oFw9n1Z6MFRfp1PzFm+KGxuZjbQ=
+
+
+Name: assets/texasholdem_res/dzpk_bg2.png
+SHA1-Digest: LNzOMVAxRDhnBtJMqIrywEKR+VA=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_7_b.png
+SHA1-Digest: Ptm+wg9QrDeoDQ1Ryom2iWD4p38=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_gjlwgg.png
+SHA1-Digest: bOeABj7ZVn4OSdUW5vw/rN4csO4=
+
+
+Name: assets/sangong_res/SG_result_jf_add.fnt
+SHA1-Digest: 98vw0OJ522TmgWqqUpspekb4nzk=
+
+
+Name: assets/domino_res/DG_result_jf_less.fnt
+SHA1-Digest: JMRgefAuH2dFwT1af5V8VnTdmI4=
+
+
+Name: assets/slot_dfdc_res/dfdc_loading_fu.png
+SHA1-Digest: fjoszdHXqAoc7YriUY6zE7uf1VM=
+
+
+Name: assets/hw_common_res/A_Game_Draughts_res.plist
+SHA1-Digest: Cbv8L8rnHDvg9A6FldVejh5TGUc=
+
+
+Name: assets/domino_res/DG_game_gold.fnt
+SHA1-Digest: eGgcYxOXwOpm48IZ6m9vjzE+6Tc=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt.json
+SHA1-Digest: o/+lcZ6w8NFX1N5F45UXx2GtGPs=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fw.atlas
+SHA1-Digest: 7rnCLOC9/g1t69Lh9ORx5fqvj9o=
+
+
+Name: assets/capasasusun_res/game_text_14_2.conf
+SHA1-Digest: 6G9ZT+lJnNGTdyHiccmqC2a/+F4=
+
+
+Name: assets/slot_common_res/slot_main_score_num.png
+SHA1-Digest: cxkZmZv9dAa2/JveUHA7qNPlIQ4=
+
+
+Name: assets/cangkulan_res/ckl_grxx_level_num.fnt
+SHA1-Digest: hSYjRfH0/E+CKzIZHixQ+4BNhbU=
+
+
+Name: res/drawable-mdpi-v4/ad_btn_other_0.png
+SHA1-Digest: rZ7sOKV+QRsbtdHuxAvzz9NoN3A=
+
+
+Name: assets/hw_common_res/remi_game_toplayer.plist
+SHA1-Digest: +z419b7lxGHY4Lds0bawDalwAV4=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_jian_num.png
+SHA1-Digest: O6wLuLH84ZWYV+f8ngb/3CF8Fio=
+
+
+Name: assets/luaSrc/luaCocos/globalMethod.lua
+SHA1-Digest: wtMtBL+HX9TQDPnRL5vPxd/n+LQ=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_hari_num.fnt
+SHA1-Digest: SJ/vbMu45Wk/tu2B2EeVEJ1inTw=
+
+
+Name: assets/kartu41_res/word2/K41_word.plist
+SHA1-Digest: IjPFTTkDBOEpi8YNmKRpHcKXAkk=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/LayerEx.lua
+SHA1-Digest: 6wZAR/EFpFkCwr98QrbYHTgCyjg=
+
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: CBqMMZftTVGbPGhxmgrI/nON0eQ=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZqCBR70J+G8APLB6odEE4sbBMrY=
+
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: +UMDzubVN+bV+UH2mXuUg1FvhUQ=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_ppds_num.png
+SHA1-Digest: TKVmXuCIVU7yQxBClrl4z1/OTWQ=
+
+
+Name: assets/draughts_res/game_text_22_1.conf
+SHA1-Digest: TAgyHiUZeQraeAX4xXem2wqsQZY=
+
+
+Name: assets/domino_res/eff_spine_yddmn_lose.atlas
+SHA1-Digest: TYB4ssCbwzoPpEJmwB+qip41Pns=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sf.json
+SHA1-Digest: zDj4ocznJ+/Dm80hAAUlZf21pxM=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_sc.json
+SHA1-Digest: 9WPQtWlKlWA4uehVz7qXiv6tb9g=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_long.png
+SHA1-Digest: 4T4aZGBOm4XhiF2KISRj7IuPBFA=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: O6eAL2M6qoFDRV9peChQYqmfUZk=
+
+
+Name: assets/capasasusun_res/capasasusun_rule.plist
+SHA1-Digest: 9OqxNlPoVuFcvHG6Sfu84cQ78Rk=
+
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: gHqcnosKJ3hj1qyF5PECFPe1Z9A=
+
+
+Name: assets/sound/qq_showcard.mp3
+SHA1-Digest: 4sgccyYy/Jorbz7igBioSov4sZs=
+
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: eewCm1ko7Mg5oz9Up8mjXS0rlAI=
+
+
+Name: assets/sound/Dam_shanxian.mp3
+SHA1-Digest: t3ItYUYjxHS7z/Bbk0Ig4Zdjr3I=
+
+
+Name: assets/sound/normal_end.mp3
+SHA1-Digest: blMx6CXKIbAkfHW+CQxCPliqHkk=
+
+
+Name: assets/slot_dfdc_res/dfdc_win_num.fnt
+SHA1-Digest: 28kmDTmSwbkCwydYg8RdiSu3saA=
+
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: u6bTvtbDXJXOGa13pLv0kzefZXk=
+
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: k/6kfEzWFhXegFUkcpxF/l5qZ2M=
+
+
+Name: assets/lobby/font_num/DG_hgjl_xz_jl_num.png
+SHA1-Digest: katLXNT4rHvbIYKMyzhyQ6oror8=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_close.png
+SHA1-Digest: 8UxJkDm4cqC2TyaU0kImWDwZ5Y0=
+
+
+Name: assets/lobby/font_num/DG_send_num.png
+SHA1-Digest: dgYzjlNK62Sbv1BU9jnXvVCopJ8=
+
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 6AUQvr7p0Ko0CIopYEr8tQssNCk=
+
+
+Name: assets/lobby/font_num/DG_rank_mc_num.fnt
+SHA1-Digest: p3W1XsFzm8wUOUSC+iAgHxk+yNU=
+
+
+Name: assets/slot_common_res/slot_base_ranking_ui.plist
+SHA1-Digest: DP1YCEAAY7Eji0luvwsX2nvv5ms=
+
+
+Name: assets/texasholdem_res/them_card.png
+SHA1-Digest: DAjDvtc3oZJlodtJPGxeqXWz3To=
+
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: tlAUZy8OCcbuitU/PAjdiohAteo=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_6_a.png
+SHA1-Digest: oGxBhnmSLq1Xir1lIbH2D+ASGZw=
+
+
+Name: assets/kartu41_res/K41_rw_double_num.png
+SHA1-Digest: m8KvkCwbetNNjw2quIsacmSDG1A=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_gz_01_day_num.png
+SHA1-Digest: sjy4zfo+daqGWfpKve0UJMeMTaA=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: 0Gfqa0wEfQSI0mKJkwlXlJWSicQ=
+
+
+Name: assets/lobby/DG_VIP_res.png
+SHA1-Digest: U4isBblRpX+SbkkOC3tVkd3tqOU=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_dq.png
+SHA1-Digest: LFwh6Tf0jxk77AHzJn68Bk0OWfI=
+
+
+Name: assets/lobby/DG_recall_other_res.png
+SHA1-Digest: CoZNt8omP9mKi/2E8c7dExkBNE0=
+
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: KXuTUUZQIn6wSfOvJHRo7h9HyDA=
+
+
+Name: assets/sangong_res/SG_ds_num_lose.fnt
+SHA1-Digest: 0b4LN7mwa5HHVbLOhcdAnz9Adp4=
+
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA1-Digest: I9s6aQ5VyOLrNo4odqSij549Oyo=
+
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: Smeymf7uJNUqwCTDK+F1N6xMo+c=
+
+
+Name: assets/hw_common_res/A_Game_cangkulan_res.plist
+SHA1-Digest: pzzmszE+SwUrMq0/s76LBjW/Sdw=
+
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Nlc+uImNr3XAHY+m/5AsLmKxp/Q=
+
+
+Name: assets/sound/dzpk_slide_raise_2.mp3
+SHA1-Digest: h0kPtthpjCFAu3YI2tjQFBqruDo=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_cptw.atlas
+SHA1-Digest: 33NDhVOCVeM6aOUj5CXnMNHu/KE=
+
+
+Name: assets/remi_res/remi_task.plist
+SHA1-Digest: csoYR+S0Sps1RktTFHm73HLf1qM=
+
+
+Name: assets/texasholdem_res/DG_them_chips.plist
+SHA1-Digest: aFSikVkTHiGVIBGomcc18Rgf5sA=
+
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: NW/i+ex7+hXHYfPT2kBfhzB79kE=
+
+
+Name: assets/hw_common_res/draughts_game_toplayer.plist
+SHA1-Digest: FU6+SQLziydBTHcfBVDourtRlv0=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_0_b.png
+SHA1-Digest: ZSfFrU7c+VWBZXwkAzvz2gL3gKA=
+
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+
+Name: assets/lobby/font_num/DG_jdt_num.png
+SHA1-Digest: HAyG75fMnvUw3FJROlBvtCKQMMI=
+
+
+Name: assets/cangkulan_res/ckl_handcard1.png
+SHA1-Digest: K2uatXDkCNXsb7p6B6luSTibZZg=
+
+
+Name: assets/kartu41_res/K41_result_jb_less.png
+SHA1-Digest: 8V/tMoosUCSF1zgve7dg+0+x32M=
+
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 7jXDjiidCXHojddyyJz5GHDIfMM=
+
+
+Name: META-INF/com.android.support_appcompat-v7.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_cpdjs.atlas
+SHA1-Digest: kYRfOd6C0/Njj1T1kaElqyA6CV0=
+
+
+Name: assets/slot_common_res/Slot_record_bg_dfdc.jpg
+SHA1-Digest: mK8Hvs9bFb1e1rrJjTsYkj/+DfA=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_UI_2.plist
+SHA1-Digest: 8CsgO9G+Bbh04HbAYLvYYojGS0U=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: jF6QKRBg9OvlnbeWqmX8Uqm8bg8=
+
+
+Name: assets/qiuqiu_res/game_text_12_2.conf
+SHA1-Digest: MyuoBIN8w0UE5XWLFV+gSFAu75M=
+
+
+Name: assets/slot_panda_res/word2/panda_base_word.plist
+SHA1-Digest: YqBmGWUH1Bmp6RAsL78DITPjLsQ=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_reward_b.atlas
+SHA1-Digest: SfaM9ICdENSXiktc5BkOWa5FlOM=
+
+
+Name: assets/slot_common_res/sound/base_main_scatter_bell.mp3
+SHA1-Digest: PvD6gL+oWGqUwf3xsD5/I+m2x4w=
+
+
+Name: assets/sound/Dam_coinfly_end.mp3
+SHA1-Digest: VOwwuvIJWRXL0f6L7nQt5kAnySg=
+
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: CmSWrJPdMzAhKQc+moJNtYEveIY=
+
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: gKiVrtOwkElvYdVR/NWizJ5BcwE=
+
+
+Name: assets/lobby/font_num/DG_lb_reward.fnt
+SHA1-Digest: I5CQjSGfxcjRGJ4YCRiYJkSiDDc=
+
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: y//1Ru9P4WhGy4oBia/+X8yGATM=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt_icon.png
+SHA1-Digest: Af7XcX2CM6jNHimLWUzu2cHveAw=
+
+
+Name: assets/capasasusun_res/ssz_js_lose_num.png
+SHA1-Digest: SJdL5iErlPjqQPF2SOQDqK0iAS4=
+
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_jl_dq_num.png
+SHA1-Digest: iF49o53eCha5OfIpBOy/uR/YybI=
+
+
+Name: assets/capasasusun_res/ssz_js_win_num.fnt
+SHA1-Digest: ZPa5lvqXEIOfh8csgGIE1Ehfplw=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: t9VPTdr90769IpmI7+HjcPqUbI0=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: 8R6Onvk9Eud59Z9VjduugsIm1fc=
+
+
+Name: assets/capasasusun_res/ssz_game_bg.jpg
+SHA1-Digest: reiPVL1fYITZtXy59y7WthNSS0U=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz3.png
+SHA1-Digest: 3WZV3vUQM085YRqb5EC4EjWIDIY=
+
+
+Name: assets/slot_common_res/sound/base_main_scatter_2.mp3
+SHA1-Digest: IWQ2xhSTtK1vFHdfPVziAmf48Zc=
+
+
+Name: assets/slot_dfdc_res/dfdc_ty_bg_S.png
+SHA1-Digest: lZlS/rIVPlswn/9fIwQrpAhu0yo=
+
+
+Name: assets/remi_res/remi_sf_lose_icon_num.png
+SHA1-Digest: 3f8hywtF8jAI0vij59JxbhQrcvI=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_101.png
+SHA1-Digest: 5qDf1cFerR7tFxL32QQqFccDH/M=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_5_b.png
+SHA1-Digest: D7ht0wE7U6nVtELuRWaZGL4ALBI=
+
+
+Name: assets/lobby/DG_rank_bg.png
+SHA1-Digest: P36xXNDaue5hpaTxhUmTkoVjsDY=
+
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: 300PySQ+ifLgf5fzk3WsJ6IM7OI=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: BlslH4QYPV8tPkeyq5iFkcDXUkc=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: 0Uc/urney5nbDkvJXgkNA5eBpug=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus3.png
+SHA1-Digest: czjh5XkKTqs89ypOwUg1vKQVq8M=
+
+
+Name: assets/fruitslot_res/fruit_icon.png
+SHA1-Digest: 6pvnQ1gsWjA76db2M7Ay3HdmwlY=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_hdb.skel
+SHA1-Digest: rELm04TYyMlLZkoVjfSBda9gknY=
+
+
+Name: assets/hw_common_res/word2/DG_a_game_word.png
+SHA1-Digest: fa0g/CdEsb3s34EyReWrG/4UZwA=
+
+
+Name: assets/slot_common_res/Slot_rank_mc_num.fnt
+SHA1-Digest: U+v9rP5G5UOC1S9ex+lhK+sGd9A=
+
+
+Name: assets/lobby/font_num/DG_lb_lv.png
+SHA1-Digest: bMEVe+or1EkcVdOSgH3jyQ8DmXM=
+
+
+Name: assets/remi_res/remi_zyy_sz_jb.fnt
+SHA1-Digest: RoORctaJiNbNa+VJKhjj9SAyyYI=
+
+
+Name: assets/hw_common_res/comm_msg_box_res.png
+SHA1-Digest: ylqjgPmJJt5SNdC+IN2NAJKzi8g=
+
+
+Name: assets/kartu41_res/K41_task.plist
+SHA1-Digest: 2CFwpd5RHrqoHs2vQFdmEq/W14I=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jbpxrw.png
+SHA1-Digest: PsBCOgx93bse1ctSyR/FMvYjQHI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_ccp.json
+SHA1-Digest: yXrvmXvM22LdyKA2Bo6CaaZ+EcM=
+
+
+Name: assets/slot_common_res/sound/hkfg_Cele_Grand.mp3
+SHA1-Digest: Pb1s3rges5Zfft6VL5/UFJpOnGc=
+
+
+Name: assets/slot_hkfg_res/slot_loading.plist
+SHA1-Digest: WEyj5jvjk6YXKi2ODESAePitU8U=
+
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: uMbx7adkrZHLVxcPBx3dHSdFpDE=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_aixin.atlas
+SHA1-Digest: V4QBSywh0YnCg/25SA24q7tC+A4=
+
+
+Name: assets/slot_common_res/slot_base_msg_box_ui.png
+SHA1-Digest: dehRmnlG4hr7GG/YD1/qmuEt5f8=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: ewmojyQLbwcPjW/HwZL3ryTwxZQ=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt.atlas
+SHA1-Digest: d7X10DC6iNwYXGs/30GUvGFYhl8=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_3_a.png
+SHA1-Digest: mCq6Wx5GkdUny4BIxm6TQICd85g=
+
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pSQWRqoWzxoeprY+bJcbqPYnS9w=
+
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: 8rWh48zFUe6IZTD1UA7YdfPziPw=
+
+
+Name: assets/slot_csfff_res/csfff_msg_box_ui.png
+SHA1-Digest: opWhHC3v0sUWWojLNXpTDIf7u1Y=
+
+
+Name: assets/lobby/DG_xf_bg_game_12.jpg
+SHA1-Digest: B5oygv790yBrK4ExtM/GQREOs0o=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: KcAKbOCiTO5UMcKfzx/+vncLmXg=
+
+
+Name: assets/slot_dfdc_res/dfdc_game_config.conf
+SHA1-Digest: K25H/KG9kmPt+umbjpUfKrP/Mis=
+
+
+Name: assets/luaSrc/luaCocos/cocos/physics3d/physics3d-constants.lua
+SHA1-Digest: 0tgubJNfilbeh8L9uPfBQl501rI=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: cjcTLuyFor2apZdbjPAaXPzqPvQ=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_pl_num.fnt
+SHA1-Digest: BA0mjmCb5qaaI3Rp/Q3gtu9ZciY=
+
+
+Name: assets/sound/remi_dealcard.mp3
+SHA1-Digest: HBlgTma/m2DR80A1oJ0NNDluS5g=
+
+
+Name: res/layout/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: BafoiS6gSPHiFYW9mjXZ5srcCJQ=
+
+
+Name: assets/slot_dfdc_res/eff_spine_fuwa_zhongjiang_s.json
+SHA1-Digest: MoOgL4f7NeJ8+athPQltvosRsuA=
+
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: RszWimHWIrFAwurYDulSNZRXvDs=
+
+
+Name: assets/slot_wlzb_res/wlzb_msg_box_ui.png
+SHA1-Digest: XFOIKvWQsbXk62C6V+rTqM8os0k=
+
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: GFXFtQXad8dai8+1ZHqUZfXq/uw=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_bigwin.png
+SHA1-Digest: SROXDSK1UC1M5zUnGdjm7CzYsMY=
+
+
+Name: assets/kartu41_res/K41_playerinfo.plist
+SHA1-Digest: Sz0Cx8n7GyNCSnPrPCAp6uS8UAQ=
+
+
+Name: res/anim/tooltip_exit.xml
+SHA1-Digest: MFRM51QcgTx0HzfJkVGSRuNkB1s=
+
+
+Name: assets/fruitslot_res/fruit_ui.plist
+SHA1-Digest: 07m8MUpR71zoXprd8KQeEDkD+qU=
+
+
+Name: assets/sound/Dam_match_succ.mp3
+SHA1-Digest: e37GwHQS8cKQyud03ClhHlS5phk=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdominoo_7.atlas
+SHA1-Digest: N+wXTSRlCECfh/qCNGSDxIpkzbg=
+
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: K9eq+RzdRnJR/RmShTQFDj3n/88=
+
+
+Name: assets/lobby/DG_deck_bg.jpg
+SHA1-Digest: doWXCuRKWI7YvTa7pmKTRhEUKxU=
+
+
+Name: assets/base_text_1.conf
+SHA1-Digest: TbTiXsH/1NFq6o27OLeYxXitpw4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UISlider.lua
+SHA1-Digest: QH/0zVhwRvZ/cM9RfhA661KfXr8=
+
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: cqzVFNhw5tYIwSETT+woZ7A6Xs0=
+
+
+Name: assets/lobby/DG_shop_res.plist
+SHA1-Digest: kGFoWj4sLE7AXEyaW6FRN7F67sY=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu.atlas
+SHA1-Digest: Zr+lL5hl0KtqleKWKltr3d6ZCF0=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 21KY7k5nhCbUYd/od+FyqRUvm2Q=
+
+
+Name: assets/slot_common_res/Slot_record_bg_hkfg.jpg
+SHA1-Digest: a4uvN7yLn7lR4ctCRSm3PaGUK4w=
+
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 8OPlZ8V68s1mj6gv0fKMOwBh328=
+
+
+Name: assets/draughts_res/fnt/Dam_game_tx_time_num.fnt
+SHA1-Digest: nLiEOVLrWtk4ym90eUSSX6yk1AE=
+
+
+Name: assets/slot_common_res/eff_spine_slot_dfdc_dt_btn.json
+SHA1-Digest: 6xuBU3Zrh+kOlumlQ2x7oym7Dms=
+
+
+Name: assets/luaSrc/luaCocos/cocos/extension/ExtensionConstants.lua
+SHA1-Digest: 01a7s0C64gZXWc3KVK4F5XaB8Wk=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_1.plist
+SHA1-Digest: NfTOdGu0zmXrmgaYkDGUYQinLg8=
+
+
+Name: assets/slot_csfff_res/word0/csfff.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: assets/lobby/font_num/DG_rank_jl_NO123_pz_num.fnt
+SHA1-Digest: wTJm4YoPPM2ZjgEJvpyiJ9NAtRw=
+
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: 0Y9UsvEngczHRCrU7qovm91bqxk=
+
+
+Name: assets/slot_common_res/Slot_lobby_lackpot_num.fnt
+SHA1-Digest: Wky2W3yFpjJNNTS2fTb9KKXQRTA=
+
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: Hp54GwmL35swS0BwlNBQsVTidAA=
+
+
+Name: assets/sangong_res/game_text_20_1.conf
+SHA1-Digest: 4vddSeOaEwf32OMS/Hx3UTiGwTI=
+
+
+Name: assets/slot_dfdc_res/dfdc_freespins_num.fnt
+SHA1-Digest: RmLNT6zGnuLEhaDqQ1n7T1UZ8y4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: K1fb6Q4Ss1JZ+SleO0yJcwwYiRw=
+
+
+Name: assets/slot_dfdc_res/dfdc_jbp_num.png
+SHA1-Digest: DxekOKt/rPf1W3CrCNi1ln1DgP4=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_2_b.png
+SHA1-Digest: 2Gb8FdzmGCQth0lEys5WWjU3lmU=
+
+
+Name: assets/game_text_1.conf
+SHA1-Digest: ToztxEVcbL6IW6nhLEqRNJwcpH8=
+
+
+Name: assets/kartu41_res/K41_game_pd_num.png
+SHA1-Digest: p2fTqTf8JlyTdpsEnyUZIez1swE=
+
+
+Name: assets/slot_common_res/slot_base_bull_ui.png
+SHA1-Digest: ZNWdY0zsGppjS2zLKQN9z3bH7tI=
+
+
+Name: assets/domino_res/DG_result_res.plist
+SHA1-Digest: LqdaKVsOa3eKs+WtIB6g0SrNd44=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uftsHSNmkb7m90jrsRX95EC5rJ4=
+
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+
+Name: assets/game_info_1.conf
+SHA1-Digest: eeKtjFyvAegQC6nqaMGEfJSXR8g=
+
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: FH4oO816fgf90f1eotBohc3p/Ws=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: UQXINsxHR6ofvfukurZilM7cjk4=
+
+
+Name: assets/sound/ssz_cardType_7.mp3
+SHA1-Digest: jwIFgqVcG74m45N5e+NRV/LwYAk=
+
+
+Name: assets/rule_samgong_0.conf
+SHA1-Digest: EDvNTRfon2j1iPjQyCtqxVu1n+g=
+
+
+Name: assets/slot_dfdc_res/sound/dfdc_scatterfeature.mp3
+SHA1-Digest: 2QdNRkdceP9AWqowAvsB4oombgU=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fu.json
+SHA1-Digest: q7RDKwTGqcLylauOSVCqWS5dhGA=
+
+
+Name: assets/capasasusun_res/ssz_bp_reduce_num.png
+SHA1-Digest: rkzcNj62y00ARpp5HiHuDZwMJ5E=
+
+
+Name: assets/cangkulan_res/ckl_sf_lose_icon_num.png
+SHA1-Digest: +XYxybzjHPH7NqHwwzyl/Gm0DHE=
+
+
+Name: assets/lobby/font_num/DG_dj_num.fnt
+SHA1-Digest: MmKhWBtABPb01I9R2ap30eb3lV0=
+
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: 7BMtBwOxYcv1vD5aJzWcZgl6WN0=
+
+
+Name: assets/remi_res/remi_sf_winner_num.png
+SHA1-Digest: vztfLSoNT8PgOjiFJjanJqmKqA4=
+
+
+Name: assets/kartu41_res/K41_ui.plist
+SHA1-Digest: 0Jr8LWzWiyWiFflONquMXcxBbNE=
+
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: MZfVcrsJ2eqgxw4OGGmm9uDaKR8=
+
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: TWwtbjpM3tdQTP8kXVI30bwPaqg=
+
+
+Name: assets/slot_wlzb_res/word2/wlzb_base_word_ui.png
+SHA1-Digest: jI4gTq5D+KtBHBI8xnoGLV9Y55k=
+
+
+Name: assets/rule_jlbet_1.conf
+SHA1-Digest: dYVX+gubZSEG/49NxTDRWu5TLuQ=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 9RE5bs6+8zUsrKjS7YSSnBXysrc=
+
+
+Name: assets/lobby/font_num/DG_lb_room_slgg_num.png
+SHA1-Digest: 58wMhtHSkaNm0RF5c2o8m0ISlfw=
+
+
+Name: assets/texasholdem_res/them_gameview.plist
+SHA1-Digest: y6HBSrfXHQjGVBeHBqRC46LEhxg=
+
+
+Name: assets/slot_common_res/eff_dfdc_bj.json
+SHA1-Digest: qo/IKoXs62a9zUuoX6LEKGRi3/M=
+
+
+Name: assets/lobby/DG_sjlb_bg.png
+SHA1-Digest: yxjrgCG/B+m6HthfTSPuldJYqo0=
+
+
+Name: assets/slot_hkfg_res/word2/hkfg.txt
+SHA1-Digest: qlTbNepTtR+VtgkQVBzmvt9nwpU=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_hddj.atlas
+SHA1-Digest: /Fnt3l3A/tCQdNXXcxLV+GEOj5M=
+
+
+Name: assets/domino_res/eff_res/shandian.png
+SHA1-Digest: q/t4pUUfumn/vvN3QgRgQfo3EiY=
+
+
+Name: assets/sangong_res/SG_jbp_num2.fnt
+SHA1-Digest: QCe4kzIqSorjeNaeFf7J7mxNcak=
+
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kjQh/adr8XS+S465gr9pzFibMnM=
+
+
+Name: assets/cangkulan_res/ckl_zyy_pb_num.png
+SHA1-Digest: TzFzRCntBmb1mdrbslUW8OXQPqc=
+
+
+Name: assets/sangong_res/SG_ds_num.png
+SHA1-Digest: +crEvtuXosaoRRYbIhmuMi1kQIY=
+
+
+Name: assets/domino_res/aniPlayerFlyCoin.png
+SHA1-Digest: ycASKXXvPk+a4Q+nrA1m/b2vNIs=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: 8XIl4bSeXq0sG4+FeucZZjHT7Qw=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_bj_eff.skel
+SHA1-Digest: py6R0H2z+AgTBOE8sioeufTjSv0=
+
+
+Name: res/color-v23/abc_tint_default.xml
+SHA1-Digest: +DPCllQyT17mJ7aySVhGlK+kiEg=
+
+
+Name: assets/hw_common_res/DG_qiuqiu_jbp_bg_num.fnt
+SHA1-Digest: ijkJ0YuNY7toC4cYaiyO1XsTecQ=
+
+
+Name: assets/draughts_res/Dam_game_userinfo_res.plist
+SHA1-Digest: FaRNiAntZdfH0ZtVKjXr+h2yuzY=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus1.png
+SHA1-Digest: S8tns5vRl0uC3ZFQB8EZMXvbouw=
+
+
+Name: assets/lobby/DG_xf_bg_game_14.jpg
+SHA1-Digest: UAcPHqyhzbnSJ3zBN/MMy/GvQ/o=
+
+
+Name: assets/slot_panda_res/Panda_loading_bg.jpg
+SHA1-Digest: cFuj7KlEK/sSjHwJ8JARyl2QZYA=
+
+
+Name: assets/kartu41_res/K41_ui.png
+SHA1-Digest: tE+rCKmRFsjcdIFmkw901wyxwrc=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_103.png
+SHA1-Digest: 5nUw/isGbPz3RiQdByTDCfoMask=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_555.json
+SHA1-Digest: 5bHjw0Glv7dAVKAvZVz8U3j5oBo=
+
+
+Name: assets/kartu41_res/K41_result_fs_win_num.png
+SHA1-Digest: +uBVVd+K/OpbIMBxQ9+BZJf7wMQ=
+
+
+Name: assets/draughts_res/Dam_result.plist
+SHA1-Digest: Th1lSG2EvJXv6fzSoEGgXVilD78=
+
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: eQHHeyYKnIEh/uH88MfyqtUkuFA=
+
+
+Name: assets/lobby/font_num/DG_gz_bq_word1.png
+SHA1-Digest: VweDsroj62RlJCqUvCRLIvgBbBo=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_baojiangheji.atlas
+SHA1-Digest: l2a50R4iM1jXriI2v8aKHRnLku0=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt.png
+SHA1-Digest: botH3/qdJyeJZmP+6DlYFspbM9o=
+
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: Fs9wHncn0Hs9X2gBgK72twTeEAg=
+
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: bVBKdZBwJU4kt5FkFyI47wbQ0Ro=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_hi.json
+SHA1-Digest: Y4Y6RpNkm0ETO8DKqy+iNSERdLQ=
+
+
+Name: assets/fruitslot_res/game_fruit_1.conf
+SHA1-Digest: HN/NQGnLawDtJr05+FVz5TTUDGM=
+
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: MvBcSDWfgekMp3141Nl1jxLIXDE=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_word_ui.plist
+SHA1-Digest: MqknOvoeTIMC3YNtnxEYevE7s1k=
+
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: tUDUBN5WzuDjef2n68sSipDlxzg=
+
+
+Name: assets/domino_res/eff_res/tuoweihuang.plist
+SHA1-Digest: 0GwO3sO0bmVmL6hIqlKf7pJNIt8=
+
+
+Name: assets/slot_common_res/eff_dfdc_bj.png
+SHA1-Digest: b+GUP7S+q5KVXLUAufHceJV6AbA=
+
+
+Name: assets/sound/Dam_click.mp3
+SHA1-Digest: FKrs9AV1WV0L/x9hggR9xjXgcCA=
+
+
+Name: assets/capasasusun_res/ssz_game_logo.png
+SHA1-Digest: rFl6jqlAIKj5Bei6pQUgWRirRbY=
+
+
+Name: assets/lobby/word2/lobby_game_name_res.plist
+SHA1-Digest: LFQpcVNZtKr8xsxbwRr61+C8MR8=
+
+
+Name: assets/sangong_res/SanGong_rule_ui.plist
+SHA1-Digest: 4dVXTXikWk+yWkZt9nFt/ge89jo=
+
+
+Name: res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: aVVZGkuaO3JxZXGrC7e24cvdJrk=
+
+
+Name: assets/capasasusun_res/ssz_bp_add_num.fnt
+SHA1-Digest: XKJyg+X+qHxz9dPmfk36hzCBfq0=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: GHXXmeZJAjb8EUS6oBJoqMQ0Mjg=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Ub7EVU/MNH+VSjP7k8FYzKJQoQ4=
+
+
+Name: assets/cangkulan_res/ckl_game_btn_jpq_num.fnt
+SHA1-Digest: NBvma2wwrVAS0vSsqGIdh1vEe0M=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: Vi4e1eOGqt4tlLviZFiIewDc19w=
+
+
+Name: assets/sound/girls_1/pass.mp3
+SHA1-Digest: s4ou3HqW6SrhB9vmIDtik6ZKL7g=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: oKK0tOor4SmX4ORpTg/URmuOtes=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/DrawPrimitives.lua
+SHA1-Digest: xPRZu13ZYRyozKgXjNToask7Jg8=
+
+
+Name: assets/texasholdem_res/them_gameview_2.png
+SHA1-Digest: Mib6XX/YD5/2P2Fv3ZFs3ylI7wU=
+
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: X+Ryi5rsXdbFYYdv5crORIncYts=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_sl_num.fnt
+SHA1-Digest: y5b63AbbQgMJje7uSHFQbkdktJs=
+
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: sbOreDPAl0vJJ+WYIL/HL6xnrLc=
+
+
+Name: assets/domino_res/DG_result_win_bg.png
+SHA1-Digest: gZLHqbgrAvgTky3jZ+7L9xzrGBI=
+
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: SQw98eLJjD9P26uGhCD2czwxfIU=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_6_a.plist
+SHA1-Digest: e1q3Oc3HQonPCexuzYC6a4A0J+I=
+
+
+Name: assets/domino_res/DG_game_ksdjs_num.png
+SHA1-Digest: VoiUPCwF7TFyxvN+uftK+tyITk4=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt.atlas
+SHA1-Digest: kHhb7X5p8MXbmBLiH7/b/lYgAxQ=
+
+
+Name: assets/sangong_res/SG_result_jf_less.fnt
+SHA1-Digest: Ld7uXU2kSu8raeOulltrfk0NwJg=
+
+
+Name: assets/cangkulan_res/ckl_game_ksdjs_num1.png
+SHA1-Digest: oX/oBYl+Q7SWoCunhplQ3PaU9us=
+
+
+Name: assets/draughts_res/fnt/Dam_dw_icon_yy_num.png
+SHA1-Digest: 9Cqu/oRgFQrGBxUP4NM0vmtCtoU=
+
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: TN9G8MeoxLAGgxSCTr3+IHnEdbU=
+
+
+Name: assets/draughts_res/22_urge_text_2.conf
+SHA1-Digest: m8GBkmjNzrPBV2j7dsBtFF0HvtY=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 6nL94lpOIDhHAcaZP6Numi9gbpw=
+
+
+Name: assets/hw_common_res/word2/remi_game_word.plist
+SHA1-Digest: tM8wcZpke/wlLh/rntfEViEslsI=
+
+
+Name: res/drawable-xxhdpi-v4/com_facebook_close.png
+SHA1-Digest: 9QbzcymvP5CtoozttIDDXOFgCRs=
+
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: mCF0zubli9M+lZuZWm7cFhlckvs=
+
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 8Sb/L5pJ5dP5LYtTMluOvUh3sug=
+
+
+Name: assets/texasholdem_res/word2/dzpk_px_nr.png
+SHA1-Digest: MivpJAfIM1JlXhaBwEgb0wmvhQA=
+
+
+Name: res/drawable/lobby32.png
+SHA1-Digest: YiQq8hVhdi+xX9WcqpWuAtYxeWE=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz2.png
+SHA1-Digest: zWA5Z/FdBxdzoLlo+9OHbRwtxOY=
+
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: JAClwT1ocn1+7hKVJbvcQGLjKgo=
+
+
+Name: assets/draughts_res/eff_spine_domino_qzcx.atlas
+SHA1-Digest: AThiwLoVGdnkAWv3W3RK+WEtJHc=
+
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+
+Name: assets/slot_common_res/slot_base_coin_ui.png
+SHA1-Digest: aymlVZhp0YHX6Sk+jLX39/jSwD0=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_bet.plist
+SHA1-Digest: rde+VqGV19ouwlPtyCSgdcwmh6Q=
+
+
+Name: assets/draughts_res/fnt/Dam_result_VS_num.png
+SHA1-Digest: LVUoIkN9ffwGNnO22zhobaGeJUI=
+
+
+Name: assets/lobby/DG_IDlogin_res.plist
+SHA1-Digest: 4IJVDV3jqtzt0Y+wwHh9VqSuCxQ=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: OW+ZULMA0miOKqqKj1wk15SSUFQ=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+
+Name: assets/cangkulan_res/ckl_sf_winner_icon_num.fnt
+SHA1-Digest: InP9K/6w/Ag4Tflzg0cxNsqZJtA=
+
+
+Name: assets/lobby/DG_signin_res.plist
+SHA1-Digest: /LZnegkarnXm8OidwW7HdTu8EYM=
+
+
+Name: assets/slot_dfdc_res/dfdc_youwin_num1.png
+SHA1-Digest: c3ka4LQaPXm84EdroBSayP3z/xs=
+
+
+Name: assets/sound/ssz_cardType_9.mp3
+SHA1-Digest: 9NS/W1FUmgkp8+nYLiOsV6HYMB0=
+
+
+Name: assets/draughts_res/eff_spine_domino_fjb.atlas
+SHA1-Digest: g1quZMejfoNRyO+lXxYvY+Dv8pQ=
+
+
+Name: assets/rule_remi_1.conf
+SHA1-Digest: Kig/yNIHmki6p4A9g+5ZdCoiYP4=
+
+
+Name: assets/sangong_res/SG_game_icon_chip_num.fnt
+SHA1-Digest: EA2wensjDK40nkGVqh+GAzq/fOc=
+
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: AyO3Dvz1gVesT4qaa1BLtQk3GZw=
+
+
+Name: res/color/com_facebook_button_text_color.xml
+SHA1-Digest: xB1ldSpBHM6LZyNDh72hIf+cCxo=
+
+
+Name: assets/qiuqiu_res/DG_QiuQiu_CardTypeDetail.plist
+SHA1-Digest: /pKrWQLxC3HIAqS7jYCIDq7WdX4=
+
+
+Name: assets/fruitslot_res/CS_num_02.png
+SHA1-Digest: lr2R+fox+Do0tPGP7SlMd7at7uc=
+
+
+Name: assets/lobby/DG_more_game_res.plist
+SHA1-Digest: tQ1fGcFlEqchr8WyIOgRNbAmKo8=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_1_b.plist
+SHA1-Digest: hbj0/kVZj9MIVp3z00YbKEhGwKQ=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: W4EaBoKegn0YFT9B4iheOBbnGW0=
+
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: LYh5wO7mcgtiq4fyzNQBKw1XFk8=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_cptw.png
+SHA1-Digest: jAWyf5yzdtdoSKxVEQrYTqrDO7A=
+
+
+Name: assets/lobby/DG_frist_charge_res.png
+SHA1-Digest: KVIaky2SK1dTHvMCql1zBr+qBAE=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sf.atlas
+SHA1-Digest: QDK9K7mchekCm7XJrXkHTxnXxyQ=
+
+
+Name: assets/lobby/font_num/DG_qd_num.png
+SHA1-Digest: jWCS3daKBkr6RgdRUK9VM7Aup5c=
+
+
+Name: assets/slot_common_res/sound/base_main_linewin.mp3
+SHA1-Digest: jT9VlC2Z5v1B/t5Ug0pR7iDy+vE=
+
+
+Name: assets/lobby/word2/lobby_select_game_res.plist
+SHA1-Digest: 9gTzpD5/E1DtCQnHIbOwgTZXvPg=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_btn_day_num.fnt
+SHA1-Digest: s4uuAE39qrOppc2wdfIY7MSzQ/g=
+
+
+Name: assets/ranking_award_info_2.conf
+SHA1-Digest: Qqo/4OhTbyFyh33BUcY00ugoOok=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz.fnt
+SHA1-Digest: qX1URuau83h523B0+Lgu2nDEmow=
+
+
+Name: assets/rule_k41_1.conf
+SHA1-Digest: ua/rKGnakN+ZADTHVpCiz+pqgfw=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png
+SHA1-Digest: +DxTpyUKpT11iz68MG1Q0iB2EvA=
+
+
+Name: assets/sangong_res/eff_spine_Samgong_jackpot.png
+SHA1-Digest: +NT4abagZ84+SReanLQbHS0nptM=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jackpot.atlas
+SHA1-Digest: l79qrfBxcHKj3VhAfu8R7og+kAo=
+
+
+Name: assets/domino_res/eff_res/tuoweihuang.png
+SHA1-Digest: vl+wTAr/3pQjU4x3jEF2wBMxXtE=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jackpot2.png
+SHA1-Digest: WKFID5D74pO7tLC9c0lBSSiP1Lo=
+
+
+Name: assets/remi_res/eff_spine_remi_win.json
+SHA1-Digest: QP3Qo7RO+0X1Yd/dyJkHy5AMwxY=
+
+
+Name: assets/sangong_res/SanGong_main_ui.png
+SHA1-Digest: 7nI/hZVRfiaZMYmOHQyhyfu3Obo=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: i/RwFcDz6lzzqB5tKAFSlKzx738=
+
+
+Name: res/layout/messenger_button_send_blue_round.xml
+SHA1-Digest: c34BeJwz9dCC69xTOCGiAYHnz+4=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_ksbp.json
+SHA1-Digest: AVc1GodScPOFYv0D2nruKRzwKno=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdomino_gjlwgg.atlas
+SHA1-Digest: 6vWuorf+WBpNXJsA9EQi/uaTVBo=
+
+
+Name: assets/qiuqiu_res/word2/DG_QiuQiu_word.png
+SHA1-Digest: 08saKxCi+sJEVCIiv0CcRNzSbr8=
+
+
+Name: assets/luaSrc/luaCocos/cocos/extension/DeprecatedExtensionClass.
+ lua
+SHA1-Digest: Gddw4OoFP+dlzoXw66xi+cYudIg=
+
+
+Name: assets/hw_common_res/A_Game_k41_res.plist
+SHA1-Digest: mKJdOdM0QCPhXOL6DgLdL1mb1Ys=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jbpxrw.atlas
+SHA1-Digest: x2CmPUPbOdfm81htzSEwBXlzGQw=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_js_sq.json
+SHA1-Digest: dsOv84pz8gNi6uy48zMWDpq0rO0=
+
+
+Name: assets/slot_common_res/slot_main_score_num.fnt
+SHA1-Digest: Xu/udFGJoOMfpm4KHTu1uiDJECs=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: jdZz25bjrnSvfJrPV+oVZQVPfr0=
+
+
+Name: assets/lobby/DG_dj_res.plist
+SHA1-Digest: f6et25jZJ3AoXEY67Q0Fgv353dk=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_2.plist
+SHA1-Digest: 2let81wqbM/nwIJm1VA5ojivmZg=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_ganbei.json
+SHA1-Digest: RiyH4qmBLcz8YZZPHUsuU7QH3Ao=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: BjYXNIGGhyqIB4Vq4khlEepKSZk=
+
+
+Name: resources.arsc
+SHA1-Digest: O1ULeLSday/pCKu0ZzhUEfZx4oQ=
+
+
+Name: assets/sound/ani_kiss.mp3
+SHA1-Digest: L8OwgRlroP4vwM221ZfKd+a/fk8=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_pp.json
+SHA1-Digest: 5euJ/Cuyg6OAf3vdOCqDqntlwuo=
+
+
+Name: assets/domino_res/eff_spine_yddmn_jqrtg.json
+SHA1-Digest: fV6P6XhkR2khknrh+MDsgfvFMXA=
+
+
+Name: assets/domino_res/eff_spine_yddmn_txtx.atlas
+SHA1-Digest: CJHZyyU4RG5VpOh08rYj5FmEh3k=
+
+
+Name: assets/cangkulan_res/word2/ckl_word2.png
+SHA1-Digest: Nggo0FrymSPrypLYv+xOtC59a9w=
+
+
+Name: assets/capasasusun_res/ssz_pp_button_wc_num.fnt
+SHA1-Digest: 2wI7kiX//OINCYzAbsvJnCi23Qk=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: GuKSrhMJG9+hk/tPX2xPNfs4cy0=
+
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: 9fUhLT9wS00YblCOz9f3EJKiyFM=
+
+
+Name: assets/cangkulan_res/eff_spine_Cangkulan_kjdjs.atlas
+SHA1-Digest: ku1Q5Nfe2QDgloOJcbiiZe5hK5w=
+
+
+Name: assets/slot_common_res/sound/bigwin.mp3
+SHA1-Digest: dsvWpQ6ml4apbe7Z6yOrnFemmzk=
+
+
+Name: assets/base_text_0.conf
+SHA1-Digest: F5nUt5DScI20rcCfNwBjpFPRaS4=
+
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: ZQj/eyI9j4WxIRNxEDiwFqKcMCY=
+
+
+Name: assets/lobby/DG_Send_prop_res.png
+SHA1-Digest: y878VzD0HPhK9Qiv+pDPcx0Evi4=
+
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: FGv11tHMyahtGa0RgWqB5HyMVQ8=
+
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 91+SjRwS48rnNSkJl3hukfpvmrk=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt.json
+SHA1-Digest: vUc2Ca3u3wTniHZxYvsC15tZW1E=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocostudio/DeprecatedCocoStudioFunc
+ .lua
+SHA1-Digest: BVUzbSnGnD7FZ4Chp4NsapNoF7s=
+
+
+Name: assets/slot_common_res/sound/hkfg_Wheel_up01.mp3
+SHA1-Digest: G0Nkgj/330FsxR2ihh76r1pacXs=
+
+
+Name: assets/slot_dfdc_res/eff_spine_fuwa_zhongjiang_s.atlas
+SHA1-Digest: FsQ77UvCQ/GvX/w7hKRc3DsTDtE=
+
+
+Name: assets/cangkulan_res/game_text_17_2.conf
+SHA1-Digest: TAgyHiUZeQraeAX4xXem2wqsQZY=
+
+
+Name: assets/lobby/DG_lb_chat_res.plist
+SHA1-Digest: tBR5AEdwET8RIyIoHtkMc8BVst0=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_bigwin.atlas
+SHA1-Digest: t912X3I5tXs+IuI8EbNvbA4RKhs=
+
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+
+Name: assets/lobby/DG_lobby_user_info_res.png
+SHA1-Digest: cucFH933BtqvVIZhjwnZZgGomCA=
+
+
+Name: assets/lobby/font_num/DG_hgjl_xz_jl_num.fnt
+SHA1-Digest: cOayzXF8/ROXiZ7MwuR2/IMECb4=
+
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: L0IgyYapku8uZtPqOfviagHTIEk=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: +F9A3ApomF++Ccyi3vyA4AvmXMw=
+
+
+Name: assets/domino_res/eff_res/tuoweilan.plist
+SHA1-Digest: wFD8+4gFfVlLmSd1XJbaVQjm2RU=
+
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: f8EfonWh4XoSi2ltOLAlEW6OO0Q=
+
+
+Name: assets/domino_res/DG_game_task_res.plist
+SHA1-Digest: 6bqcTex101lwBk/95BBJauBmfF8=
+
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: joK0vcdx2mqj6rhHNblDhPDqav0=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_2.png
+SHA1-Digest: MNJ4LePCAum7dZztw/MBbB0MxuQ=
+
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: dKQeKltdDbmMl4ygUguElsooUrs=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_rule_nr2.png
+SHA1-Digest: JrB/mhQyedkn2XuN5W83orxHR84=
+
+
+Name: assets/lobby/DG_kf_res.plist
+SHA1-Digest: 7J/Qh/6ilApC17Go4I40dGKacBI=
+
+
+Name: assets/rule_jlnormal_0.conf
+SHA1-Digest: yGG0DvAmae3nmqj7AjnBfs5g4SA=
+
+
+Name: assets/sound/dzpk_slide_raise.mp3
+SHA1-Digest: HtJXkNh/k4mmJ5mUtqwujFbEJjc=
+
+
+Name: assets/domino_res/DG_game_userinfo_res.png
+SHA1-Digest: AUrn119BD5Rax1BjmlnP3Puizh0=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: h2tBvFGRUrlGIzFUqIYNFF4jBTY=
+
+
+Name: assets/lobby/font_num/DG_hgjl_cz_vip_num.png
+SHA1-Digest: u/wXp4Oy3MOVDDyvtztLkYRhJBw=
+
+
+Name: assets/draughts_res/word2/draughts_word.plist
+SHA1-Digest: V4GPVGSRsXMdsBt6OqLDgnWn508=
+
+
+Name: assets/kartu41_res/K41_result_jb_add.fnt
+SHA1-Digest: tXSA5O0NDE7K8A2QoceX2jA/siY=
+
+
+Name: assets/sound/domino_jl_bk.mp3
+SHA1-Digest: 2qYUH2bvsZqc6OOLzLtLY6DG35s=
+
+
+Name: assets/domino_res/eff_paixing.json
+SHA1-Digest: FF7HWr0SEB+nsJXLUbqnkaX9ms4=
+
+
+Name: assets/kartu41_res/K41_result_jb_less.fnt
+SHA1-Digest: F3+iV55i3lGbgsLvligg9OckUBk=
+
+
+Name: assets/lobby/DG_phonebind_res.plist
+SHA1-Digest: 5cdq6KyeLAl9MyZtWPOPck+2K8U=
+
+
+Name: res/drawable/com_facebook_auth_dialog_cancel_background.xml
+SHA1-Digest: QqblWW+QhEgBviPq0u419ZaCMn8=
+
+
+Name: assets/game_info_0.conf
+SHA1-Digest: eeKtjFyvAegQC6nqaMGEfJSXR8g=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_4_b.png
+SHA1-Digest: 32s8EZJfrrt+GzbSoXVYjL5q5XM=
+
+
+Name: assets/domino_res/DG_game_baseui_res.plist
+SHA1-Digest: DTpmq95uhJROK+oKAZMrmGynGCo=
+
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_js.png
+SHA1-Digest: oMQzIN3tqNxR4xymKEerinRqbZE=
+
+
+Name: assets/slot_common_res/sound/hkfg_WheelPartical.mp3
+SHA1-Digest: PsyCdUdp9AAIyAAgg2r7maRXkaQ=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz.png
+SHA1-Digest: 3YpCAjRa8WnFmneDWcuVNNwwBqE=
+
+
+Name: assets/lobby/DG_kf_res.png
+SHA1-Digest: KnVLabzXcWSplZfUrtjX2Ww81Rc=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: 3J5pByYkZRz7TetQA7yaxvDvbrk=
+
+
+Name: assets/slot_panda_res/word2/panda_base_word.png
+SHA1-Digest: 2fmI5+FI0gJpASP8W5azAJzFxRU=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_4.png
+SHA1-Digest: /gqTmJpBi3Gy8jD4yPfjRCm7FcU=
+
+
+Name: assets/capasasusun_res/ssz_js_lose_num.fnt
+SHA1-Digest: f1TNcD8KIaxKJMOklvMcbAOX11M=
+
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: BVUBmHIrwON6fh9yhuHoHOuqf1w=
+
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: cjG9sTPDRm4+Q3YgeyRUYPgo2LM=
+
+
+Name: assets/sound/ani_durian.mp3
+SHA1-Digest: vrvVqb0Fw2KdB3sqhkR7lngtLRQ=
+
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: miJtNgCLuoP1U1WddHbAB7oOxUo=
+
+
+Name: res/drawable/com_facebook_button_like_background.xml
+SHA1-Digest: NAGt8G45egjpUzgnm7DNeU1z3dg=
+
+
+Name: assets/lobby/DG_comm_kuang_res.png
+SHA1-Digest: WXqjeEEYgCaUCX3w/r0WldzKiGw=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: jUq6u+1ndLcS9cnmXqwG80QRGP8=
+
+
+Name: res/drawable-hdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: G4JzSY5fFJPNK4fKlYr+J/PogdU=
+
+
+Name: assets/cangkulan_res/ckl_zyy_pb_num.fnt
+SHA1-Digest: 6mzU3EF6avOkKNGe6VlMykseUYI=
+
+
+Name: assets/draughts_res/Dam_match.png
+SHA1-Digest: kCbZy80JOWsxixgQu/ulgyc4jvo=
+
+
+Name: assets/lobby/font_num/DG_lb_room_slgg_num.fnt
+SHA1-Digest: IEJMB4lxgSx2+MjPCScDGEpQmYM=
+
+
+Name: assets/slot_common_res/sound/hkfg_WildStop.mp3
+SHA1-Digest: ssOqy4/sQaUWAv6KhsXoLJqjYxU=
+
+
+Name: assets/sound/lobby_bk.mp3
+SHA1-Digest: W4KWDHpLbFqpr+wfwmBs3vnDkK4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: d/ygpuT2YiF/iIerQ2gw0iqKlSQ=
+
+
+Name: assets/remi_res/remi_sf_lose_icon_num.fnt
+SHA1-Digest: LdUcz0XTVr9nYmpcn2Di4XGJkVc=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_2_a.plist
+SHA1-Digest: xIwaisyBsB/HNjSRpGLw1Ts4dGk=
+
+
+Name: assets/domino_res/DG_game_task_res.png
+SHA1-Digest: MjpgdfJ+ezmhtb8sMvpfIUsAvAY=
+
+
+Name: assets/slot_hkfg_res/word2/slot_msg_box_w.png
+SHA1-Digest: YiUV2qWodlOi2TDupQkQQSimlYo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/extension/DeprecatedExtensionFunc.l
+ ua
+SHA1-Digest: uD4/WpwuS/u6Bo8IbiBP2MfCOxA=
+
+
+Name: assets/slot_common_res/Slot_lobby_renshu_num.png
+SHA1-Digest: /t/adtEbfa+tEudN1mw33AnGR7Q=
+
+
+Name: assets/capasasusun_res/capasasusun_cheakcard.png
+SHA1-Digest: yUK0hX5pNu7LoHdlrsZYScLerF8=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_hddj.png
+SHA1-Digest: Zi4hdHezFkFX7U+2gdUMV7e+gH8=
+
+
+Name: assets/domino_res/eff_spine_yddmn_lose.png
+SHA1-Digest: W/EUo1OvwonK6ygMDfodWyzWFGo=
+
+
+Name: assets/slot_panda_res/word1/panda.txt
+SHA1-Digest: L2JmurPVJoQtwPamItyv47BCmos=
+
+
+Name: assets/remi_res/remi_userinfo.png
+SHA1-Digest: ZpNmmH57Wx9F6E9bzE7YTmLQWEw=
+
+
+Name: assets/slot_hkfg_res/hkfg_loading_bg.jpg
+SHA1-Digest: uvXujE4GzDSStGGcRt+NImVm4nQ=
+
+
+Name: assets/sangong_res/SanGong_task_ui.plist
+SHA1-Digest: p9v1CxEou0CubpAjhjxaF+47dTY=
+
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: UZd7U0EAzo4OsRzIvxyVHc0jdI0=
+
+
+Name: assets/luaSrc/luaCocos/cocos/ui/experimentalUIConstants.lua
+SHA1-Digest: zPBFKKaO3KvrPzT1tax/SqPvgos=
+
+
+Name: assets/sound/Dam_win.mp3
+SHA1-Digest: UvSqHypE0PWC803zTX0quQvt8lo=
+
+
+Name: assets/forbidden.txt
+SHA1-Digest: eaQCoJEr+B34W+usIfTUqs+8J2Q=
+
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: yzv+gV7vRokZcSVsuQ8mNnCWrkU=
+
+
+Name: assets/capasasusun_res/ssz_bp_add_num.png
+SHA1-Digest: Uxc/pQWsWCk42L46/bEyk70mNSY=
+
+
+Name: assets/draughts_res/Dam_ludo_tx_move.png
+SHA1-Digest: 7U7urgDVOlMDmCZO/2dIBC1JjC0=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_3_b.png
+SHA1-Digest: i5LmSs1wF4sscFxvKs1qjpgDovs=
+
+
+Name: assets/cangkulan_res/ckl_zyx_send.png
+SHA1-Digest: 9Z7KYB5SGR9LCIm/hUFtGzOkt2A=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 6wmuQsGop94sACxKfh+EBLCBjJk=
+
+
+Name: assets/kartu41_res/K41_rw_x2_num.png
+SHA1-Digest: 4SHsJgvTYY8E9DpclsY3Y/+9gp8=
+
+
+Name: assets/agent.txt
+SHA1-Digest: ScWmJ8gsicz9cEqdCpg9rZop+VE=
+
+
+Name: assets/lobby/DG_hy_bg.png
+SHA1-Digest: uEugz/PDLbMQ3ZPbICvvl2e2K+s=
+
+
+Name: assets/domino_res/word2/DG_dmn_jl_word.png
+SHA1-Digest: MEkoUn+W76+TpMCACCUqQiTmjLc=
+
+
+Name: assets/sangong_res/SG_rule_bl_num.png
+SHA1-Digest: s+lVBxjtao2MMt1sWKknS+/AMHo=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num1.fnt
+SHA1-Digest: ywbW3g52b0GwZTp/BElzuAfCalE=
+
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: 7txkdhR3/M1+7pFXRocpYAeHrUg=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt_icon.atlas
+SHA1-Digest: 0jDW6KNY+c8KKcVltL6WOJCgZ24=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: TFw374/s4XaJ6tO6+xKfPns7uwA=
+
+
+Name: assets/hw_common_res/chess_game_toplayer.png
+SHA1-Digest: AyLESGMwf5f9oXyLEIkg5ODq43A=
+
+
+Name: assets/domino_res/DG_game_ksdjs_num.fnt
+SHA1-Digest: lCLI3MrAfYuaO+0ntCqN42p4YXU=
+
+
+Name: assets/hw_common_res/dmn_player_ico_exp.png
+SHA1-Digest: lkoazh/xNvMnYUbpqO2X3Dr2WVM=
+
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4Hw7naTONE1358HTJi9mZTJ9Hto=
+
+
+Name: assets/cangkulan_res/ckl_game_ksdjs_num1.fnt
+SHA1-Digest: uJSxdWRkuMPOjMR0krv8m4YctkM=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_rktb.png
+SHA1-Digest: AGfIhEAUevq01qjgaMLZwBsrr0g=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: /d83SMUUg3RyOuXWcRh/Jwg7Jg4=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_linewin01.mp3
+SHA1-Digest: +MXu6ksZPclSRUbyQhlYXXuadzQ=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/transition.lua
+SHA1-Digest: 2Tq05eAiIHBalE1nMa1QHXhtFQY=
+
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: fe7eJqKmBfrhA306NUaEyl9opD0=
+
+
+Name: assets/sound/win_result.mp3
+SHA1-Digest: Dy6iamLr6VuZqwg+6vuTrxQcluU=
+
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: UY396mIruYVcmAxMij+u5Y8b6ZA=
+
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: SSclHjQVYekCM9FyjFPvk62bt1U=
+
+
+Name: assets/hw_common_res/dmn_tx_show_101.png
+SHA1-Digest: CmJPhdrI7st/b/w1KLdM/pPKOKk=
+
+
+Name: assets/slot_csfff_res/csfff_loading_bg.jpg
+SHA1-Digest: bNHkXfT/7enQ/Csbk4lOWkJMX98=
+
+
+Name: assets/kartu41_res/K41_result_fs_lose_num.png
+SHA1-Digest: E06Az0WQm80oEYC4ejPpLve0xmA=
+
+
+Name: assets/lobby/font_num/DG_sjlb_num_hb.png
+SHA1-Digest: dTqnNDFLfyq17GS5RZuzeOBthf8=
+
+
+Name: assets/lobby/DG_yqyl_res.png
+SHA1-Digest: ynoDaXtmVbGhin66c+p8NpQUmGU=
+
+
+Name: assets/domino_res/skeleton.atlas
+SHA1-Digest: hAPAoQyJcc/am4GIxxi4wEK1cc4=
+
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: VOlMzvWJW0YErgWlx0yXj1Lyg/k=
+
+
+Name: assets/sound/remi_send.mp3
+SHA1-Digest: XI7G9AZ9CmZyHJErFc45p/+Hi5k=
+
+
+Name: assets/texasholdem_res/DG_them_cm_num.png
+SHA1-Digest: Kn3D53T0kFBP9mDniaWbnlxsreM=
+
+
+Name: assets/slot_common_res/Slot_rank_win_num.png
+SHA1-Digest: 6+SP1z8OmEHySXNWpbVlThSU5Aw=
+
+
+Name: assets/slot_common_res/slot_base_msg_box_ui.plist
+SHA1-Digest: 8dQ2DyOJe5LdS3hl0OcekNgJVvw=
+
+
+Name: assets/texasholdem_res/dzpk_xz_sz5.png
+SHA1-Digest: GsZqeXdpD78B6aBqqmVYT7H214Q=
+
+
+Name: assets/sangong_res/SanGong_rule_ui.png
+SHA1-Digest: Vt2x93U+fFBuH3OtLMY7rJiDXcA=
+
+
+Name: assets/cangkulan_res/ckl_zyx_sz_jb.png
+SHA1-Digest: NUMgEHaE7nka5TGi2JqnXEHwAA0=
+
+
+Name: assets/lobby/font_num/DG_qd_day2.fnt
+SHA1-Digest: bEcpsN//9prf/Lo12d9qEfSRVZM=
+
+
+Name: assets/draughts_res/fnt/Dam_game_icon_jbd_num.png
+SHA1-Digest: TmIC0thmg/Rx4SHd/l7Dx081wxY=
+
+
+Name: res/color/com_facebook_send_button_text_color.xml
+SHA1-Digest: wDk5FXXjEt4y44PNDTmVQlehiWQ=
+
+
+Name: assets/sangong_res/SG_ds_num_win.png
+SHA1-Digest: vwMNxDihmVuK+nqkzzqnW6cV7jo=
+
+
+Name: assets/sound/ssz_cardType_10.mp3
+SHA1-Digest: rugsdV/vJi0FYD1/cRYb8gbmdwY=
+
+
+Name: assets/lobby/font_num/DG_lb_bonus2.fnt
+SHA1-Digest: Z0vAeSCek4glACfHNW2CPNa+kvY=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_fu.atlas
+SHA1-Digest: DRtXUa3zjqBu/N3CEoJsGm2ZSKs=
+
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: b2euNlIvLp8ulrB66gSvPmkEaLI=
+
+
+Name: assets/cangkulan_res/word2/ckl_word2.plist
+SHA1-Digest: owVPd9ocaGgZYI2Wb5Te8Q5J8QM=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_jmbq_zzz.json
+SHA1-Digest: /sH5ubodAl6sjlNazFFwggpvTmo=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_jackpot.atlas
+SHA1-Digest: lAqX6FB4CdESIXw/+TsZJSefeSE=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_sbbj.skel
+SHA1-Digest: rXZM3UuNsv2U+bC2agTb0TfSgvk=
+
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6cYteh91Z4QwwshoVAQi/kEme4s=
+
+
+Name: assets/domino_res/domino_card_res.plist
+SHA1-Digest: SqKfmwoMqkF/T4YkYkU8jJEO1c8=
+
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: cG04d50tDB7eX3k8GXpvzf7ad6k=
+
+
+Name: assets/kartu41_res/K41_guide.plist
+SHA1-Digest: LOgVMZ++J5eHujK2C4Om6UFs5Cs=
+
+
+Name: assets/sound/qq_fangqi.mp3
+SHA1-Digest: 1JT/98HWL/B+P36Jj2rjcuUoOUE=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_ccp.atlas
+SHA1-Digest: 5JJ9fhDtbS3wt9O/cO7BRq9Y6ck=
+
+
+Name: assets/lobby/DG_ShowOff_res.plist
+SHA1-Digest: rXgspVuO41Y3nMwK08ueAHP4ZzE=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: P/TePusgUK0jTzJbBXwUqj2ymIs=
+
+
+Name: assets/lobby/font_num/DG_deck_zs_num.fnt
+SHA1-Digest: 3rxFDj9fj9TV7CDWCYpa+XtyDKk=
+
+
+Name: assets/lobby/DG_yx_res.plist
+SHA1-Digest: gXZ5Gq+R65Dikc4sChkULgLuzi0=
+
+
+Name: assets/sound/ani_egg.mp3
+SHA1-Digest: TIBEBjMZVq989sfDMpGAWGo6guE=
+
+
+Name: assets/remi_res/remi_result.plist
+SHA1-Digest: Mzi3hb/0DzJOGLVeOlDD740YykI=
+
+
+Name: assets/slot_common_res/word2/slot_base_msg_box_word.png
+SHA1-Digest: bjPQgw0WS3xBmB8A20fN+kc0S7Q=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_2.png
+SHA1-Digest: E3ry5HdoskMGbRuA6MEkeWb7298=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA1-Digest: ZjoNfwYFY/w1heN9+GIDC4AUjSI=
+
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: LHmMms30BCMUf9XjUd6tADSOeTI=
+
+
+Name: assets/slot_csfff_res/word2/csfff.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: /eDz+heYPXJvJLSxQZ3wHG52UC8=
+
+
+Name: assets/sound/ani_love.mp3
+SHA1-Digest: y8iTnrQFnSKTgdDv/TbSMAiY9vw=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_aixin.skel
+SHA1-Digest: w9W4nZvZOvt87Tjv9go0TGobuk4=
+
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: W9bM0DI8HU3W5mDcsP2mPzT9VHs=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_smallwin.mp3
+SHA1-Digest: ad2L3Hz/20a84gHprnQD8H9FIeg=
+
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: j71Es1OJ/pRHXKJxY8KTPt6PqoQ=
+
+
+Name: res/drawable/messenger_button_blue_bg_round.xml
+SHA1-Digest: BaaabpSQal394YhYhNcFbrjpjO8=
+
+
+Name: res/drawable-mdpi-v4/small_web_top.png
+SHA1-Digest: v2vVeNnftivUapWuW6cFKOWhNjI=
+
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+
+Name: res/drawable/messenger_button_white_bg_selector.xml
+SHA1-Digest: 6HYQ9WAXpVFjhNm2uRqavhqATRo=
+
+
+Name: assets/hw_common_res/ckk_game_toplayer.plist
+SHA1-Digest: tbjKFCJyMKFhjTpZ2fQp96PK69g=
+
+
+Name: assets/slot_dfdc_res/dfdc_ty_bg_M.png
+SHA1-Digest: l4ap5pMu1AorVXeRpyCLVOEwEDE=
+
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: C5G74tW2JFPwdcl//FtvBsXTaV8=
+
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: vt1oehKZp0gkRl4e+wzDTHdD7vI=
+
+
+Name: assets/capasasusun_res/eff_spine_yddmn_ssz_dq.atlas
+SHA1-Digest: crTBXM8mZJ2TmwWMHxV2OoZRrjo=
+
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: Usq7Dzr/t1Xtrt8n6xUcjpoUU8g=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/device.lua
+SHA1-Digest: 1gd+yZFnMxCehXzn2rzkX/NQyEU=
+
+
+Name: assets/hw_common_res/dmn_touxiangbian_100.png
+SHA1-Digest: q1yQDQHjUGUCIwOCO4oPO9LkEXw=
+
+
+Name: assets/lobby/DG_rank_last_jl_res.plist
+SHA1-Digest: W73Tx1y5jwoyqn5z9KNWNDdNczA=
+
+
+Name: assets/lobby/font_num/DG_yqyl_num.png
+SHA1-Digest: UBYnFjiQlB2DefPEBfy3FSmG0Oo=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_num2.fnt
+SHA1-Digest: RqroNLrmYVf0DAzAcb3WsUl4xSc=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_scatterlong.mp3
+SHA1-Digest: RS0cnLbs3vn2hCqs12ofL9l3xEQ=
+
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: vJO912sCo6TVhmyen6quV0Oc7EY=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/UIListView.lua
+SHA1-Digest: A4UYZ8OKc5rdxIYZdVjsBtwnCrc=
+
+
+Name: assets/texasholdem_res/player/bank_anim.conf
+SHA1-Digest: 1p9i/6xxkJBfAE33MS7vWa3ies4=
+
+
+Name: assets/sound/time_out.mp3
+SHA1-Digest: DjBtRS73BYzLfZAStAId1Dirbns=
+
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 2z52s7kOKA0SBxW+QVgoPtaoSl4=
+
+
+Name: com/enhance/gameservice/IGameTuningService.aidl
+SHA1-Digest: OLnORs1vYs2gt/LC/puewQ27H5Q=
+
+
+Name: assets/slot_common_res/slot_base_more_game.png
+SHA1-Digest: l+x0Jeaa71KLq4uN3XKPEt4BFi8=
+
+
+Name: assets/slot_common_res/sound/base_main_midwin.mp3
+SHA1-Digest: FznXSe6t4f0Z5w2OTLf2QEWR0eg=
+
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: TeVoks13Kpl03gJfWLSFjTNifLU=
+
+
+Name: assets/cangkulan_res/ckl_game_bg.jpg
+SHA1-Digest: d3Dyl+ccnDCdEl7Gg6XLekTN87c=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/package_support.lua
+SHA1-Digest: zp6zjKr9Yc6dwe5SpL2YR5ZXqvU=
+
+
+Name: assets/cangkulan_res/ckl_sf_winner_num.png
+SHA1-Digest: xMfYWX7mJ3nlrx5EFnxsHjiGeLU=
+
+
+Name: assets/hw_common_res/draughts_game_toplayer.png
+SHA1-Digest: bo5MprkMdsu0KMsRqgBx0YnJ63E=
+
+
+Name: assets/remi_res/remi_sf_lose_num.fnt
+SHA1-Digest: J16OEh2DaK199/he0qNs++qfl+0=
+
+
+Name: assets/domino_res/word2/DG_dmn_jl_word.plist
+SHA1-Digest: 2x7eJr99UV3mlkuh+lgsUOF8pUs=
+
+
+Name: assets/lobby/font_num/DG_dj_czk_num.png
+SHA1-Digest: ypS6vMoHPSff+KKFFjuYf076XRg=
+
+
+Name: res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: m+HKi8U0cDeYoY4dTlhgouqNe5s=
+
+
+Name: assets/slot_dfdc_res/eff_spine_fuwa_zhongjiang_s.png
+SHA1-Digest: v/QfZxc3KwoRqoFxyCtC92dRI7s=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jl_num.png
+SHA1-Digest: M5Auv7osvQA7Y1ThUAfOaA/u17I=
+
+
+Name: assets/rule_samgong_1.conf
+SHA1-Digest: EDvNTRfon2j1iPjQyCtqxVu1n+g=
+
+
+Name: assets/lobby/font_num/DG_gz_bq_word1.fnt
+SHA1-Digest: Ss6O+dxv1WgQYD7Ush0m52ayZ9Y=
+
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: BrhcG9gnMxL5cZcJ0jDTmMfIM6o=
+
+
+Name: assets/hw_common_res/eff_spine_Higgsdomino_smg.png
+SHA1-Digest: pvGVcYtj4q/6zABDHJ285cG9Gkw=
+
+
+Name: assets/sound/remi_fapai.mp3
+SHA1-Digest: F3FZR/+zfPzVQV5mw0IKybCsENs=
+
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: w8+RBD8wMiMBu8QYz2SticlAqhY=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_game.png
+SHA1-Digest: uUx4/gicdAY4Lk3foqQdkHT3l4Q=
+
+
+Name: assets/domino_res/DG_hlxt_num.png
+SHA1-Digest: 4LsYzb43YVT+5TqTDpVca923AVE=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_btn_ikut_num3.fnt
+SHA1-Digest: 0lkplP/ra+O/mBkP1yD+XPphUsI=
+
+
+Name: assets/kartu41_res/K41_game_icon_chip_num.fnt
+SHA1-Digest: EA2wensjDK40nkGVqh+GAzq/fOc=
+
+
+Name: assets/sangong_res/SG_game_chipbtn_gn_num.png
+SHA1-Digest: kpEuOe2LpqxGnV4EknfUOpK725s=
+
+
+Name: assets/sound/remi_showcard.mp3
+SHA1-Digest: h0PaQaMc6GgkeeCru3dgt0T/Mh4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocosdenshion/DeprecatedCocosDenshi
+ onClass.lua
+SHA1-Digest: QiLxoAO0SlTTy/PEIgcqDQc/Twc=
+
+
+Name: assets/domino_res/DG_result_jf_less.png
+SHA1-Digest: UZ7VOOg0jN7TtELusBtqRmyzJBw=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_ccp.png
+SHA1-Digest: HEzyGftFJ7hLaQE5pL+ADBGxu/o=
+
+
+Name: assets/slot_dfdc_res/dfdc_msg_box_ui.png
+SHA1-Digest: bucVobC14bsXL200ash8hYR5+U4=
+
+
+Name: assets/sound/Dam_Swang.mp3
+SHA1-Digest: AGozwIN5yYC8rJj0gecyybXCSCI=
+
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: SaBB1uVR+6oONKiYA0HTOmVsmqE=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdomino_sgj.json
+SHA1-Digest: lu0WCRixDsaZvSWiSXkjXxY80w4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 0RVQrQFoh01QC4jkUDLwEoHiG1w=
+
+
+Name: assets/sound/button.mp3
+SHA1-Digest: aEGil7MZ26TYxHdNFfGcdhApsEY=
+
+
+Name: assets/0_urge_text_1.conf
+SHA1-Digest: 2S4KDbzJacGDlN7VDVy1pzpMUmI=
+
+
+Name: assets/sangong_res/eff_spine_SG_px.png
+SHA1-Digest: lPqOxmPz+0mUS1nxKgkJ2jpXQdU=
+
+
+Name: res/drawable/com_facebook_auth_dialog_header_background.xml
+SHA1-Digest: JxKVHRuK2wBRgR3l2m9MAGUwlvY=
+
+
+Name: com/android/vending/billing/IInAppBillingService.aidl
+SHA1-Digest: c3Il0B/vW5VI0beo+CYauHzihkA=
+
+
+Name: assets/lobby/word2/dmn_lobby_word_res.png
+SHA1-Digest: M7A68Q48ek1QNJmZ50H1MRQa/KA=
+
+
+Name: assets/lobby/DG_mfjb_res.plist
+SHA1-Digest: t7B23Kh/QmtynVhMrDFCerT+m6s=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: JPdqp3Utz4eGl5Yd4o1J/WbUozw=
+
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: fX5CkS4lDbFJZXPaHpzbSUoOB48=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: ECVPePgK6aQvb2yr7bD3BGNgQxw=
+
+
+Name: assets/texasholdem_res/dzpk_xz_js_sz2.fnt
+SHA1-Digest: av7ACqICGXihg4RZl5VX/40V51o=
+
+
+Name: assets/sangong_res/eff_spine_SG_game_qrpx.atlas
+SHA1-Digest: oCLtB/+PgXdejMTPIlbavL4F6ZM=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_3.fnt
+SHA1-Digest: Adfu6ZzbRsTtGQnIFytl7pNf604=
+
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: B8/7flzGxBms5IrFKYqBUqyLWuI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_txtx.png
+SHA1-Digest: vIY0H/59ugH3RxUtuR0/5eNsifM=
+
+
+Name: assets/sound/dzpk_sound_win.mp3
+SHA1-Digest: /4MBMuTZAwbFf14Hf4S7CnsEEcE=
+
+
+Name: assets/lobby/DG_djfx_res.plist
+SHA1-Digest: DGIl7QRsBqbn8rPCr+o58uEFhg8=
+
+
+Name: assets/hw_common_res/DG_a_game_toplayer.png
+SHA1-Digest: dU8wvSXa/Dsw8Evm4O7ycYxE8RQ=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_rktb.atlas
+SHA1-Digest: SBoPc8cC4yesatxKTPbG/zSdWkE=
+
+
+Name: res/drawable-mdpi-v4/ad_top_bar.png
+SHA1-Digest: v2vVeNnftivUapWuW6cFKOWhNjI=
+
+
+Name: assets/slot_common_res/sound/hkfg_main_linewin03.mp3
+SHA1-Digest: LVQOpfdQe53j3RuyzGPn4OTVaJ0=
+
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: QqqdE/rTOg5lyEsk8eTZtacjeWo=
+
+
+Name: META-INF/com.android.support_support-fragment.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: TE1PNkVCa4/Qe4l6j08Ay94JJoI=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_info.mp3
+SHA1-Digest: pIoGd64f57Edlf+gYqpWXwh14O0=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: fkHHafZ6woOU+hakgiXNdjO+G0o=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocosbuilder/DeprecatedCocosBuilder
+ Class.lua
+SHA1-Digest: fpOI2f+bjsT438EgCNan/PmKoB8=
+
+
+Name: assets/kartu41_res/K41_rw_double_num.fnt
+SHA1-Digest: 0I/0ARv9gdJzMyhxMETAqG30ZdM=
+
+
+Name: assets/slot_common_res/word2/slot_base.txt
+SHA1-Digest: ITQf6t7vfHyDsJef7jPVk3VNTDY=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_7_a.plist
+SHA1-Digest: 3nDNEMrjaOFl4YnzJQi9HAuLX8s=
+
+
+Name: assets/remi_res/word2/remi_word.plist
+SHA1-Digest: 2abNUcSe6h7Wt2swlOpbewaEyu8=
+
+
+Name: assets/rule_capsasusun_1.conf
+SHA1-Digest: j15sCCHj1Qt1FT5IcaPlnQUXtko=
+
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: nGvwsbkq05blQEQqllA2thZwflc=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jsjl.json
+SHA1-Digest: Ase02Nn1efFpqr52hwc5N5+EJYY=
+
+
+Name: assets/sangong_res/chip_num.fnt
+SHA1-Digest: Oyjx640Q+zaBXeRxDxkaqyfcOFg=
+
+
+Name: assets/sound/Dam_capture.mp3
+SHA1-Digest: TuJWORrFLSZZpVsdnNdiUDq55TQ=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: fi31IwJAi4thp/fZndkKv+tuoWM=
+
+
+Name: assets/cangkulan_res/ckl_game_ksdjs_num.png
+SHA1-Digest: TjDZ/FOT1vltrHQbNVtfT7EKSe0=
+
+
+Name: assets/capasasusun_res/word2/capasasusun_word.png
+SHA1-Digest: j29SG20K29SqxNNgNTvw7J0prOI=
+
+
+Name: assets/texasholdem_res/DG_them_task.plist
+SHA1-Digest: lZkIOhJne8Eaz3y+T0I6vQ9EXBU=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005
+ .png
+SHA1-Digest: LpI9vSEdW/n3iNzTIDS8ecyd2BM=
+
+
+Name: assets/draughts_res/fnt/Dam_dw_icon_zy_num.png
+SHA1-Digest: m6aS8+Hx72lupFjoAksI4zWAorE=
+
+
+Name: assets/luaSrc/luaCocos/cocos/framework/extends/MenuEx.lua
+SHA1-Digest: aHcwjUKNbVhCriDtF/BhNMiAKgw=
+
+
+Name: assets/cangkulan_res/game_text_17_0.conf
+SHA1-Digest: 9LyvG1zNIHQe8rSbQ59jymHOt78=
+
+
+Name: assets/sangong_res/SanGong_setup.png
+SHA1-Digest: RybGTfKrmIuKIjIDbqE6cZldm6A=
+
+
+Name: assets/sound/qq_all_in.mp3
+SHA1-Digest: StgvwDXMUNL4i6rAJU4OmOxj6mg=
+
+
+Name: assets/sound/dzpk_game_result_selectedcard.mp3
+SHA1-Digest: LzZBDYZ0fhWAai+I50bsbl3RkEw=
+
+
+Name: assets/slot_panda_res/panda_msg_box.plist
+SHA1-Digest: P6dzG+9VEkz/fGUYfYg22JcVHA0=
+
+
+Name: assets/remi_res/remi_ui.png
+SHA1-Digest: a2K/qDv/Kb/a5QQQ2lKmle8G/9M=
+
+
+Name: assets/remi_res/remi_userinfo.plist
+SHA1-Digest: 8yW1DrZrb1d8fLHBNwY8DRb2wW8=
+
+
+Name: assets/slot_common_res/slot_main_btn_bet2_mf_num.fnt
+SHA1-Digest: Yt0loeeTp+S+Q24qPoIKfUyhjsc=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_num.fnt
+SHA1-Digest: XTXnQjILo00STEELOHgJFou9Z4w=
+
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: /ATvzbtCOmzsuzCrQgdsnyY0I9I=
+
+
+Name: assets/capasasusun_res/DG_ssz_jbp_bg_num.fnt
+SHA1-Digest: FZUGab+p8ouunUfyDu3BVv2IHcQ=
+
+
+Name: assets/lobby/word2/lobby_showoff_word_res.plist
+SHA1-Digest: p4hiMHn5I4oMZTwr3T2JlZ4l544=
+
+
+Name: assets/sound/remi_moveHight.mp3
+SHA1-Digest: CUBzV+HQccXNxmbK4xJkvWMu200=
+
+
+Name: assets/fruitslot_res/eff_spine_Higgsdomino_sgj.png
+SHA1-Digest: mIkUZwm8keANxY30LMUmlxbpyws=
+
+
+Name: assets/hw_common_res/eff_spine_yddmn_hddj.json
+SHA1-Digest: gs17Ck5ePc6A0NNwBoql7QK2lm0=
+
+
+Name: assets/capasasusun_res/ssz_js_reduce_num.png
+SHA1-Digest: KaAS5xLJmDiu+Xk/j3yGoPyB5Gs=
+
+
+Name: assets/lobby/DG_yqyl_res.plist
+SHA1-Digest: rSM0XyebshuujY/99WH9fxqL8gg=
+
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: chwh8cp/iajY5r0dEv3NaJiyCTg=
+
+
+Name: assets/lobby/word2/lobby_recall_word_res.png
+SHA1-Digest: KpA1QduM57z9WU5JKhYCSzKlcW4=
+
+
+Name: assets/luaSrc/luaCocos/cocos/ui/DeprecatedUIEnum.lua
+SHA1-Digest: GbWUQcVQHEvFXEEkrx5B+ztxHiQ=
+
+
+Name: assets/sound/girls_2/pass.mp3
+SHA1-Digest: nHHc/mOMJlBRqvc5Vrzg8Es+FS8=
+
+
+Name: assets/draughts_res/Dam_game_bg.jpg
+SHA1-Digest: 0QT6JJHAZw4JUrfke2wopek4lbE=
+
+
+Name: assets/hw_common_res/dmn_touxiang_bk.png
+SHA1-Digest: MH+x9j83t27Z/pn2KkSdsCje4ac=
+
+
+Name: assets/slot_common_res/slot_base_bull_ui.plist
+SHA1-Digest: fqoy1oHRHxp/QJFWM7RLApBbLe4=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_banker_0.png
+SHA1-Digest: g7sSWIBe/5KPvzFVobanC4KF3Ys=
+
+
+Name: assets/game_shop_0.conf
+SHA1-Digest: dYuS4cHxp9WvSAAcr70W9PaWAMg=
+
+
+Name: assets/lobby/font_num/DG_hgjl_qr_jl_num.fnt
+SHA1-Digest: 9/xPzGPBz7sXwRGnzuXRlg1CxQw=
+
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: aNChK3Z5iNzvJ+qUQ3+OI+HRSrM=
+
+
+Name: assets/lobby/font_num/DG_xf_fjxzs_num.png
+SHA1-Digest: WVOYDMiVlZ/xjms1M3BwkldaWl0=
+
+
+Name: assets/remi_res/remi_ui.plist
+SHA1-Digest: JU209tjucm3W1Vh+JIPQpIuqdLI=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: Vwg9DnRYcLothTH8G1XotfneeGk=
+
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: TsN6Zf/2no3/c2QblvIgbaKkB+Q=
+
+
+Name: assets/lobby/word2/lobby_hy_word_res.plist
+SHA1-Digest: mIsr7wFZWUC2e2d7GsLezWoGv5c=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_dt_icon.json
+SHA1-Digest: UXOl5w9B3c7EqKSj+04uC04Hbns=
+
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA1-Digest: rSwsu8lyFJ2T0/pa5u4O8/J64aI=
+
+
+Name: assets/texasholdem_res/eff_spine_dz_jsjl.atlas
+SHA1-Digest: Rjo6AO0QGNCQTnbeka8kvFOh3FY=
+
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: EQjIKSej52odQmpeUEDqodObhcw=
+
+
+Name: assets/cangkulan_res/ckl_main_ui.plist
+SHA1-Digest: fV3x0rFkQDgHYAP8e2SKB0EGVmg=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_txtx.atlas
+SHA1-Digest: ZD1XaMBsHfF1c0WxdsDeXi5sPyU=
+
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: df6KGqnFZh9CnfX7GbDSUxhdlt4=
+
+
+Name: assets/hw_common_res/DG_qiuqiu_jbp_bg_num.png
+SHA1-Digest: o3JSSfFR/S/hsX+ELFqEtEAgPTg=
+
+
+Name: assets/slot_hkfg_res/slot_msg_box.plist
+SHA1-Digest: mfinFuoLSocGZJW/DTk/sa2ebwk=
+
+
+Name: assets/lobby/DG_other_cz_res.png
+SHA1-Digest: VJKpdulF7Pyp0gzPOHnMhHoPsXg=
+
+
+Name: assets/sound/ani_labber.mp3
+SHA1-Digest: UQ/zN/SmKFEXTpjgDFoL8dlDanU=
+
+
+Name: assets/slot_common_res/sound/hkfg_freegame_result.mp3
+SHA1-Digest: Ce3ozP1LQHAjRhX8klVDxZgH0es=
+
+
+Name: assets/sangong_res/word2/SanGong_word2.png
+SHA1-Digest: eyus0lya4wa65PW4dzO+qg96ShI=
+
+
+Name: assets/cangkulan_res/ckl_game_ui.plist
+SHA1-Digest: lzGwWwJqt3lO2RLwqKDSX1mGR2w=
+
+
+Name: res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: sC70NtI1TOrQ25tTttVbTOvGpzY=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_logo.png
+SHA1-Digest: baL5sRdrwGALUj+BsJf6WoIsetQ=
+
+
+Name: assets/lobby/DG_Send_prop_res.plist
+SHA1-Digest: VtRBkWCAakIpNhfU8XnZIS6oKd4=
+
+
+Name: assets/sangong_res/SG_game_yzdjs_num.png
+SHA1-Digest: V/9I47r6EUUJTvNayy4m9Cxo9AQ=
+
+
+Name: res/drawable/com_facebook_button_send_background.xml
+SHA1-Digest: V83Zvkv1tqSYbh05nCg+UgyHIa0=
+
+
+Name: assets/fruitslot_res/CS_num_01.fnt
+SHA1-Digest: oXcP3GEyx0f2efZ8wS3q8FOSAVk=
+
+
+Name: assets/hw_common_res/DG_game_btn_mg_num.fnt
+SHA1-Digest: K+ouRV3AxhhZ92m92Uh8SBSq7H0=
+
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: Wmk3nPuJIfCUcnBWpNht1dUPWu4=
+
+
+Name: assets/rule_jlbet_2.conf
+SHA1-Digest: GkNCBA8THq7CMEZgCoI2L+wcAhs=
+
+
+Name: assets/cangkulan_res/ckl_sf_lose_num.png
+SHA1-Digest: POBxWgGYsl5g51k7G4wPkQB+fsk=
+
+
+Name: assets/lobby/DG_ludo_room_res.png
+SHA1-Digest: kdO+481q8xHQFSQ93m7+3jxc9b4=
+
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: DA+8uKYp0oG7fqW8KlROM93mcqQ=
+
+
+Name: assets/qiuqiu_res/game_text_12_1.conf
+SHA1-Digest: S/1ftcrxkibFxt1hHDm0asYq1dc=
+
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: nQwpP5iPxgHyemkkTVZXsf8xvV4=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jbp_num.png
+SHA1-Digest: z1EhhHIJx3ORnAI2OW25yU0k7dQ=
+
+
+Name: assets/texasholdem_res/dzpk_rw_sz.png
+SHA1-Digest: RpQEHlzqSeOhETCd+7jHjwga47c=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_2_b.plist
+SHA1-Digest: 6YsH2K11IumFkKEmX7M33Z78dVk=
+
+
+Name: assets/domino_res/eff_paixing.atlas
+SHA1-Digest: QjR+zetKGlHcVuVFPMbw13Drekc=
+
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: pCO6WORso1VtaaFbD0NhhBnMCSs=
+
+
+Name: assets/cangkulan_res/ckl_assign.png
+SHA1-Digest: DsyJzKJAD/6vgPYj9RLE/MXgEOA=
+
+
+Name: assets/lobby/DG_hy_bg_new.png
+SHA1-Digest: vlQGXo5NfXZvgMq5c8Dg6WhCpJc=
+
+
+Name: assets/lobby/eff_spine/eff_spine_Higgsdominoo_dt_rktb.json
+SHA1-Digest: 8Am08Fmlj74xfXxIQ022g+LCprw=
+
+
+Name: res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: GoamiitvVxWXKYojsY2QGFoZ43I=
+
+
+Name: assets/remi_res/word2/remi_word.png
+SHA1-Digest: qc1mzrgrrkB1OnPpbXsJiMUIqis=
+
+
+Name: assets/lobby/DG_game_tips_res.plist
+SHA1-Digest: YgaAS6A5pOrMb5F4MnoQZrK5FJA=
+
+
+Name: assets/hw_common_res/ckk_game_word.png
+SHA1-Digest: 9MALhxQ4bzc5ZCyLx2TxXxGi+D4=
+
+
+Name: assets/kartu41_res/word2/K41_word.png
+SHA1-Digest: P4HVf5veXIyHS+mFN7eXVYp2iW4=
+
+
+Name: assets/slot_common_res/sound/hkfg_WheelRoll.mp3
+SHA1-Digest: J9eMQHi0m2V2IJeKDx5kK6GCano=
+
+
+Name: assets/draughts_res/fnt/Dam_result_jdt_jia_num.fnt
+SHA1-Digest: 5wzUfv4UDD466/jYJqs4TW6GT18=
+
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: EW/WpNliEy+bQjDuiw+U1mX+yZk=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: uWfk23bm97GtczH2YvAwWP/eNOE=
+
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: hs63LPDyF/K2Ip2jNFnSn+7tDIo=
+
+
+Name: assets/slot_common_res/sound/hkfg_btn_plusbet.mp3
+SHA1-Digest: A9BQZc7+JqjwGLGx8hg0XdIVcjk=
+
+
+Name: assets/sound/dzpk_bk_1.mp3
+SHA1-Digest: Atnf5YXJfxUTXcxUz4pjqQYKvGw=
+
+
+Name: assets/sound/dzpk_game_begin.mp3
+SHA1-Digest: no5fmrIFSzw/Ca8Kd1U2dAlIMsU=
+
+
+Name: assets/domino_res/DG_dj_bj_num.fnt
+SHA1-Digest: BjxzxowsO7sjy6ikCUvZEfX1iwo=
+
+
+Name: assets/slot_common_res/slot_base_top_ui.png
+SHA1-Digest: rQfgZ2bBWTNNoZkw0Z494eBp/3o=
+
+
+Name: assets/domino_res/eff_spine_yddmn_jqrtg.png
+SHA1-Digest: xcBpFJ883+SCPm7vPQUpt++Qhto=
+
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: Y1uIPccyp02mGNZ0WASMkXlzYOg=
+
+
+Name: assets/qiuqiu_res/eff_spine_qiuqiu_game.atlas
+SHA1-Digest: 1RM1TMHFlQYgkmxV1RuolVkx7Q8=
+
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: NhH/qNsjwbuGc/0xqPrgqFgo+9o=
+
+
+Name: assets/sound/ani_beer.mp3
+SHA1-Digest: x4iYmmeFUTZPwJ+D+Qa9JHZQTiE=
+
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA1-Digest: pf8Tt2oAabuOsAiSswddcfLUQAQ=
+
+
+Name: assets/texasholdem_res/player/jjdz_player_7_b.plist
+SHA1-Digest: VyuXMtJrKFWKlkJ195YCVjJE0Vo=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocos2d/Opengl.lua
+SHA1-Digest: JUO93jRN9rLACFFn5vz2l+TftzY=
+
+
+Name: assets/draughts_res/eff_spine_gjtq_js.json
+SHA1-Digest: S+u1Nl/rDAgGOWSd/D89oDIqBcQ=
+
+
+Name: assets/slot_common_res/word0/slot_base_message.conf
+SHA1-Digest: rDwMCQqVVI7Dxg0cFO5YCD0z7OE=
+
+
+Name: assets/lobby/DG_recall_czlb_res.plist
+SHA1-Digest: 4EcL5uwdwgN1TN/kkpaaf9QfBzQ=
+
+
+Name: assets/texasholdem_res/word2/dzpk_px_gz.png
+SHA1-Digest: VpFAnDcRiiu/9UbNPex0F8eOtng=
+
+
+Name: META-INF/android.arch.lifecycle_runtime.version
+SHA1-Digest: j7xUmDWZKEHL70IyodW4Z4DTrVs=
+
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: +TY+I9fpZ38ftBWokyGPSIm59vQ=
+
+
+Name: assets/slot_common_res/Slot_rank_win_num_me.fnt
+SHA1-Digest: cjdC8lDr9YHACmgY0lJYxtr38Zk=
+
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA1-Digest: RhYoJkCVIv9p7S1b2eRiMZTVoHE=
+
+
+Name: assets/sound/ssz_cardType_1.mp3
+SHA1-Digest: +iw8/vgWv3kRtOj0R0H9pLzMHn0=
+
+
+Name: assets/slot_dfdc_res/word2/dfdc_word_ui.png
+SHA1-Digest: 2ELjf4oujGCtmnaqiD1Yu0r2oFE=
+
+
+Name: assets/slot_dfdc_res/dfdc_jbp_num.fnt
+SHA1-Digest: RH7RmjI6FTq4pmg1Dmicw4s0Agw=
+
+
+Name: assets/kartu41_res/K41_game_bg.jpg
+SHA1-Digest: 4Dw2FFDXxuRy2r3aNwaeG6a+gpo=
+
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: VzgmMujgGVTkhZBrXgJyrBpI1fs=
+
+
+Name: assets/kartu41_res/K41_game_pd_num.fnt
+SHA1-Digest: QTfzPZEy11o8IWpEAdCghINbXEQ=
+
+
+Name: assets/domino_res/skeleton.json
+SHA1-Digest: Atcum23YRK65cB1Um/wwc2rawUE=
+
+
+Name: assets/slot_common_res/sound/hkfg_Wheel_up03.mp3
+SHA1-Digest: GJYQuGxKv9cKCW8W/fv/Gvb7UPA=
+
+
+Name: META-INF/com.android.support_support-compat.version
+SHA1-Digest: Mq0PzEhbUZv+d6bkc7sDxo5M5+g=
+
+
+Name: assets/rule_qiuqiu_0.conf
+SHA1-Digest: nPh/07C5jgxGVTn49heEsBAjvhk=
+
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA1-Digest: gnvxvOMtt7znWOSOzt8UhAE9IrU=
+
+
+Name: assets/hw_common_res/word2/chess_game_word.png
+SHA1-Digest: 4JI8qS/RawrSlucU8JGdCklQ+jY=
+
+
+Name: assets/lobby/DG_PropImg_src.plist
+SHA1-Digest: 1NgQE4Kr32qgi6d1gunvG8RBq0I=
+
+
+Name: assets/slot_dfdc_res/word1/dfdc.txt
+SHA1-Digest: WdHu2ba4rL7cbrp957iGW4O7/6Y=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_freespins.atlas
+SHA1-Digest: uNxDltReNvaYeUu4VlRe9WkxGGY=
+
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: wig1WeXBywk7Az7b7rsGHNY3W+0=
+
+
+Name: res/drawable-mdpi-v4/close_small_web2.png
+SHA1-Digest: epiAjV3oURjYunc3zFY2wUwFKVQ=
+
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: nmfLTuxArOuuvGqUVEGPkp558Wg=
+
+
+Name: assets/sangong_res/SanGong_res_ui.plist
+SHA1-Digest: yDYjB+RoPR0SG0kgxjIAHcww3lY=
+
+
+Name: assets/slot_dfdc_res/eff_spine_slot_dfdc_jackpot.png
+SHA1-Digest: /ShAPzll3BFQaqxvO85BHL+uwXo=
+
+
+Name: assets/hw_common_res/word2/chess_game_word.plist
+SHA1-Digest: NvK+4Q4rPXmfYETgpQ6ysY+5lPk=
+
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: cGHh4UvaT4+DpSX2tRF0+f5QOWY=
+
+
+Name: assets/hw_common_res/example_Clip.fsh
+SHA1-Digest: /QtpVRz8VZ7XphDRWxZZpfFbGrI=
+
+
+Name: assets/sound/ssz_saose.mp3
+SHA1-Digest: m9o6U1IhbCXYtdvNotdh8gFCU9g=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: zI176QlarHgsgLRcKJcYZrGV9ps=
+
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: N+oRdWM4aEr7cCiPhnfkKOx5fCA=
+
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: 0ZqXxaSPdx/iM1JIRZ2NCJNbgjw=
+
+
+Name: assets/kartu41_res/K41_game_yzdjs_num.png
+SHA1-Digest: uxmIu4spLCxrsUZNjRUf653TAC8=
+
+
+Name: assets/lobby/font_num/DG_zjfx_num.fnt
+SHA1-Digest: 00ZlZLU35DvfIL94EN26c68MEp0=
+
+
+Name: assets/lobby/DG_xf_bg_game_22.jpg
+SHA1-Digest: wqkDSVUAlbFqAHz2rXTtww0/qf0=
+
+
+Name: assets/slot_dfdc_res/dfdc_rule_ui.plist
+SHA1-Digest: Fdl/LQ/dYOSgCKwk+X1fMBsATM8=
+
+
+Name: assets/hw_common_res/A_Game_k41_res.png
+SHA1-Digest: vl3zeD5oRWndz7NJebfSjm4vr6A=
+
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.
+ png
+SHA1-Digest: svcMy3RUKynkEHwirQYPCICt1tI=
+
+
+Name: assets/luaSrc/luaCocos/cocos/cocostudio/CocoStudio.lua
+SHA1-Digest: qALSTdwBLJ/ikJWppafIQcWAHC8=
+
+
+Name: assets/slot_csfff_res/word2/csfff_base_word_ui.png
+SHA1-Digest: DgFwfmFj7rwyy0k5nMJn3Uhi+aU=
+
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: zRSBbw7N7+efLbwC4Ujd8EBJYbU=
+
+
+Name: assets/lobby/font_num/DG_deck_jb_num.fnt
+SHA1-Digest: /9ncrwIuw+GTgkWSq6u+dKJH9cc=
+
+
+Name: assets/domino_res/skeleton.png
+SHA1-Digest: xpB8VnTdWchmkl5ShL2nnGvMAmg=
+
+
+Name: assets/slot_common_res/Slot_lobby_lackpot_num.png
+SHA1-Digest: +pwMzr+POw2Fk1MV/ApxbvQOM9Q=
+
+
+Name: assets/sound/ani_slipper.mp3
+SHA1-Digest: 8v3grt4NBE0yk3oJ0kfKnQPPzhg=
+
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+
+Name: assets/sound/dzpk_game_deal.mp3
+SHA1-Digest: iCpwUsfh6cSDL7qicHbLTLQRs38=
+
+
+Name: assets/hw_common_res/word2/k41_game_word.png
+SHA1-Digest: RRzE5GHLJ5gJggjg4mgC1K7ynNs=
+
+
+Name: assets/texasholdem_res/DG_them_task.png
+SHA1-Digest: uh03Pkb3mDZgJQY4RYsjbUZK6Tc=
+
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: n8bGnWVOvSViFUe/ZQjgmSsaSnM=
+
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 1Sq+VOFFXYaggLRmUPg5CpP+b1M=
+
+
+Name: assets/1_urge_text_2.conf
+SHA1-Digest: O1oO412di6HfWTg23xbTI1Bw2vs=
+
+
+Name: assets/domino_res/DG_game_tx_time_num.fnt
+SHA1-Digest: Zu/5+g2/wqA5X9wn6l6QFlwG/LI=
+
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: AYjpzvGJSFwQvTJOH17aytLzjws=
+
+
+Name: assets/lobby/font_num/DG_deck_mdj_name.fnt
+SHA1-Digest: NcYynHXC1qDsTfFhRqLc0pMJG2I=
+
+
+Name: assets/texasholdem_res/dzpk_time_sz.fnt
+SHA1-Digest: k4EHsBlfTBYxKn18dyUrzz9wqgI=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_sc.atlas
+SHA1-Digest: KXKMaU2DRgKwsW/nndIQhG4iHCc=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_ppds_num2.fnt
+SHA1-Digest: ngYdgyTSEEAGzzxA2FbZErUHxRY=
+
+
+Name: assets/sound/Dam_match_roll.mp3
+SHA1-Digest: Z/ZIM8tsJOcJ4JaUFUtU/XS69qY=
+
+
+Name: assets/lobby/font_num/DG_vip_jdt_num.png
+SHA1-Digest: u9Ti9Z0zomEsRHzjNpJskeM4r0g=
+
+
+Name: assets/remi_res/remi_sf_winner_icon_num.png
+SHA1-Digest: Ccy5uvA3/ye1lZE8ShJNqEe4tTM=
+
+
+Name: assets/texasholdem_res/game_text_13_1.conf
+SHA1-Digest: oKVSGaKbaG0nWPGZtJzlDrsIZ1k=
+
+
+Name: assets/lobby/font_num/DG_lb_info.fnt
+SHA1-Digest: YUlSry+RXU341DLeRsvwATgOy28=
+
+
+Name: assets/lobby/DG_room_res.png
+SHA1-Digest: Hrp4PUjfHn0wQ9TsicK3jPDP6sc=
+
+
+Name: assets/slot_wlzb_res/word1/wlzb.txt
+SHA1-Digest: ATMW0n90uLDZfm3S28m6bXIdxUQ=
+
+
+Name: assets/draughts_res/Dam_ludo_tx_move.plist
+SHA1-Digest: dxqyyM80BksEdIZvexH1dsM5yBo=
+
+
+Name: assets/qiuqiu_res/DG_qiuqiu_jsjl_num.png
+SHA1-Digest: 8/45RzV5FKBjcor3rywDsHKyVTY=
+
+
+Name: assets/lobby/eff_spine/eff_spine_yddmn_qd.json
+SHA1-Digest: 5+QzVmCvaZ+DvJncTdsnSOUlEYs=
+
+
+Name: assets/remi_res/remi_zyy_sz_jb.png
+SHA1-Digest: Z1R39XA0Uo2ofAlzlgcTahRR0As=
+
+
+Name: assets/kartu41_res/game_text_21_2.conf
+SHA1-Digest: T78R+VdGLv+HA65v+ZTOUieZ3vw=
+
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: B1tnqh8NAGA6S44FXT1ASzPD5dA=
+
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: sCd/8f+M64k16WLE0LI5oJNkjJQ=
+
+
+Name: assets/lobby/font_num/DG_lb_shop_num1.png
+SHA1-Digest: v/bnYdhMplrC7boHqRQ70w9S3qw=
+
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+
+Name: assets/capasasusun_res/capasasusun_task.png
+SHA1-Digest: 8LTTOooh2iXCTfhK72tQj2G9siE=
+
+
+Name: assets/texasholdem_res/DG_them_btn.plist
+SHA1-Digest: OOTvg8jfKcgIH/Nq3w8W4f6237M=
+
+
